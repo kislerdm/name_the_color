@@ -47,7 +47,7 @@ body <- dashboardBody(
                        )
                    ),
                    box(background = NULL, solidHeader = F, title = 'About', collapsible = T, collapsed = T, width = 12, align = "center",
-                       tags$div(id = 'about', includeMarkdown('README.md'), align = 'left')
+                       tags$div(id = 'about', includeMarkdown('about.md'), align = 'left')
                        )
                )
              ),

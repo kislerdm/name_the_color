@@ -1,6 +1,8 @@
 
 # [Name this Color - Colors Definition Shiny App](https://www.dkisler.de/projects/shiny/name_the_color/)
 
+![App](https://github.com/kislerdm/name_the_color/blob/master/name_this_color.png)
+
 The app was inspired by my wife when the other day she named a color I had no idea existed :-) 
 
 Even though, there is a nice [page](http://chir.ag/projects/name-that-color) and a [js library](http://chir.ag/projects/ntc/) by Chirag Mehta, I as an *R fan* decided to create a [shiny](http://shiny.rstudio.com/) [app](https://www.dkisler.de/projects/shiny/name_the_color/) to help myself and the others (especially to the men, it seems that we guys are '*color name blind*' :-) ) in identifying a color by its name and in identifying a color name by its [color code (HEX, or RGB)](https://en.wikipedia.org/wiki/Web_colors).

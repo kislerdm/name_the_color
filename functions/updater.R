@@ -19,10 +19,16 @@ updater <- function(session, input, ref, selector = 'palette') {
     hex <- input$col_palette
     if(selector == 'hex')
       hex <- input$hex_in
-    update_rgb_slider(session, hex2rgb(hex))
-    #update_col_name(session, hex, ref)
-    updateTextInput(session, inputId = 'hex_in', value = hex)
-    updateColourInput(session, inputId = 'col_palette', value = hex)
+    if (( grepl('#', hex) & nchar(hex, type = 'bytes') > 6 ) |
+        ( !grepl('#', hex) & nchar(hex, type = 'bytes') > 5 ) ) {
+      rgb_out <- hex2rgb(hex)
+      if (!is.null(rgb_out)) {
+        update_rgb_slider(session, rgb_out)
+        #update_col_name(session, hex, ref)
+        updateTextInput(session, inputId = 'hex_in', value = hex)
+        updateColourInput(session, inputId = 'col_palette', value = hex)
+      }
+    }
   } else if (selector == 'rgb') {
     hex <- rgb2hex(input$r_in, input$g_in, input$b_in)
     # update_col_name(session, hex, ref)
@@ -30,7 +36,7 @@ updater <- function(session, input, ref, selector = 'palette') {
     updateColourInput(session, inputId = 'col_palette', value = hex)
   } else if (selector == 'name_known') {
     # color_found <- getColorbyName(input$col_name_known, ref)
-    color_found <- ref[ref$color_name == input$col_name_known]
+    color_found <- ref[ref$color_name == input$col_name_known] %>% .[1]
     if (!is.null(color_found)) {
       updateTextInput(session, inputId = 'hex_in', value = color_found$hex)
       updateColourInput(session, inputId = 'col_palette', value = color_found$hex)

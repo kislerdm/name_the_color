@@ -22,6 +22,9 @@ CSS */
   height: 80px;
 }
 
+#col_palette_sel {
+  font-size: 20px;
+}
 /* hex in/out field */
 #hex_in.form-control {
   height: 40px;

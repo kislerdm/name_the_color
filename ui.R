@@ -46,7 +46,9 @@ body <- dashboardBody(
                                        sliderInput('b_in', label = NULL, min = 0, max = 255, step = 1, ticks = F, value = 255, pre = 'B = ', animate = T))
                        )
                    ),
-                   box(background = NULL, solidHeader = F, title = 'About', collapsible = T, collapsed = T, width = 12, align = "center")
+                   box(background = NULL, solidHeader = F, title = 'About', collapsible = T, collapsed = T, width = 12, align = "center",
+                       tags$div(id = 'about', includeMarkdown('README.md'), align = 'left')
+                       )
                )
              ),
              column(width = 12, tags$div(HTML(paste0(format(Sys.Date(), '%Y'), " © <a href='https://www.dkisler.de' target='blank_'>Dmitry Kisler</a>",

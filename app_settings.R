@@ -11,6 +11,7 @@ suppressPackageStartupMessages({
   library(colourpicker, verbose = F, warn.conflicts = F, quietly = T)
   library(jsonlite, verbose = F, warn.conflicts = F, quietly = T)
   library(RPostgreSQL, verbose = F, warn.conflicts = F, quietly = T)
+  library(rmarkdown, verbose = F, warn.conflicts = F, quietly = T)
 })
 
 ## DB connection

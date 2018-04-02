@@ -9,7 +9,7 @@ server <- function(input, output, session) {
   #read the colors data
   dat <<- getDBConnection(user = credentials$user, pass = credentials$pass) %>% getDBQuery(., q_fetch_all_colors)
   #update known colors dropdown menue
-  updateSelectInput(session, 'col_name', choices = dat$color_name, selected = 'White')
+  updateSelectInput(session, 'col_name', choices = dat$color_name, selected = sample(dat$color_name, 1))
   #update selectors on the color name input
   observeEvent(input$col_name, updater(session, input, ref = dat, selector = 'color_name'))
   # #output selected palette color

@@ -23,7 +23,7 @@ CSS */
 }
 
 #col_palette_sel {
-  font-size: 20px;
+  font-size: 18px;
 }
 /* hex in/out field */
 #hex_in.form-control {
@@ -38,8 +38,25 @@ CSS */
   text-align: center;
 }
 
+/* slider color */
+
+.irs-bar {
+  border-top: 1px solid #009C88;
+  border-bottom: 1px solid #009C88;
+  background: #009C88;
+}
+
+.irs-bar-edge {
+  border: 1px solid #009C88;
+  background: #009C88;
+}
+
+.irs-from, .irs-to, .irs-single {
+  background: #009C88;
+}
+
 #final_text {
-    text-align: center;
+  text-align: center;
 }
 
 /* boxes headers */
@@ -48,6 +65,13 @@ CSS */
 }
 .skin-blue .main-header .navbar:hover {
   background-color: #009C88;
+}
+
+/* Add color popup */
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
+  background-color: #009C88;
+  border-top-color: #009C88;
 }
 
 div.box-header {

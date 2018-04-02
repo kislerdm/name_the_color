@@ -2,1404 +2,38 @@ color_name,hex,r,g,b
 Abbey,#4c4f56,76,79,86
 Acadia,#1b1404,27,20,4
 Acapulco,#7cb0a1,124,176,161
+Acid green,#B0BF1A,176,191,26
 Acorn,#6a5d1b,106,93,27
+Aero,#7CB9E8,124,185,232
+Aero blue,#C9FFE5,201,255,229
 Aero Blue,#c9ffe5,201,255,229
 Affair,#714693,113,70,147
 Afghan Tan,#86560a,134,86,10
-Akaroa,#d4c4a8,212,196,168
-Alabaster,#ffffff,255,255,255
-Albescent White,#f5e9d3,245,233,211
-Alert Tan,#9b4703,155,71,3
-Allports,#0076a3,0,118,163
-Almond Frost,#907b71,144,123,113
-Alpine,#af8f2c,175,143,44
-Alto,#dbdbdb,219,219,219
-Aluminium,#a9acb6,169,172,182
-Amazon,#3b7a57,59,122,87
-Americano,#87756e,135,117,110
-Amethyst Smoke,#a397b4,163,151,180
-Amour,#f9eaf3,249,234,243
-Amulet,#7b9f80,123,159,128
-Anakiwa,#9de5ff,157,229,255
-Antique Brass,#704a07,112,74,7
-Anzac,#e0b646,224,182,70
-Apache,#dfbe6f,223,190,111
-Apple,#4fa83d,79,168,61
-Apple Blossom,#af4d43,175,77,67
-Apple Green,#e2f3ec,226,243,236
-Apricot,#eb9373,235,147,115
-Apricot White,#fffeec,255,254,236
-Aqua,#a1dad7,161,218,215
-Aqua Haze,#edf5f5,237,245,245
-Aqua Spring,#eaf9f5,234,249,245
-Aqua Squeeze,#e8f5f2,232,245,242
-Aquamarine,#014b43,1,75,67
-Arapawa,#110c6c,17,12,108
-Armadillo,#433e37,67,62,55
-Arrowtown,#948771,148,135,113
-Ash,#c6c3b5,198,195,181
-Ash Brown,#2e1905,46,25,5
-Asphalt,#130a06,19,10,6
-Astra,#faeab9,250,234,185
-Astral,#327da0,50,125,160
-Astronaut,#283a77,40,58,119
-Astronaut Blue,#013e62,1,62,98
-Athens Grey,#eef0f3,238,240,243
-Aths Special,#ecebce,236,235,206
-Atlantis,#97cd2d,151,205,45
-Atoll,#0a6f75,10,111,117
-Atomic,#314459,49,68,89
-Au Chico,#97605d,151,96,93
-Aubergine,#3b0910,59,9,16
-Australian Mint,#f5ffbe,245,255,190
-Avocado,#888d65,136,141,101
-Axolotl,#4e6649,78,102,73
-Azalea,#f7c8da,247,200,218
-Aztec,#0d1c19,13,28,25
-Azure,#315ba1,49,91,161
-Bahama Blue,#026395,2,99,149
-Bahia,#a5cb0c,165,203,12
-Baja White,#fff8d1,255,248,209
-Bali Hai,#859faf,133,159,175
-Baltic Sea,#2a2630,42,38,48
-Bamboo,#da6304,218,99,4
-Bandicoot,#858470,133,132,112
-Banjul,#130a06,19,10,6
-Barberry,#ded717,222,215,23
-Barley Corn,#a68b5b,166,139,91
-Barley White,#fff4ce,255,244,206
-Barossa,#44012d,68,1,45
-Bastille,#292130,41,33,48
-Battleship Grey,#828f72,130,143,114
-Bay Leaf,#7da98d,125,169,141
-Bay of Many,#273a81,39,58,129
-Bazaar,#98777b,152,119,123
-Bean  ,#3d0c02,61,12,2
-Beauty Bush,#eec1be,238,193,190
-Beeswax,#fef2c7,254,242,199
-Bermuda,#7dd8c6,125,216,198
-Bermuda Grey,#6b8ba2,107,139,162
-Beryl Green,#dee5c0,222,229,192
-Bianca,#fcfbf3,252,251,243
-Big Stone,#162a40,22,42,64
-Bilbao,#327c14,50,124,20
-Biloba Flower,#b2a1ea,178,161,234
-Birch,#373021,55,48,33
-Bird Flower,#d4cd16,212,205,22
-Biscay,#1b3162,27,49,98
-Bismark,#497183,73,113,131
-Bison Hide,#c1b7a4,193,183,164
-Bitter,#868974,134,137,116
-Bitter Lemon,#cae00d,202,224,13
-Bizarre,#eededa,238,222,218
-Black Bean,#081910,8,25,16
-Black Forest,#0b1304,11,19,4
-Black Haze,#f6f7f7,246,247,247
-Black Magic,#251706,37,23,6
-Black Marlin,#3e2c1c,62,44,28
-Black Pearl,#041322,4,19,34
-Black Pepper,#0e0e18,14,14,24
-Black Rock,#0d0332,13,3,50
-Black Rose,#67032d,103,3,45
-Black Russian,#0a001c,10,0,28
-Black Squeeze,#f2fafa,242,250,250
-Black White,#fffef6,255,254,246
-Blackberry,#4d0135,77,1,53
-Blackcurrant,#32293a,50,41,58
-Blackwood,#261105,38,17,5
-Blanc,#f5e9d3,245,233,211
-Bleach White,#fef3d8,254,243,216
-Bleached Cedar,#2c2133,44,33,51
-Blossom,#dcb4bc,220,180,188
-Blue Bark,#041322,4,19,34
-Blue Bayoux,#496679,73,102,121
-Blue Bell,#220878,34,8,120
-Blue Chalk,#f1e9ff,241,233,255
-Blue Charcoal,#010d1a,1,13,26
-Blue Chill,#0c8990,12,137,144
-Blue Diamond,#380474,56,4,116
-Blue Dianne,#204852,32,72,82
-Blue Gem,#2c0e8c,44,14,140
-Blue Haze,#bfbed8,191,190,216
-Blue Lagoon,#017987,1,121,135
-Blue Marguerite,#7666c6,118,102,198
-Blue Romance,#d2f6de,210,246,222
-Blue Smoke,#748881,116,136,129
-Blue Stone,#016162,1,97,98
-Blue Whale,#042e4c,4,46,76
-Blue Zodiac,#13264d,19,38,77
-Blumine,#18587a,24,88,122
-Blush,#b44668,180,70,104
-Bokara Grey,#1c1208,28,18,8
-Bombay,#afb1b8,175,177,184
-Bon Jour,#e5e0e1,229,224,225
-Bondi Blue,#02478e,2,71,142
-Bone,#e4d1c0,228,209,192
-Bordeaux,#5c0120,92,1,32
-Bossanova,#4e2a5a,78,42,90
-Boston Blue,#3b91b4,59,145,180
-Botticelli,#c7dde5,199,221,229
-Bottle Green,#093624,9,54,36
-Boulder,#7a7a7a,122,122,122
-Bouquet,#ae809e,174,128,158
-Bourbon,#ba6f1e,186,111,30
-Bracken,#4a2a04,74,42,4
-Brandy,#dec196,222,193,150
-Brandy Punch,#cd8429,205,132,41
-Brandy Rose,#bb8983,187,137,131
-Brazil,#886221,136,98,33
-Breaker Bay,#5da19f,93,161,159
-Bridal Heath,#fffaf4,255,250,244
-Bridesmaid,#fef0ec,254,240,236
-Bright Grey,#3c4151,60,65,81
-Bright Red,#b10000,177,0,0
-Bright Sun,#fed33c,254,211,60
-Bronco,#aba196,171,161,150
-Bronze,#3f2109,63,33,9
-Bronze Olive,#4e420c,78,66,12
-Bronzetone,#4d400f,77,64,15
-Broom,#ffec13,255,236,19
-Brown Bramble,#592804,89,40,4
-Brown Derby,#492615,73,38,21
-Brown Pod,#401801,64,24,1
-Bubbles,#e7feff,231,254,255
-Buccaneer,#622f30,98,47,48
-Bud,#a8ae9c,168,174,156
-Buddha Gold,#c1a004,193,160,4
-Bulgarian Rose,#480607,72,6,7
-Bull Shot,#864d1e,134,77,30
-Bunker,#0d1117,13,17,23
-Bunting,#151f4c,21,31,76
-Burgundy,#770f05,119,15,5
-Burnham,#002e20,0,46,32
-Burning Sand,#d99376,217,147,118
-Burnt Crimson,#65000b,101,0,11
-Bush,#0d2e1c,13,46,28
-Buttercup,#f3ad16,243,173,22
-Buttered Rum,#a1750d,161,117,13
-Butterfly Bush,#624e9a,98,78,154
-Buttermilk,#fff1b5,255,241,181
-Buttery White,#fffcea,255,252,234
-Cab Sav,#4d0a18,77,10,24
-Cabaret,#d94972,217,73,114
-Cabbage Pont,#3f4c3a,63,76,58
-Cactus,#587156,88,113,86
-Cadillac,#b04c6a,176,76,106
-Cafe Royale,#6f440c,111,68,12
-Calico,#e0c095,224,192,149
-California,#fe9d04,254,157,4
-Calypso,#31728d,49,114,141
-Camarone,#00581a,0,88,26
-Camelot,#893456,137,52,86
-Cameo,#d9b99b,217,185,155
-Camouflage,#3c3910,60,57,16
-Can Can,#d591a4,213,145,164
-Canary,#f3fb62,243,251,98
-Candlelight,#fcd917,252,217,23
-Cannon Black,#251706,37,23,6
-Cannon Pink,#894367,137,67,103
-Canvas,#a8a589,168,165,137
-Cape Cod,#3c4443,60,68,67
-Cape Honey,#fee5ac,254,229,172
-Cape Palliser,#a26645,162,102,69
-Caper,#dcedb4,220,237,180
-Capri,#062a78,6,42,120
-Caramel,#ffddaf,255,221,175
-Cararra,#eeeee8,238,238,232
-Cardin Green,#01361c,1,54,28
-Cardinal,#8c055e,140,5,94
-Careys Pink,#d29eaa,210,158,170
-Carissma,#ea88a8,234,136,168
-Carla,#f3ffd8,243,255,216
-Carnaby Tan,#5c2e01,92,46,1
-Carousel Pink,#f9e0ed,249,224,237
-Casablanca,#f8b853,248,184,83
-Casal,#2f6168,47,97,104
-Cascade,#8ba9a5,139,169,165
-Cashmere,#e6bea5,230,190,165
-Casper,#adbed1,173,190,209
-Castro,#52001f,82,0,31
-Catalina Blue,#062a78,6,42,120
-Catskill White,#eef6f7,238,246,247
-Cavern Pink,#e3bebe,227,190,190
-Ce Soir,#9771b5,151,113,181
-Cedar,#3e1c14,62,28,20
-Cedar Wood Finish,#711a00,113,26,0
-Celery,#b8c25d,184,194,93
-Celeste,#d1d2ca,209,210,202
-Cello,#1e385b,30,56,91
-Celtic,#163222,22,50,34
-Cement,#8d7662,141,118,98
-Ceramic,#fcfff9,252,255,249
-Chablis,#fff4f3,255,244,243
-Chalet Green,#516e3d,81,110,61
-Chalky,#eed794,238,215,148
-Chambray,#354e8c,53,78,140
-Chamois,#eddcb1,237,220,177
-Champagne,#faeccc,250,236,204
-Chantilly,#f8c3df,248,195,223
-Charade,#292937,41,41,55
-Chardon,#fff3f1,255,243,241
-Chardonnay,#ffcd8c,255,205,140
-Charlotte,#baeef9,186,238,249
-Charm,#d47494,212,116,148
-Chateau Green,#40a860,64,168,96
-Chatelle,#bdb3c7,189,179,199
-Chathams Blue,#175579,23,85,121
-Chelsea Cucumber,#83aa5d,131,170,93
-Chelsea Gem,#9e5302,158,83,2
-Chenin,#dfcd6f,223,205,111
-Cherokee,#fcda98,252,218,152
-Cherry Pie,#2a0359,42,3,89
-Cherrywood,#651a14,101,26,20
-Cherub,#f8d9e9,248,217,233
-Chetwode Blue,#8581d9,133,129,217
-Chicago,#5d5c58,93,92,88
-Chiffon,#f1ffc8,241,255,200
-Chilean Fire,#f77703,247,119,3
-Chilean Heath,#fffde6,255,253,230
-China Ivory,#fcffe7,252,255,231
-Chino,#cec7a7,206,199,167
-Chinook,#a8e3bd,168,227,189
-Chocolate,#370202,55,2,2
-Christalle,#33036b,51,3,107
-Christi,#67a712,103,167,18
-Christine,#e7730a,231,115,10
-Chrome White,#e8f1d4,232,241,212
-Cigar,#773f1a,119,63,26
-Cinder,#0e0e18,14,14,24
-Cinderella,#fde1dc,253,225,220
-Cinnamon,#7b3f00,123,63,0
-Cioccolato,#55280c,85,40,12
-Citrine White,#faf7d6,250,247,214
-Citron,#9ea91f,158,169,31
-Citrus,#a1c50a,161,197,10
-Clairvoyant,#480656,72,6,86
-Clam Shell,#d4b6af,212,182,175
-Claret,#7f1734,127,23,52
-Classic Rose,#fbcce7,251,204,231
-Clay Creek,#8a8360,138,131,96
-Clear Day,#e9fffd,233,255,253
-Clementine,#e96e00,233,110,0
-Clinker,#371d09,55,29,9
-Cloud,#c7c4bf,199,196,191
-Cloud Burst,#202e54,32,46,84
-Cloudy,#aca59f,172,165,159
-Clover,#384910,56,73,16
-Cobalt,#062a78,6,42,120
-Cocoa Bean,#481c1c,72,28,28
-Cocoa Brown,#301f1e,48,31,30
-Coconut Cream,#f8f7dc,248,247,220
-Cod Grey,#0b0b0b,11,11,11
-Coffee,#706555,112,101,85
-Coffee Bean,#2a140e,42,20,14
-Cognac,#9f381d,159,56,29
-Cola,#3f2500,63,37,0
-Cold Purple,#aba0d9,171,160,217
-Cold Turkey,#cebaba,206,186,186
-Colonial White,#ffedbc,255,237,188
-Comet,#5c5d75,92,93,117
-Como,#517c66,81,124,102
-Conch,#c9d9d2,201,217,210
-Concord,#7c7b7a,124,123,122
-Concrete,#f2f2f2,242,242,242
-Confetti,#e9d75a,233,215,90
-Congo Brown,#593737,89,55,55
-Conifer,#acdd4d,172,221,77
-Contessa,#c6726b,198,114,107
-Copper Canyon,#7e3a15,126,58,21
-Copper Rust,#944747,148,71,71
-Coral,#c7bca2,199,188,162
-Coral Candy,#ffdcd6,255,220,214
-Coral Tree,#a86b6b,168,107,107
-Corduroy,#606e68,96,110,104
-Coriander,#c4d0b0,196,208,176
-Cork,#40291d,64,41,29
-Corn,#e7bf05,231,191,5
-Corn Field,#f8facd,248,250,205
-Corn Harvest,#8b6b0b,139,107,11
-Cornflower,#ffb0ac,255,176,172
-Corvette,#fad3a2,250,211,162
-Cosmic,#76395d,118,57,93
-Cosmos,#ffd8d9,255,216,217
-Costa Del Sol,#615d30,97,93,48
-Cotton Seed,#c2bdb6,194,189,182
-County Green,#01371a,1,55,26
-Cove Grey,#051657,5,22,87
-Cowboy,#4d282d,77,40,45
-Crab Apple,#a02712,160,39,18
-Crail,#b95140,185,81,64
-Cranberry,#b6316c,182,49,108
-Crater Brown,#462425,70,36,37
-Cream Brulee,#ffe5a0,255,229,160
-Cream Can,#f5c85c,245,200,92
-Creme De Banane,#fffc99,255,252,153
-Creole,#1e0f04,30,15,4
-Crete,#737829,115,120,41
-Crocodile,#736d58,115,109,88
-Crown of Thorns,#771f1f,119,31,31
-Crowshead,#1c1208,28,18,8
-Cruise,#b5ecdf,181,236,223
-Crusoe,#004816,0,72,22
-Crusta,#fd7b33,253,123,51
-Cuban Tan,#2a140e,42,20,14
-Cumin,#924321,146,67,33
-Cumulus,#fdffd5,253,255,213
-Cupid,#fbbeda,251,190,218
-Curious Blue,#2596d1,37,150,209
-Cutty Sark,#507672,80,118,114
-Cyprus,#003e40,0,62,64
-Daintree,#012731,1,39,49
-Dairy Cream,#f9e4bc,249,228,188
-Daisy Bush,#4f2398,79,35,152
-Dallas,#6e4b26,110,75,38
-Danube,#6093d1,96,147,209
-Dark Ebony,#3c2005,60,32,5
-Dark Oak,#612718,97,39,24
-Dark Rimu,#5f3d26,95,61,38
-Dark Rum,#412010,65,32,16
-Dark Slate,#394851,57,72,81
-Dark Tan,#661010,102,16,16
-Dawn,#a6a29a,166,162,154
-Dawn Pink,#f3e9e5,243,233,229
-De York,#7ac488,122,196,136
-Deco,#d2da97,210,218,151
-Deep Blush,#e47698,228,118,152
-Deep Bronze,#4a3004,74,48,4
-Deep Cove,#051040,5,16,64
-Deep Fir,#002900,0,41,0
-Deep Koamaru,#1b127b,27,18,123
-Deep Oak,#412010,65,32,16
-Deep Sea,#01826b,1,130,107
-Deep Teal,#003532,0,53,50
-Del Rio,#b09a95,176,154,149
-Dell,#396413,57,100,19
-Delta,#a4a49d,164,164,157
-Deluge,#7563a8,117,99,168
-Derby,#ffeed8,255,238,216
-Desert,#ae6020,174,96,32
-Desert Storm,#f8f8f7,248,248,247
-Dew,#eafffe,234,255,254
-Di Serria,#db995e,219,153,94
-Diesel,#130000,19,0,0
-Dingley,#5d7747,93,119,71
-Disco,#871550,135,21,80
-Dixie,#e29418,226,148,24
-Dolly,#f9ff8b,249,255,139
-Dolphin,#646077,100,96,119
-Domino,#8e775e,142,119,94
-Don Juan,#5d4c51,93,76,81
-Donkey Brown,#a69279,166,146,121
-Dorado,#6b5755,107,87,85
-Double Colonial White,#eee3ad,238,227,173
-Double Pearl Lusta,#fcf4d0,252,244,208
-Double Spanish White,#e6d7b9,230,215,185
-Dove Grey,#6d6c6c,109,108,108
-Downriver,#092256,9,34,86
-Downy,#6fd0c5,111,208,197
-Driftwood,#af8751,175,135,81
-Drover,#fdf7ad,253,247,173
-Dune,#383533,56,53,51
-Dust Storm,#e5ccc9,229,204,201
-Dusty Grey,#a8989b,168,152,155
-Dutch White,#fff8d1,255,248,209
-Eagle,#b6baa4,182,186,164
-Earls Green,#c9b93b,201,185,59
-Early Dawn,#fff9e6,255,249,230
-East Bay,#414c7d,65,76,125
-East Side,#ac91ce,172,145,206
-Eastern Blue,#1e9ab0,30,154,176
-Ebb,#e9e3e3,233,227,227
-Ebony,#0c0b1d,12,11,29
-Ebony Clay,#26283b,38,40,59
-Echo Blue,#afbdd9,175,189,217
-Eclipse,#311c17,49,28,23
-Ecru White,#f5f3e5,245,243,229
-Ecstasy,#fa7814,250,120,20
-Eden,#105852,16,88,82
-Edgewater,#c8e3d7,200,227,215
-Edward,#a2aeab,162,174,171
-Egg Sour,#fff4dd,255,244,221
-Egg White,#ffefc1,255,239,193
-El Paso,#1e1708,30,23,8
-El Salva,#8f3e33,143,62,51
-Elephant,#123447,18,52,71
-Elf Green,#088370,8,131,112
-Elm,#1c7c7d,28,124,125
-Embers,#a02712,160,39,18
-Eminence,#6c3082,108,48,130
-Emperor,#514649,81,70,73
-Empress,#817377,129,115,119
-Endeavour,#0056a7,0,86,167
-Energy Yellow,#f8dd5c,248,221,92
-English Holly,#022d15,2,45,21
-English Walnut,#3e2b23,62,43,35
-Envy,#8ba690,139,166,144
-Equator,#e1bc64,225,188,100
-Espresso,#612718,97,39,24
-Eternity,#211a0e,33,26,14
-Eucalyptus,#278a5b,39,138,91
-Eunry,#cfa39d,207,163,157
-Evening Sea,#024e46,2,78,70
-Everglade,#1c402e,28,64,46
-Fair Pink,#ffefec,255,239,236
-Falcon,#7f626d,127,98,109
-Fantasy,#faf3f0,250,243,240
-Fedora,#796a78,121,106,120
-Feijoa,#9fdd8c,159,221,140
-Fern,#0a480d,10,72,13
-Fern Frond,#657220,101,114,32
-Ferra,#704f50,112,79,80
-Festival,#fbe96c,251,233,108
-Feta,#f0fcea,240,252,234
-Fiery Orange,#b35213,179,82,19
-Fiji Green,#657220,101,114,32
-Finch,#626649,98,102,73
-Finlandia,#556d56,85,109,86
-Finn,#692d54,105,45,84
-Fiord,#405169,64,81,105
-Fire,#aa4203,170,66,3
-Fire Bush,#e89928,232,153,40
-Firefly,#0e2a30,14,42,48
-Flame Pea,#da5b38,218,91,56
-Flame Red,#c7031e,199,3,30
-Flamenco,#ff7d07,255,125,7
-Flamingo,#f2552a,242,85,42
-Flax,#7b8265,123,130,101
-Flint,#6f6a61,111,106,97
-Flirt,#a2006d,162,0,109
-Foam,#d8fcfa,216,252,250
-Fog,#d7d0ff,215,208,255
-Foggy Grey,#cbcab6,203,202,182
-Forest Green,#182d09,24,45,9
-Forget Me Not,#fff1ee,255,241,238
-Fountain Blue,#56b4be,86,180,190
-Frangipani,#ffdeb3,255,222,179
-French Grey,#bdbdc6,189,189,198
-French Lilac,#ecc7ee,236,199,238
-French Pass,#bdedfd,189,237,253
-Friar Grey,#807e79,128,126,121
-Fringy Flower,#b1e2c1,177,226,193
-Froly,#f57584,245,117,132
-Frost,#edf5dd,237,245,221
-Frosted Mint,#dbfff8,219,255,248
-Frostee,#e4f6e7,228,246,231
-Fruit Salad,#4f9d5d,79,157,93
-Fuchsia,#7a58c1,122,88,193
-Fuego,#bede0d,190,222,13
-Fuel Yellow,#eca927,236,169,39
-Fun Blue,#1959a8,25,89,168
-Fun Green,#016d39,1,109,57
-Fuscous Grey,#54534d,84,83,77
-Gable Green,#163531,22,53,49
-Gallery,#efefef,239,239,239
-Galliano,#dcb20c,220,178,12
-Geebung,#d18f1b,209,143,27
-Genoa,#15736b,21,115,107
-Geraldine,#fb8989,251,137,137
-Geyser,#d4dfe2,212,223,226
-Ghost,#c7c9d5,199,201,213
-Gigas,#523c94,82,60,148
-Gimblet,#b8b56a,184,181,106
-Gin,#e8f2eb,232,242,235
-Gin Fizz,#fff9e2,255,249,226
-Givry,#f8e4bf,248,228,191
-Glacier,#80b3c4,128,179,196
-Glade Green,#61845f,97,132,95
-Go Ben,#726d4e,114,109,78
-Goblin,#3d7d52,61,125,82
-Gold Drop,#f18200,241,130,0
-Gold Tips,#deba13,222,186,19
-Golden Bell,#e28913,226,137,19
-Golden Dream,#f0d52d,240,213,45
-Golden Fizz,#f5fb3d,245,251,61
-Golden Glow,#fde295,253,226,149
-Golden Sand,#f0db7d,240,219,125
-Golden Tainoi,#ffcc5c,255,204,92
-Gondola,#261414,38,20,20
-Gordons Green,#0b1107,11,17,7
-Gorse,#fff14f,255,241,79
-Gossamer,#069b81,6,155,129
-Gossip,#d2f8b0,210,248,176
-Gothic,#6d92a1,109,146,161
-Governor Bay,#2f3cb3,47,60,179
-Grain Brown,#e4d5b7,228,213,183
-Grandis,#ffd38c,255,211,140
-Granite Green,#8d8974,141,137,116
-Granny Apple,#d5f6e3,213,246,227
-Granny Smith,#84a0a0,132,160,160
-Grape,#381a51,56,26,81
-Graphite,#251607,37,22,7
-Grass Hopper,#7c7631,124,118,49
-Gravel,#4a444b,74,68,75
-Green House,#24500f,36,80,15
-Green Kelp,#25311c,37,49,28
-Green Leaf,#436a0d,67,106,13
-Green Mist,#cbd3b0,203,211,176
-Green Pea,#1d6142,29,97,66
-Green Smoke,#a4af6e,164,175,110
-Green Spring,#b8c1b1,184,193,177
-Green Vogue,#032b52,3,43,82
-Green Waterloo,#101405,16,20,5
-Green White,#e8ebe0,232,235,224
-Greenstone,#003e40,0,62,64
-Grenadier,#d54600,213,70,0
-Grey Chateau,#a2aab3,162,170,179
-Grey Green,#454936,69,73,54
-Grey Nickel,#c3c3bd,195,195,189
-Grey Nurse,#e7ece6,231,236,230
-Grey Olive,#a9a491,169,164,145
-Grey Suit,#c1becd,193,190,205
-Guardsman Red,#ba0101,186,1,1
-Gulf Blue,#051657,5,22,87
-Gulf Stream,#80b3ae,128,179,174
-Gull Grey,#9dacb7,157,172,183
-Gum Leaf,#b6d3bf,182,211,191
-Gumbo,#7ca1a6,124,161,166
-Gun Powder,#414257,65,66,87
-Gunmetal,#020d15,2,13,21
-Gunsmoke,#828685,130,134,133
-Gurkha,#9a9577,154,149,119
-Hacienda,#98811b,152,129,27
-Hairy Heath,#6b2a14,107,42,20
-Haiti,#1b1035,27,16,53
-Half and Half,#fffee1,255,254,225
-Half Baked,#85c4cc,133,196,204
-Half Colonial White,#fdf6d3,253,246,211
-Half Dutch White,#fef7de,254,247,222
-Half Pearl Lusta,#fffcea,255,252,234
-Half Spanish White,#fef4db,254,244,219
-Hampton,#e5d8af,229,216,175
-Harp,#e6f2ea,230,242,234
-Harvest Gold,#e0b974,224,185,116
-Havana,#341515,52,21,21
-Havelock Blue,#5590d9,85,144,217
-Hawaiian Tan,#9d5616,157,86,22
-Hawkes Blue,#d4e2fc,212,226,252
-Heath,#541012,84,16,18
-Heather,#b7c3d0,183,195,208
-Heathered Grey,#b6b095,182,176,149
-Heavy Metal,#2b3228,43,50,40
-Hemlock,#5e5d3b,94,93,59
-Hemp,#907874,144,120,116
-Hibiscus,#b6316c,182,49,108
-Highball,#908d39,144,141,57
-Highland,#6f8e63,111,142,99
-Hillary,#aca586,172,165,134
-Himalaya,#6a5d1b,106,93,27
-Hint of Green,#e6ffe9,230,255,233
-Hint of Grey,#fcfff9,252,255,249
-Hint of Red,#f9f9f9,249,249,249
-Hint of Yellow,#fafde4,250,253,228
-Hippie Blue,#589aaf,88,154,175
-Hippie Green,#53824b,83,130,75
-Hippie Pink,#ae4560,174,69,96
-Hit Grey,#a1adb5,161,173,181
-Hit Pink,#ffab81,255,171,129
-Hokey Pokey,#c8a528,200,165,40
-Hoki,#65869f,101,134,159
-Holly,#011d13,1,29,19
-Honey Flower,#4f1c70,79,28,112
-Honeysuckle,#edfc84,237,252,132
-Hopbush,#d06da1,208,109,161
-Horizon,#5a87a0,90,135,160
-Horses Neck,#604913,96,73,19
-Hot Chile,#8b0723,139,7,35
-Hot Curry,#886221,136,98,33
-Hot Purple,#480656,72,6,86
-Hot Toddy,#b38007,179,128,7
-Humming Bird,#cff9f3,207,249,243
-Hunter Green,#161d10,22,29,16
-Hurricane,#877c7b,135,124,123
-Husk,#b7a458,183,164,88
-Ice Cold,#b1f4e7,177,244,231
-Iceberg,#daf4f0,218,244,240
-Illusion,#f6a4c9,246,164,201
-Indian Tan,#4d1e01,77,30,1
-Indochine,#c26b03,194,107,3
-Irish Coffee,#5f3d26,95,61,38
-Iroko,#433120,67,49,32
-Iron,#d4d7d9,212,215,217
-Ironbark,#411f10,65,31,16
-Ironside Grey,#676662,103,102,98
-Ironstone,#86483c,134,72,60
-Island Spice,#fffcee,255,252,238
-Jacaranda,#2e0329,46,3,41
-Jacarta,#3a2a6a,58,42,106
-Jacko Bean,#2e1905,46,25,5
-Jacksons Purple,#20208d,32,32,141
-Jade,#427977,66,121,119
-Jaffa,#ef863f,239,134,63
-Jagged Ice,#c2e8e5,194,232,229
-Jagger,#350e57,53,14,87
-Jaguar,#080110,8,1,16
-Jambalaya,#5b3013,91,48,19
-Janna,#f4ebd3,244,235,211
-Japanese Laurel,#0a6906,10,105,6
-Japanese Maple,#780109,120,1,9
-Japonica,#d87c63,216,124,99
-Jarrah,#341515,52,21,21
-Java,#1fc2c2,31,194,194
-Jazz,#780109,120,1,9
-Jelly Bean,#297b9a,41,123,154
-Jet Stream,#b5d2ce,181,210,206
-Jewel,#126b40,18,107,64
-Joanna,#f5f3e5,245,243,229
-Jon,#3b1f1f,59,31,31
-Jonquil,#eeff9a,238,255,154
-Jordy Blue,#8ab9f1,138,185,241
-Judge Grey,#544333,84,67,51
-Jumbo,#7c7b82,124,123,130
-Jungle Green,#281e15,40,30,21
-Jungle Mist,#b4cfd3,180,207,211
-Juniper,#6d9292,109,146,146
-Just Right,#eccdb9,236,205,185
-Kabul,#5e483e,94,72,62
-Kaitoke Green,#004620,0,70,32
-Kangaroo,#c6c8bd,198,200,189
-Karaka,#1e1609,30,22,9
-Karry,#ffead4,255,234,212
-Kashmir Blue,#507096,80,112,150
-Kelp,#454936,69,73,54
-Kenyan Copper,#7c1c05,124,28,5
-Keppel,#3ab09e,58,176,158
-Kidnapper,#e1ead4,225,234,212
-Kilamanjaro,#240c02,36,12,2
-Killarney,#3a6a47,58,106,71
-Kimberly,#736c9f,115,108,159
-Kingfisher Daisy,#3e0480,62,4,128
-Kobi,#e79fc4,231,159,196
-Kokoda,#6e6d57,110,109,87
-Korma,#8f4b0e,143,75,14
-Koromiko,#ffbd5f,255,189,95
-Kournikova,#ffe772,255,231,114
-Kumera,#886221,136,98,33
-La Palma,#368716,54,135,22
-La Rioja,#b3c110,179,193,16
-Las Palmas,#c6e610,198,230,16
-Laser,#c8b568,200,181,104
-Laurel,#749378,116,147,120
-Lavender,#a899e6,168,153,230
-Leather,#967059,150,112,89
-Lemon,#f4d81c,244,216,28
-Lemon Ginger,#ac9e22,172,158,34
-Lemon Grass,#9b9e8f,155,158,143
-Licorice,#092256,9,34,86
-Lightning Yellow,#fcc01e,252,192,30
-Lilac Bush,#9874d3,152,116,211
-Lily,#c8aabf,200,170,191
-Lily White,#e7f8ff,231,248,255
-Lima,#76bd17,118,189,23
-Lime,#bfc921,191,201,33
-Limeade,#6f9d02,111,157,2
-Limed Ash,#747d63,116,125,99
-Limed Gum,#423921,66,57,33
-Limed Oak,#ac8a56,172,138,86
-Limed Spruce,#394851,57,72,81
-Limerick,#9dc209,157,194,9
-Linen,#e6e4d4,230,228,212
-Link Water,#d9e4f5,217,228,245
-Lipstick,#ab0563,171,5,99
-Lisbon Brown,#423921,66,57,33
-Livid Brown,#4d282e,77,40,46
-Loafer,#eef4de,238,244,222
-Loblolly,#bdc9ce,189,201,206
-Lochinvar,#2c8c84,44,140,132
-Lochmara,#007ec7,0,126,199
-Locust,#a8af8e,168,175,142
-Log Cabin,#242a1d,36,42,29
-Logan,#aaa9cd,170,169,205
-Lola,#dfcfdb,223,207,219
-London Hue,#bea6c3,190,166,195
-Lonestar,#6d0101,109,1,1
-Lotus,#863c3c,134,60,60
-Loulou,#460b41,70,11,65
-Lucky,#af9f1c,175,159,28
-Lucky Point,#1a1a68,26,26,104
-Lunar Green,#3c493a,60,73,58
-Lusty,#991b07,153,27,7
-Luxor Gold,#a7882c,167,136,44
-Lynch,#697e9a,105,126,154
-Mabel,#d9f7ff,217,247,255
-Madang,#b7f0be,183,240,190
-Madison,#09255d,9,37,93
-Madras,#3f3002,63,48,2
-Magnolia,#f8f4ff,248,244,255
-Mahogany,#4e0606,78,6,6
-Mai Tai,#b06608,176,102,8
-Maire,#130a06,19,10,6
-Maize,#f5d5a0,245,213,160
-Makara,#897d6d,137,125,109
-Mako,#444954,68,73,84
-Malachite Green,#888d65,136,141,101
-Malibu,#7dc8f7,125,200,247
-Mallard,#233418,35,52,24
-Malta,#bdb2a1,189,178,161
-Mamba,#8e8190,142,129,144
-Mandalay,#ad781b,173,120,27
-Mandy,#e25465,226,84,101
-Mandys Pink,#f2c3b2,242,195,178
-Manhattan,#f5c999,245,201,153
-Mantis,#74c365,116,195,101
-Mantle,#8b9c90,139,156,144
-Manz,#eeef78,238,239,120
-Mardi Gras,#350036,53,0,54
-Marigold,#b98d28,185,141,40
-Mariner,#286acd,40,106,205
-Marlin,#2a140e,42,20,14
-Maroon,#420303,66,3,3
-Marshland,#0b0f08,11,15,8
-Martini,#afa09e,175,160,158
-Martinique,#363050,54,48,80
-Marzipan,#f8db9d,248,219,157
-Masala,#403b38,64,59,56
-Mash,#40291d,64,41,29
-Matisse,#1b659d,27,101,157
-Matrix,#b05d54,176,93,84
-Matterhorn,#4e3b41,78,59,65
-Maverick,#d8c2d5,216,194,213
-McKenzie,#af8751,175,135,81
-Melanie,#e4c2d5,228,194,213
-Melanzane,#300529,48,5,41
-Melrose,#c7c1ff,199,193,255
-Meranti,#5d1e0f,93,30,15
-Mercury,#e5e5e5,229,229,229
-Merino,#f6f0e6,246,240,230
-Merlin,#413c37,65,60,55
-Merlot,#831923,131,25,35
-Metallic Bronze,#49371b,73,55,27
-Metallic Copper,#71291d,113,41,29
-Meteor,#d07d12,208,125,18
-Meteorite,#3c1f76,60,31,118
-Mexican Red,#a72525,167,37,37
-Mid Grey,#5f5f6e,95,95,110
-Midnight,#011635,1,22,53
-Midnight Express,#000741,0,7,65
-Midnight Moss,#041004,4,16,4
-Mikado,#2d2510,45,37,16
-Milan,#faffa4,250,255,164
-Milano Red,#b81104,184,17,4
-Milk Punch,#fff6d4,255,246,212
-Milk White,#f6f0e6,246,240,230
-Millbrook,#594433,89,68,51
-Mimosa,#f8fdd3,248,253,211
-Mindaro,#e3f988,227,249,136
-Mine Shaft,#323232,50,50,50
-Mineral Green,#3f5d53,63,93,83
-Ming,#36747d,54,116,125
-Minsk,#3f307f,63,48,127
-Mint Julep,#f1eec1,241,238,193
-Mint Tulip,#c4f4eb,196,244,235
-Mirage,#161928,22,25,40
-Mischka,#d1d2dd,209,210,221
-Mist Grey,#c4c4bc,196,196,188
-Mobster,#7f7589,127,117,137
-Moccaccino,#6e1d14,110,29,20
-Mocha,#782d19,120,45,25
-Mojo,#c04737,192,71,55
-Mona Lisa,#ffa194,255,161,148
-Monarch,#8b0723,139,7,35
-Mondo,#4a3c30,74,60,48
-Mongoose,#b5a27f,181,162,127
-Monsoon,#8a8389,138,131,137
-Montana,#291e30,41,30,48
-Monte Carlo,#83d0c6,131,208,198
-Monza,#c7031e,199,3,30
-Moody Blue,#7f76d3,127,118,211
-Moon Glow,#fcfeda,252,254,218
-Moon Mist,#dcddcc,220,221,204
-Moon Raker,#d6cef6,214,206,246
-Moon Yellow,#fcd917,252,217,23
-Morning Glory,#9edee0,158,222,224
-Morocco Brown,#441d00,68,29,0
-Mortar,#504351,80,67,81
-Mosaic,#123447,18,52,71
-Mosque,#036a6e,3,106,110
-Mountain Mist,#959396,149,147,150
-Muddy Waters,#b78e5c,183,142,92
-Muesli,#aa8b5b,170,139,91
-Mulberry,#5c0536,92,5,54
-Mule Fawn,#8c472f,140,71,47
-Mulled Wine,#4e4562,78,69,98
-Mustard,#74640d,116,100,13
-My Pink,#d69188,214,145,136
-My Sin,#ffb31f,255,179,31
-Mystic,#e2ebed,226,235,237
-Nandor,#4b5d52,75,93,82
-Napa,#aca494,172,164,148
-Narvik,#edf9f1,237,249,241
-Natural,#86560a,134,86,10
-Nebula,#cbdbd6,203,219,214
-Negroni,#ffe2c5,255,226,197
-Nepal,#8eabc1,142,171,193
-Neptune,#7cb7bb,124,183,187
-Nero,#140600,20,6,0
-Neutral Green,#aca586,172,165,134
-Nevada,#646e75,100,110,117
-New Amber,#7b3801,123,56,1
-New Orleans,#f3d69d,243,214,157
-New York Pink,#d7837f,215,131,127
-Niagara,#06a189,6,161,137
-Night Rider,#1f120f,31,18,15
-Night Shadz,#aa375a,170,55,90
-Nightclub,#660045,102,0,69
-Nile Blue,#193751,25,55,81
-Nobel,#b7b1b1,183,177,177
-Nomad,#bab1a2,186,177,162
-Nordic,#012731,1,39,49
-Norway,#a8bd9f,168,189,159
-Nugget,#c59922,197,153,34
-Nutmeg,#81422c,129,66,44
-Nutmeg Wood Finish,#683600,104,54,0
-Oasis,#feefce,254,239,206
-Observatory,#02866f,2,134,111
-Ocean Green,#41aa78,65,170,120
-Off Green,#e6f8f3,230,248,243
-Off Yellow,#fef9e3,254,249,227
-Oil,#281e15,40,30,21
-Oiled Cedar,#7c1c05,124,28,5
-Old Brick,#901e1e,144,30,30
-Old Copper,#724a2f,114,74,47
-Olive Green,#242e16,36,46,22
-Olive Haze,#8b8470,139,132,112
-Olivetone,#716e10,113,110,16
-Onahau,#cdf4ff,205,244,255
-Onion,#2f270e,47,39,14
-Opal,#a9c6c2,169,198,194
-Opium,#8e6f70,142,111,112
-Oracle,#377475,55,116,117
-Orange Roughy,#c45719,196,87,25
-Orange White,#fefced,254,252,237
-Orchid White,#fffdf3,255,253,243
-Oregon,#9b4703,155,71,3
-Orient,#015e85,1,94,133
-Oriental Pink,#c69191,198,145,145
-Orinoco,#f3fbd4,243,251,212
-Oslo Grey,#878d91,135,141,145
-Ottoman,#e9f8ed,233,248,237
-Outer Space,#051040,5,16,64
-Oxford Blue,#384555,56,69,85
-Oxley,#779e86,119,158,134
-Oyster Bay,#dafaff,218,250,255
-Oyster Pink,#e9cecd,233,206,205
-Paarl,#a65529,166,85,41
-Pablo,#776f61,119,111,97
-Pacifika,#778120,119,129,32
-Paco,#411f10,65,31,16
-Padua,#ade6c4,173,230,196
-Pale Leaf,#c0d3b9,192,211,185
-Pale Oyster,#988d77,152,141,119
-Pale Prim,#fdfeb8,253,254,184
-Pale Rose,#ffe1f2,255,225,242
-Pale Sky,#6e7783,110,119,131
-Pale Slate,#c3bfc1,195,191,193
-Palm Green,#09230f,9,35,15
-Palm Leaf,#19330e,25,51,14
-Pampas,#f4f2ee,244,242,238
-Panache,#eaf6ee,234,246,238
-Pancho,#edcdab,237,205,171
-Panda,#423921,66,57,33
-Paprika,#8d0226,141,2,38
-Paradiso,#317d82,49,125,130
-Parchment,#f1e9d2,241,233,210
-Paris Daisy,#fff46e,255,244,110
-Paris M,#26056a,38,5,106
-Paris White,#cadcd4,202,220,212
-Parsley,#134f19,19,79,25
-Patina,#639a8f,99,154,143
-Pattens Blue,#def5ff,222,245,255
-Paua,#260368,38,3,104
-Pavlova,#d7c498,215,196,152
-Pea Soup,#cfe5d2,207,229,210
-Peach,#fff0db,255,240,219
-Peach Schnapps,#ffdcd6,255,220,214
-Peanut,#782f16,120,47,22
-Pearl Bush,#e8e0d5,232,224,213
-Pearl Lusta,#fcf4dc,252,244,220
-Peat,#716b56,113,107,86
-Pelorous,#3eabbf,62,171,191
-Peppermint,#e3f5e1,227,245,225
-Perano,#a9bef2,169,190,242
-Perfume,#d0bef8,208,190,248
-Periglacial Blue,#e1e6d6,225,230,214
-Persian Plum,#701c1c,112,28,28
-Persian Red,#520c17,82,12,23
-Persimmon,#ff6b53,255,107,83
-Peru Tan,#7f3a02,127,58,2
-Pesto,#7c7631,124,118,49
-Petite Orchid,#db9690,219,150,144
-Pewter,#96a8a1,150,168,161
-Pharlap,#a3807b,163,128,123
-Picasso,#fff39d,255,243,157
-Pickled Aspen,#3f4c3a,63,76,58
-Pickled Bean,#6e4826,110,72,38
-Pickled Bluewood,#314459,49,68,89
-Picton Blue,#45b1e8,69,177,232
-Pigeon Post,#afbdd9,175,189,217
-Pine Cone,#6d5e54,109,94,84
-Pine Glade,#c7cd90,199,205,144
-Pine Tree,#171f04,23,31,4
-Pink Flare,#e1c0c8,225,192,200
-Pink Lace,#ffddf4,255,221,244
-Pink Lady,#fff1d8,255,241,216
-Pink Swan,#beb5b7,190,181,183
-Piper,#c96323,201,99,35
-Pipi,#fef4cc,254,244,204
-Pippin,#ffe1df,255,225,223
-Pirate Gold,#ba7f03,186,127,3
-Pistachio,#9dc209,157,194,9
-Pixie Green,#c0d8b6,192,216,182
-Pizazz,#ff9000,255,144,0
-Pizza,#c99415,201,148,21
-Plantation,#27504b,39,80,75
-Planter,#615d30,97,93,48
-Plum,#410056,65,0,86
-Pohutukawa,#8f021c,143,2,28
-Polar,#e5f9f6,229,249,246
-Polo Blue,#8da8cc,141,168,204
-Pompadour,#660045,102,0,69
-Porcelain,#eff2f3,239,242,243
-Porsche,#eaae69,234,174,105
-Port Gore,#251f4f,37,31,79
-Portafino,#ffffb4,255,255,180
-Portage,#8b9fee,139,159,238
-Portica,#f9e663,249,230,99
-Pot Pourri,#f5e7e2,245,231,226
-Potters Clay,#8c5738,140,87,56
-Powder Blue,#bcc9c2,188,201,194
-Prairie Sand,#9a3820,154,56,32
-Prelude,#d0c0e5,208,192,229
-Prim,#f0e2ec,240,226,236
-Primrose,#edea99,237,234,153
-Promenade,#fcffe7,252,255,231
-Provincial Pink,#fef5f1,254,245,241
-Prussian Blue,#003153,0,49,83
-Pueblo,#7d2c14,125,44,20
-Puerto Rico,#3fc1aa,63,193,170
-Pumice,#c2cac4,194,202,196
-Pumpkin,#b1610b,177,97,11
-Punch,#dc4333,220,67,51
-Punga,#4d3d14,77,61,20
-Putty,#e7cd8c,231,205,140
-Quarter Pearl Lusta,#fffdf4,255,253,244
-Quarter Spanish White,#f7f2e1,247,242,225
-Quicksand,#bd978e,189,151,142
-Quill Grey,#d6d6d1,214,214,209
-Quincy,#623f2d,98,63,45
-Racing Green,#0c1911,12,25,17
-Raffia,#eadab8,234,218,184
-Rain Forest,#778120,119,129,32
-Raincloud,#7b7c94,123,124,148
-Rainee,#b9c8ac,185,200,172
-Rajah,#f7b668,247,182,104
-Rangitoto,#2e3222,46,50,34
-Rangoon Green,#1c1e13,28,30,19
-Raven,#727b89,114,123,137
-Rebel,#3c1206,60,18,6
-Red Beech,#7b3801,123,56,1
-Red Berry,#8e0000,142,0,0
-Red Damask,#da6a41,218,106,65
-Red Devil,#860111,134,1,17
-Red Oxide,#6e0902,110,9,2
-Red Robin,#80341f,128,52,31
-Red Stage,#d05f04,208,95,4
-Redwood,#5d1e0f,93,30,15
-Reef,#c9ffa2,201,255,162
-Reef Gold,#9f821c,159,130,28
-Regal Blue,#013f6a,1,63,106
-Regent Grey,#86949f,134,148,159
-Regent St Blue,#aad6e6,170,214,230
-Remy,#feebf3,254,235,243
-Reno Sand,#a86515,168,101,21
-Resolution Blue,#002387,0,35,135
-Revolver,#2c1632,44,22,50
-Rhino,#2e3f62,46,63,98
-Ribbon,#660045,102,0,69
-Rice Cake,#fffef0,255,254,240
-Rice Flower,#eeffe2,238,255,226
-Rich Gold,#a85307,168,83,7
-Rio Grande,#bbd009,187,208,9
-Riptide,#8be6d8,139,230,216
-River Bed,#434c59,67,76,89
-Rob Roy,#eac674,234,198,116
-Robins Egg Blue,#bdc8b3,189,200,179
-Rock,#4d3833,77,56,51
-Rock Blue,#9eb1cd,158,177,205
-Rock Salt,#ffffff,255,255,255
-Rock Spray,#ba450c,186,69,12
-Rodeo Dust,#c9b29b,201,178,155
-Rolling Stone,#747d83,116,125,131
-Roman,#de6360,222,99,96
-Roman Coffee,#795d4c,121,93,76
-Romance,#fffefd,255,254,253
-Romantic,#ffd2b7,255,210,183
-Ronchi,#ecc54e,236,197,78
-Roof Terracotta,#a62f20,166,47,32
-Rope,#8e4d1e,142,77,30
-Rose,#e7bcb4,231,188,180
-Rose Bud,#fbb2a3,251,178,163
-Rose Bud Cherry,#800b47,128,11,71
-Rose of Sharon,#bf5500,191,85,0
-Rose White,#fff6f5,255,246,245
-Rosewood,#65000b,101,0,11
-Roti,#c6a84b,198,168,75
-Rouge,#a23b6c,162,59,108
-Royal Heath,#ab3472,171,52,114
-Rum,#796989,121,105,137
-Rum Swizzle,#f9f8e4,249,248,228
-Russett,#755a57,117,90,87
-Rustic Red,#480404,72,4,4
-Rusty Nail,#86560a,134,86,10
-Saddle,#4c3024,76,48,36
-Saddle Brown,#583401,88,52,1
-Saffron,#f9bf58,249,191,88
-Sage,#9ea587,158,165,135
-Sahara,#b7a214,183,162,20
-Sail,#b8e0f9,184,224,249
-Salem,#097f4b,9,127,75
-Salomie,#fedb8d,254,219,141
-Salt Box,#685e6e,104,94,110
-Saltpan,#f1f7f2,241,247,242
-Sambuca,#3a2010,58,32,16
-San Felix,#0b6207,11,98,7
-San Juan,#304b6a,48,75,106
-San Marino,#456cac,69,108,172
-Sand Dune,#826f65,130,111,101
-Sandal,#aa8d6f,170,141,111
-Sandrift,#ab917a,171,145,122
-Sandstone,#796d62,121,109,98
-Sandwisp,#f5e7a2,245,231,162
-Sandy Beach,#ffeac8,255,234,200
-Sangria,#92000a,146,0,10
-Sanguine Brown,#8d3d38,141,61,56
-Santa Fe,#b16d52,177,109,82
-Santas Grey,#9fa0b1,159,160,177
-Sapling,#ded4a4,222,212,164
-Sapphire,#2f519e,47,81,158
-Saratoga,#555b10,85,91,16
-Sauvignon,#fff5f3,255,245,243
-Sazerac,#fff4e0,255,244,224
-Scampi,#675fa6,103,95,166
-Scandal,#cffaf4,207,250,244
-Scarlet Gum,#431560,67,21,96
-Scarlett,#950015,149,0,21
-Scarpa Flow,#585562,88,85,98
-Schist,#a9b497,169,180,151
-Schooner,#8b847e,139,132,126
-Scooter,#2ebfd4,46,191,212
-Scorpion,#695f62,105,95,98
-Scotch Mist,#fffbdc,255,251,220
-Scrub,#2e3222,46,50,34
-Sea Buckthorn,#fba129,251,161,41
-Sea Fog,#fcfff9,252,255,249
-Sea Green,#095859,9,88,89
-Sea Mist,#c5dbca,197,219,202
-Sea Nymph,#78a39c,120,163,156
-Sea Pink,#ed989e,237,152,158
-Seagull,#80ccea,128,204,234
-Seance,#731e8f,115,30,143
-Seashell,#f1f1f1,241,241,241
-Seaweed,#1b2f11,27,47,17
-Selago,#f0eefd,240,238,253
-Sepia,#2b0202,43,2,2
-Serenade,#fff4e8,255,244,232
-Shadow Green,#9ac2b8,154,194,184
-Shady Lady,#aaa5a9,170,165,169
-Shakespeare,#4eabd1,78,171,209
-Shalimar,#fbffba,251,255,186
-Shark,#25272c,37,39,44
-Sherpa Blue,#004950,0,73,80
-Sherwood Green,#02402c,2,64,44
-Shilo,#e8b9b3,232,185,179
-Shingle Fawn,#6b4e31,107,78,49
-Ship Cove,#788bba,120,139,186
-Ship Grey,#3e3a44,62,58,68
-Shiraz,#b20931,178,9,49
-Shocking,#e292c0,226,146,192
-Shuttle Grey,#5f6672,95,102,114
-Siam,#646a54,100,106,84
-Sidecar,#f3e7bb,243,231,187
-Silk,#bdb1a8,189,177,168
-Silver Chalice,#acacac,172,172,172
-Silver Sand,#bfc1c2,191,193,194
-Silver Tree,#66b58f,102,181,143
-Sinbad,#9fd7d3,159,215,211
-Siren,#7a013a,122,1,58
-Sirocco,#718080,113,128,128
-Sisal,#d3cbba,211,203,186
-Skeptic,#cae6da,202,230,218
-Slugger,#412010,65,32,16
-Smalt Blue,#51808f,81,128,143
-Smoke Tree,#da6304,218,99,4
-Smokey Ash,#413c37,65,60,55
-Smoky,#605b73,96,91,115
-Snow Drift,#f7faf7,247,250,247
-Snow Flurry,#e4ffd1,228,255,209
-Snowy Mint,#d6ffdb,214,255,219
-Snuff,#e2d8ed,226,216,237
-Soapstone,#fffbf9,255,251,249
-Soft Amber,#d1c6b4,209,198,180
-Soft Peach,#f5edef,245,237,239
-Solid Pink,#893843,137,56,67
-Solitaire,#fef8e2,254,248,226
-Solitude,#eaf6ff,234,246,255
-Sorbus,#fd7c07,253,124,7
-Sorrell Brown,#ceb98f,206,185,143
-Sour Dough,#d1bea8,209,190,168
-Soya Bean,#6a6051,106,96,81
-Space Shuttle,#433120,67,49,32
-Spanish Green,#819885,129,152,133
-Spanish White,#f4ebd3,244,235,211
-Spectra,#2f5a57,47,90,87
-Spice,#6a442e,106,68,46
-Spicy Mix,#885342,136,83,66
-Spicy Pink,#816e71,129,110,113
-Spindle,#b6d1ea,182,209,234
-Splash,#ffefc1,255,239,193
-Spray,#79deec,121,222,236
-Spring Green,#578363,87,131,99
-Spring Rain,#accbb1,172,203,177
-Spring Sun,#f6ffdc,246,255,220
-Spring Wood,#f8f6f1,248,246,241
-Sprout,#c1d7b0,193,215,176
-Spun Pearl,#aaabb7,170,171,183
-Squirrel,#8f8176,143,129,118
-St Tropaz,#2d569b,45,86,155
-Stack,#8a8f8a,138,143,138
-Star Dust,#9f9f9c,159,159,156
-Stark White,#e5d7bd,229,215,189
-Starship,#ecf245,236,242,69
-Steel Grey,#262335,38,35,53
-Stiletto,#9c3336,156,51,54
-Stinger,#8b6b0b,139,107,11
-Stonewall,#928573,146,133,115
-Storm Dust,#646463,100,100,99
-Storm Grey,#717486,113,116,134
-Stratos,#000741,0,7,65
-Straw,#d4bf8d,212,191,141
-Strikemaster,#956387,149,99,135
-Stromboli,#325d52,50,93,82
-Studio,#714ab2,113,74,178
-Submarine,#bac7c9,186,199,201
-Sugar Cane,#f9fff6,249,255,246
-Sulu,#c1f07c,193,240,124
-Summer Green,#96bbab,150,187,171
-Sun,#fbac13,251,172,19
-Sundance,#c9b35b,201,179,91
-Sundown,#ffb1b3,255,177,179
-Sunflower,#e4d422,228,212,34
-Sunglo,#e16865,225,104,101
-Sunset,#dc4333,220,67,51
-Sunshade,#ff9e2c,255,158,44
-Supernova,#ffc901,255,201,1
-Surf,#bbd7c1,187,215,193
-Surf Crest,#cfe5d2,207,229,210
-Surfie Green,#0c7a79,12,122,121
-Sushi,#87ab39,135,171,57
-Suva Grey,#888387,136,131,135
-Swamp,#001b1c,0,27,28
-Swans Down,#dcf0ea,220,240,234
-Sweet Corn,#fbea8c,251,234,140
-Sweet Pink,#fd9fa2,253,159,162
-Swirl,#d3cdc5,211,205,197
-Swiss Coffee,#ddd6d5,221,214,213
-Sycamore,#908d39,144,141,57
-Tabasco,#a02712,160,39,18
-Tacao,#edb381,237,179,129
-Tacha,#d6c562,214,197,98
-Tahiti Gold,#e97c07,233,124,7
-Tahuna Sands,#eef0c8,238,240,200
-Tall Poppy,#b32d29,179,45,41
-Tallow,#a8a589,168,165,137
-Tamarillo,#991613,153,22,19
-Tamarind,#341515,52,21,21
-Tana,#d9dcc1,217,220,193
-Tangaroa,#03163c,3,22,60
-Tangerine,#e96e00,233,110,0
-Tango,#ed7a1c,237,122,28
-Tapa,#7b7874,123,120,116
-Tapestry,#b05e81,176,94,129
-Tara,#e1f6e8,225,246,232
-Tarawera,#073a50,7,58,80
-Tasman,#cfdccf,207,220,207
-Taupe Grey,#b3af95,179,175,149
-Tawny Port,#692545,105,37,69
-Tax Break,#51808f,81,128,143
-Te Papa Green,#1e433c,30,67,60
-Tea,#c1bab0,193,186,176
-Teak,#b19461,177,148,97
-Teak Wood Finish,#6b2a14,107,42,20
-Teal Blue,#044259,4,66,89
-Temptress,#3b000b,59,0,11
-Tequila,#ffe6c7,255,230,199
-Texas,#f8f99c,248,249,156
-Texas Rose,#ffb555,255,181,85
-Thatch,#b69d98,182,157,152
-Thatch Green,#403d19,64,61,25
-Thistle,#cccaa8,204,202,168
-Thunder,#33292f,51,41,47
-Thunderbird,#c02b18,192,43,24
-Tia Maria,#c1440e,193,68,14
-Tiara,#c3d1d1,195,209,209
-Tiber,#063537,6,53,55
-Tidal,#f1ffad,241,255,173
-Tide,#bfb8b0,191,184,176
-Timber Green,#16322c,22,50,44
-Titan White,#f0eeff,240,238,255
-Toast,#9a6e61,154,110,97
-Tobacco Brown,#715d47,113,93,71
-Tobago,#3e2b23,62,43,35
-Toledo,#3a0020,58,0,32
-Tolopea,#1b0245,27,2,69
-Tom Thumb,#3f583b,63,88,59
-Tonys Pink,#e79f8c,231,159,140
-Topaz,#7c778a,124,119,138
-Torea Bay,#0f2d9e,15,45,158
-Tory Blue,#1450aa,20,80,170
-Tosca,#8d3f3f,141,63,63
-Totem Pole,#991b07,153,27,7
-Touch Wood,#373021,55,48,33
-Tower Grey,#a9bdbf,169,189,191
-Tradewind,#5fb3ac,95,179,172
-Tranquil,#e6ffff,230,255,255
-Travertine,#fffde8,255,253,232
-Tree Poppy,#fc9c1d,252,156,29
-Treehouse,#3b2820,59,40,32
-Trendy Green,#7c881a,124,136,26
-Trendy Pink,#8c6495,140,100,149
-Trinidad,#e64e03,230,78,3
-Tropical Blue,#c3ddf9,195,221,249
-Trout,#4a4e5a,74,78,90
-True V,#8a73d6,138,115,214
-Tuatara,#363534,54,53,52
-Tuft Bush,#ffddcd,255,221,205
-Tulip Tree,#eab33b,234,179,59
-Tumbleweed,#37290e,55,41,14
-Tuna,#353542,53,53,66
-Tundora,#4a4244,74,66,68
-Turbo,#fae600,250,230,0
-Turkish Rose,#b57281,181,114,129
-Turmeric,#cabb48,202,187,72
-Turtle Green,#2a380b,42,56,11
-Tuscany,#bd5e2e,189,94,46
-Tusk,#eef3c3,238,243,195
-Tussock,#c5994b,197,153,75
-Tutu,#fff1f9,255,241,249
-Twilight,#e4cfde,228,207,222
-Twilight Blue,#eefdff,238,253,255
-Twine,#c2955d,194,149,93
-Valencia,#d84437,216,68,55
-Valentino,#350e42,53,14,66
-Valhalla,#2b194f,43,25,79
-Van Cleef,#49170c,73,23,12
-Vanilla,#d1bea8,209,190,168
-Vanilla Ice,#f3d9df,243,217,223
-Varden,#fff6df,255,246,223
-Venetian Red,#72010f,114,1,15
-Venice Blue,#055989,5,89,137
-Venus,#928590,146,133,144
-Verdigris,#5d5e37,93,94,55
-Verdun Green,#495400,73,84,0
-Vesuvius,#b14a0b,177,74,11
-Victoria,#534491,83,68,145
-Vida Loca,#549019,84,144,25
-Viking,#64ccdb,100,204,219
-Vin Rouge,#983d61,152,61,97
-Viola,#cb8fa9,203,143,169
-Violent Violet,#290c5e,41,12,94
-Violet,#240a40,36,10,64
-Viridian Green,#678975,103,137,117
-Vis Vis,#ffefa1,255,239,161
-Vista Blue,#8fd6b4,143,214,180
-Vista White,#fcf8f7,252,248,247
-Volcano,#651a14,101,26,20
-Voodoo,#533455,83,52,85
-Vulcan,#10121d,16,18,29
-Wafer,#decbc6,222,203,198
-Waikawa Grey,#5a6e9c,90,110,156
-Waiouru,#363c0d,54,60,13
-Walnut,#773f1a,119,63,26
-Wan White,#fcfff9,252,255,249
-Wasabi,#788a25,120,138,37
-Water Leaf,#a1e9de,161,233,222
-Watercourse,#056f57,5,111,87
-Waterloo ,#7b7c94,123,124,148
-Wattle,#dcd747,220,215,71
-Watusi,#ffddcf,255,221,207
-Wax Flower,#ffc0a8,255,192,168
-We Peep,#f7dbe6,247,219,230
-Wedgewood,#4e7f9e,78,127,158
-Well Read,#b43332,180,51,50
-West Coast,#625119,98,81,25
-West Side,#ff910f,255,145,15
-Westar,#dcd9d2,220,217,210
-Western Red,#8b0723,139,7,35
-Wewak,#f19bab,241,155,171
-Wheatfield,#f3edcf,243,237,207
-Whiskey,#d59a6f,213,154,111
-Whiskey Sour,#db995e,219,153,94
-Whisper,#f7f5fa,247,245,250
-White Ice,#ddf9f1,221,249,241
-White Lilac,#f8f7fc,248,247,252
-White Linen,#f8f0e8,248,240,232
-White Nectar,#fcffe7,252,255,231
-White Pointer,#fef8ff,254,248,255
-White Rock,#eae8d4,234,232,212
-Wild Rice,#ece090,236,224,144
-Wild Sand,#f4f4f4,244,244,244
-Wild Willow,#b9c46a,185,196,106
-William,#3a686c,58,104,108
-Willow Brook,#dfecda,223,236,218
-Willow Grove,#65745d,101,116,93
-Windsor,#3c0878,60,8,120
-Wine Berry,#591d35,89,29,53
-Winter Hazel,#d5d195,213,209,149
-Wisp Pink,#fef4f8,254,244,248
-Wisteria,#9771b5,151,113,181
-Wistful,#a4a6d3,164,166,211
-Witch Haze,#fffc99,255,252,153
-Wood Bark,#261105,38,17,5
-Woodburn,#3c2005,60,32,5
-Woodland,#4d5328,77,83,40
-Woodrush,#302a0f,48,42,15
-Woodsmoke,#0c0d0f,12,13,15
-Woody Bay,#292130,41,33,48
-Woody Brown,#483131,72,49,49
-Xanadu,#738678,115,134,120
-Yellow Metal,#716338,113,99,56
-Yellow Sea,#fea904,254,169,4
-Your Pink,#ffc3c0,255,195,192
-Yukon Gold,#7b6608,123,102,8
-Yuma,#cec291,206,194,145
-Zambezi,#685558,104,85,88
-Zanah,#daecd6,218,236,214
-Zest,#e5841b,229,132,27
-Zeus,#292319,41,35,25
-Ziggurat,#bfdbe2,191,219,226
-Zircon,#f4f8ff,244,248,255
-Zombie,#e4d69b,228,214,155
-Zorba,#a59b91,165,155,145
-Zuccini,#044022,4,64,34
-Zumthor,#edf6ff,237,246,255
-Zydeco,#02402c,2,64,44
-Acid green,#B0BF1A,176,191,26
-Aero,#7CB9E8,124,185,232
-Aero blue,#C9FFE5,201,255,229
 African violet,#B284BE,178,132,190
 Air Force blue (RAF),#5D8AA8,93,138,168
 Air Force blue (USAF),#00308F,0,48,143
 Air superiority blue,#72A0C1,114,160,193
+Akaroa,#d4c4a8,212,196,168
 Alabama crimson,#AF002A,175,0,42
+Alabaster,#ffffff,255,255,255
 Alabaster[citation needed],#F2F0E6,242,240,230
+Albescent White,#f5e9d3,245,233,211
+Alert Tan,#9b4703,155,71,3
 Alice blue,#F0F8FF,240,248,255
 Alizarin crimson,#E32636,227,38,54
 Alloy orange,#C46210,196,98,16
+Allports,#0076a3,0,118,163
 Almond,#EFDECD,239,222,205
+Almond Frost,#907b71,144,123,113
+Alpine,#af8f2c,175,143,44
+Alto,#dbdbdb,219,219,219
+Aluminium,#a9acb6,169,172,182
 Amaranth,#E52B50,229,43,80
 Amaranth deep purple,#9F2B68,159,43,104
 Amaranth pink,#F19CBB,241,156,187
 Amaranth purple,#AB274F,171,39,79
 Amaranth red,#D3212D,211,33,45
+Amazon,#3b7a57,59,122,87
 Amazon,#3B7A57,59,122,87
 Amber,#FFBF00,255,191,0
 Amber (SAE/ECE),#FF7E00,255,126,0
@@ -1408,6 +42,7 @@ American bronze,#391802,57,24,2
 American brown,#804040,128,64,64
 American gold,#D3AF37,211,175,55
 American green,#34B334,52,179,52
+Americano,#87756e,135,117,110
 American orange,#FF8B00,255,139,0
 American pink,#FF9899,255,152,153
 American purple,#431C53,67,28,83
@@ -1417,151 +52,287 @@ American silver,#CFCFCF,207,207,207
 American violet,#551B8C,85,27,140
 American yellow,#F2B400,242,180,0
 Amethyst,#9966CC,153,102,204
-Android green (2008-2014),#A4C639,164,198,57
+Amethyst Smoke,#a397b4,163,151,180
+Amour,#f9eaf3,249,234,243
+Amulet,#7b9f80,123,159,128
+Anakiwa,#9de5ff,157,229,255
 Android green,#79C257,121,194,87
+Android green (2008-2014),#A4C639,164,198,57
 Anti-flash white,#F2F3F4,242,243,244
 Antique brass,#CD9575,205,149,117
+Antique Brass,#704a07,112,74,7
 Antique bronze,#665D1E,102,93,30
 Antique fuchsia,#915C83,145,92,131
 Antique ruby,#841B2D,132,27,45
 Antique white,#FAEBD7,250,235,215
+Anzac,#e0b646,224,182,70
 Ao (English),#008000,0,128,0
+Apache,#dfbe6f,223,190,111
+Apple,#4fa83d,79,168,61
 Apple,#66B447,102,180,71
+Apple Blossom,#af4d43,175,77,67
 Apple green,#8DB600,141,182,0
+Apple Green,#e2f3ec,226,243,236
+Apricot,#eb9373,235,147,115
 Apricot,#FBCEB1,251,206,177
+Apricot White,#fffeec,255,254,236
+Aqua,#a1dad7,161,218,215
 Aqua,#00FFFF,0,255,255
+Aqua Haze,#edf5f5,237,245,245
+Aquamarine,#014b43,1,75,67
 Aquamarine,#7FFFD4,127,255,212
+Aqua Spring,#eaf9f5,234,249,245
+Aqua Squeeze,#e8f5f2,232,245,242
+Arapawa,#110c6c,17,12,108
 Arctic lime,#D0FF14,208,255,20
 Argent,#C0C0C0,192,192,192
+Armadillo,#433e37,67,62,55
 Army green,#4B5320,75,83,32
+Arrowtown,#948771,148,135,113
 Arsenic,#3B444B,59,68,75
 Artichoke,#8F9779,143,151,121
 Arylide yellow,#E9D66B,233,214,107
 Asda Green,#7DC242,125,194,66
-Asda Green (2002),#32AD61,50,173,97
-Asda Green (1999),#66C992,102,201,146
-Asda Green (1994),#80C197,128,193,151
 Asda Green (1985),#00DEA4,0,222,164
+Asda Green (1994),#80C197,128,193,151
+Asda Green (1999),#66C992,102,201,146
+Asda Green (2002),#32AD61,50,173,97
 Asda Orange,#C86500,200,101,0
 Asda Orange (1968),#CA7309,202,115,9
+Ash,#c6c3b5,198,195,181
+Ash Brown,#2e1905,46,25,5
 Ash gray,#B2BEB5,178,190,181
 Asparagus,#87A96B,135,169,107
+Asphalt,#130a06,19,10,6
+Astra,#faeab9,250,234,185
+Astral,#327da0,50,125,160
+Astronaut,#283a77,40,58,119
+Astronaut Blue,#013e62,1,62,98
 Ateneo blue,#003A6C,0,58,108
+Athens Grey,#eef0f3,238,240,243
+Aths Special,#ecebce,236,235,206
+Atlantis,#97cd2d,151,205,45
+Atoll,#0a6f75,10,111,117
+Atomic,#314459,49,68,89
 Atomic tangerine,#FF9966,255,153,102
+Aubergine,#3b0910,59,9,16
 Auburn,#A52A2A,165,42,42
+Au Chico,#97605d,151,96,93
 Aureolin,#FDEE00,253,238,0
 AuroMetalSaurus,#6E7F80,110,127,128
+Australian Mint,#f5ffbe,245,255,190
+Avocado,#888d65,136,141,101
 Avocado,#568203,86,130,3
 Awesome,#FF2052,255,32,82
+Axolotl,#4e6649,78,102,73
 Axolotl,#63775B,99,119,91
+Azalea,#f7c8da,247,200,218
+Aztec,#0d1c19,13,28,25
+Azure,#315ba1,49,91,161
 Azure,#007FFF,0,127,255
-Azure (web color),#F0FFFF,240,255,255
-Azure mist,#F0FFFF,240,255,255
 Azureish white,#DBE9F4,219,233,244
+Azure mist,#F0FFFF,240,255,255
+Azure (web color),#F0FFFF,240,255,255
 Baby blue,#89CFF0,137,207,240
 Baby blue eyes,#A1CAF1,161,202,241
 Baby pink,#F4C2C2,244,194,194
 Baby powder,#FEFEFA,254,254,250
+Bahama Blue,#026395,2,99,149
+Bahia,#a5cb0c,165,203,12
+Baja White,#fff8d1,255,248,209
 Baker-Miller pink,#FF91AF,255,145,175
+Bali Hai,#859faf,133,159,175
 Ball blue,#21ABCD,33,171,205
+Baltic Sea,#2a2630,42,38,48
+Bamboo,#da6304,218,99,4
 Banana Mania,#FAE7B5,250,231,181
 Banana yellow,#FFE135,255,225,53
+Bandicoot,#858470,133,132,112
 Bangladesh green,#006A4E,0,106,78
+Banjul,#130a06,19,10,6
+Barberry,#ded717,222,215,23
+Barbie Pink,#E94196,233,65,150
 Barbie Pink (1959-1975),#E85395,232,83,149
 Barbie Pink (1975-1990),#D3419D,211,65,157
 Barbie Pink (1990-1999),#F364A2,243,100,162
 Barbie Pink (1999-2004),#F7238A,247,35,138
 Barbie Pink (2004-2005),#FF3988,255,57,136
 Barbie Pink (2005-2009),#FC419A,252,65,154
-Barbie Pink,#E94196,233,65,150
 Barbie Pink (Pantone),#E0218A,224,33,138
+Barley Corn,#a68b5b,166,139,91
+Barley White,#fff4ce,255,244,206
 Barn red,#7C0A02,124,10,2
+Barossa,#44012d,68,1,45
+Bastille,#292130,41,33,48
+Batorange,#C3540A,195,84,10
 Battery charged blue,#1DACD6,29,172,214
 Battleship grey,#848482,132,132,130
-Batorange,#C3540A,195,84,10
+Battleship Grey,#828f72,130,143,114
+Bay Leaf,#7da98d,125,169,141
+Bay of Many,#273a81,39,58,129
 Bayside,#5FC9BF,95,201,191
+Bazaar,#98777b,152,119,123
 Bazaar,#98777B,152,119,123
+B'dazzled blue,#2E5894,46,88,148
+Bean,#3d0c02,61,12,2
 Beau blue,#BCD4E6,188,212,230
+Beauty Bush,#eec1be,238,193,190
 Beaver,#9F8170,159,129,112
 Beer,#F28E1C,242,142,28
+Beeswax,#fef2c7,254,242,199
 Begonia,#FA6E79,250,110,121
 Beige,#F5F5DC,245,245,220
-B'dazzled blue,#2E5894,46,88,148
+Bermuda,#7dd8c6,125,216,198
+Bermuda Grey,#6b8ba2,107,139,162
+Beryl Green,#dee5c0,222,229,192
+Bianca,#fcfbf3,252,251,243
 Big dip o’ruby,#9C2542,156,37,66
 Big Foot Feet,#E88E5A,232,142,90
+Big Stone,#162a40,22,42,64
+Bilbao,#327c14,50,124,20
+Biloba Flower,#b2a1ea,178,161,234
+Birch,#373021,55,48,33
+Bird Flower,#d4cd16,212,205,22
+Biscay,#1b3162,27,49,98
+Bismark,#497183,73,113,131
+Bison Hide,#c1b7a4,193,183,164
 Bisque,#FFE4C4,255,228,196
 Bistre,#3D2B1F,61,43,31
 Bistre brown,#967117,150,113,23
+Bitter,#868974,134,137,116
 Bitter lemon,#CAE00D,202,224,13
+Bitter Lemon,#cae00d,202,224,13
 Bitter lime,#BFFF00,191,255,0
 Bittersweet,#FE6F5E,254,111,94
 Bittersweet shimmer,#BF4F51,191,79,81
+Bizarre,#eededa,238,222,218
 Black,#000000,0,0,0
 Black bean,#3D0C02,61,12,2
+Black Bean,#081910,8,25,16
+Blackberry,#4d0135,77,1,53
+Blackberry,#8F5973,143,89,115
 Black chocolate,#1B1811,27,24,17
 Black coffee,#3B2F2F,59,47,47
 Black coral,#54626F,84,98,111
+Blackcurrant,#32293a,50,41,58
+Black Forest,#0b1304,11,19,4
+Black Haze,#f6f7f7,246,247,247
 Black leather jacket,#253529,37,53,41
+Black Magic,#251706,37,23,6
+Black Marlin,#3e2c1c,62,44,28
 Black olive,#3B3C36,59,60,54
-Blackberry,#8F5973,143,89,115
+Black Pearl,#041322,4,19,34
+Black Pepper,#0e0e18,14,14,24
 Black raspberry,#16110D,22,17,13
+Black Rock,#0d0332,13,3,50
+Black Rose,#67032d,103,3,45
+Black Russian,#0a001c,10,0,28
 Black Shadows,#BFAFB2,191,175,178
+Black Squeeze,#f2fafa,242,250,250
+Black White,#fffef6,255,254,246
+Blackwood,#261105,38,17,5
+Blanc,#f5e9d3,245,233,211
 Blanched almond,#FFEBCD,255,235,205
 Blast-off bronze,#A57164,165,113,100
+Bleached Cedar,#2c2133,44,33,51
+Bleach White,#fef3d8,254,243,216
 Bleu de France,#318CE7,49,140,231
 Blizzard blue,#ACE5EE,172,229,238
 Blond,#FAF0BE,250,240,190
 Blood,#8A0303,138,3,3
-Blood orange,#D1001C,209,0,28
-Blood red,#660000,102,0,0
 Blood (Animal),#A41313,164,19,19
+Blood orange,#D1001C,209,0,28
 Blood (organ),#630F0F,99,15,15
+Blood red,#660000,102,0,0
+Blossom,#dcb4bc,220,180,188
 Blue,#0000FF,0,0,255
+Blue Bark,#041322,4,19,34
+Blue Bayoux,#496679,73,102,121
+Blue bell,#A2A2D0,162,162,208
+Blue Bell,#220878,34,8,120
+Blueberry,#4F86F7,79,134,247
+Blue bolt,#00B9FB,0,185,251
+Bluebonnet,#1C1CF0,28,28,240
+Blue Chalk,#f1e9ff,241,233,255
+Blue Charcoal,#010d1a,1,13,26
+Blue Chill,#0c8990,12,137,144
+Blue cola,#0088DC,0,136,220
 Blue (Crayola),#1F75FE,31,117,254
+Blue Diamond,#380474,56,4,116
+Blue Dianne,#204852,32,72,82
+Blue Gem,#2c0e8c,44,14,140
+Blue-gray,#6699CC,102,153,204
+Blue-green,#0D98BA,13,152,186
+Blue-green (color wheel),#064E40,6,78,64
+Blue Haze,#bfbed8,191,190,216
+Blue jeans,#5DADEC,93,173,236
+Blue lagoon,#ACE5EE,172,229,238
+Blue Lagoon,#017987,1,121,135
+Blue-magenta violet,#553592,85,53,146
+Blue Marguerite,#7666c6,118,102,198
 Blue (Munsell),#0093AF,0,147,175
 Blue (NCS),#0087BD,0,135,189
 Blue (Pantone),#0018A8,0,24,168
 Blue (pigment),#333399,51,51,153
-Blue (RYB),#0247FE,2,71,254
-Blue bell,#A2A2D0,162,162,208
-Blue bolt,#00B9FB,0,185,251
-Blue cola,#0088DC,0,136,220
-Blue-gray,#6699CC,102,153,204
-Blue-green,#0D98BA,13,152,186
-Blue-green (color wheel),#064E40,6,78,64
-Blue jeans,#5DADEC,93,173,236
-Blue lagoon,#ACE5EE,172,229,238
-Blue-magenta violet,#553592,85,53,146
 Blue raspberry,#0CBFE9,12,191,233
+Blue Romance,#d2f6de,210,246,222
+Blue (RYB),#0247FE,2,71,254
 Blue sapphire,#126180,18,97,128
+Blue Smoke,#748881,116,136,129
+Blue Stone,#016162,1,97,98
 Blue-violet,#8A2BE2,138,43,226
-Blue-violet (Crayola),#7366BD,115,102,189
 Blue-violet (color wheel),#4D1A7F,77,26,127
+Blue-violet (Crayola),#7366BD,115,102,189
+Blue Whale,#042e4c,4,46,76
 Blue yonder,#5072A7,80,114,167
-Blueberry,#4F86F7,79,134,247
-Bluebonnet,#1C1CF0,28,28,240
+Blue Zodiac,#13264d,19,38,77
+Blumine,#18587a,24,88,122
+Blush,#b44668,180,70,104
 Blush,#DE5D83,222,93,131
+Bokara Grey,#1c1208,28,18,8
 Bole,#79443B,121,68,59
-Nicole and Bri Blue,#0095B6,0,149,182
+Bombay,#afb1b8,175,177,184
+Bondi Blue,#02478e,2,71,142
+Bone,#e4d1c0,228,209,192
 Bone,#E3DAC9,227,218,201
+Bon Jour,#e5e0e1,229,224,225
+Bordeaux,#5c0120,92,1,32
 Bored accent green,#DDE26A,221,226,106
+Bossanova,#4e2a5a,78,42,90
+Boston Blue,#3b91b4,59,145,180
 Boston University red,#CC0000,204,0,0
+Botticelli,#c7dde5,199,221,229
 Bottle green,#006A4E,0,106,78
-Boysenberry,#873260,135,50,96
+Bottle Green,#093624,9,54,36
+Boulder,#7a7a7a,122,122,122
+Bouquet,#ae809e,174,128,158
+Bourbon,#ba6f1e,186,111,30
 Boy red,#0E9CA5,14,156,165
+Boysenberry,#873260,135,50,96
+Bracken,#4a2a04,74,42,4
 Brandeis blue,#0070FF,0,112,255
+Brandy,#dec196,222,193,150
 Brandy,#87413F,135,65,63
+Brandy Punch,#cd8429,205,132,41
+Brandy Rose,#bb8983,187,137,131
 Brass,#B5A642,181,166,66
 Brave orange,#FF631C,255,99,28
+Brazil,#886221,136,98,33
+Breaker Bay,#5da19f,93,161,159
 Brick red,#CB4154,203,65,84
+Bridal Heath,#fffaf4,255,250,244
+Bridesmaid,#fef0ec,254,240,236
 Bright cerulean,#1DACD6,29,172,214
 Bright gray,#EBECF0,235,236,240
 Bright green,#66FF00,102,255,0
+Bright Grey,#3c4151,60,65,81
 Bright lavender,#BF94E4,191,148,228
 Bright lilac,#D891EF,216,145,239
 Bright maroon,#C32148,195,33,72
 Bright navy blue,#1974D2,25,116,210
 Bright pink,#FF007F,255,0,127
+Bright Red,#b10000,177,0,0
+Bright Sun,#fed33c,254,211,60
 Bright turquoise,#08E8DE,8,232,222
 Bright ube,#D19FE8,209,159,232
 Bright yellow (Crayola),#FFAA1D,255,170,29
@@ -1570,113 +341,218 @@ Brilliant lavender,#F4BBFF,244,187,255
 Brilliant rose,#FF55A3,255,85,163
 Brink pink,#FB607F,251,96,127
 British racing green,#004225,0,66,37
+Bronco,#aba196,171,161,150
+Bronze,#3f2109,63,33,9
 Bronze,#88540B,136,84,11
 Bronze,#CD7F32,205,127,50
 Bronze (metallic),#B08D57,176,141,87
+Bronze Olive,#4e420c,78,66,12
+Bronzetone,#4d400f,77,64,15
 Bronze yellow,#737000,115,112,0
+Broom,#ffec13,255,236,19
 Brown,#993300,153,51,0
-Brown (Crayola),#AF593E,175,89,62
-Brown (traditional),#964B00,150,75,0
-Brown (web),#A52A2A,165,42,42
-Brown-nose,#6B4423,107,68,35
-Brown sugar,#AF6E4D,175,110,77
+Brown Bramble,#592804,89,40,4
 Brown Chocolate,#5F1933,95,25,51
 Brown Coffee,#4A2C2A,74,44,42
+Brown (Crayola),#AF593E,175,89,62
+Brown Derby,#492615,73,38,21
+Brown-nose,#6B4423,107,68,35
+Brown Pod,#401801,64,24,1
+Brown sugar,#AF6E4D,175,110,77
+Brown (traditional),#964B00,150,75,0
+Brown (web),#A52A2A,165,42,42
 Brown Yellow,#CC9966,204,153,102
 Brunswick green,#1B4D3E,27,77,62
 Bubble gum,#FFC1CC,255,193,204
+Bubbles,#e7feff,231,254,255
 Bubbles,#E7FEFF,231,254,255
+Buccaneer,#622f30,98,47,48
+Bud,#a8ae9c,168,174,156
+Buddha Gold,#c1a004,193,160,4
 Bud green,#7BB661,123,182,97
 Buff,#F0DC82,240,220,130
 Bulgarian rose,#480607,72,6,7
+Bulgarian Rose,#480607,72,6,7
+Bull Shot,#864d1e,134,77,30
+Bunker,#0d1117,13,17,23
+Bunting,#151f4c,21,31,76
+Burgundy,#770f05,119,15,5
 Burgundy,#800020,128,0,32
 Burlywood,#DEB887,222,184,135
+Burnham,#002e20,0,46,32
+Burning Sand,#d99376,217,147,118
 Burnished brown,#A17A74,161,122,116
+Burnt Crimson,#65000b,101,0,11
 Burnt orange,#CC5500,204,85,0
 Burnt sienna,#E97451,233,116,81
 Burnt umber,#8A3324,138,51,36
+Bush,#0d2e1c,13,46,28
+Buttercup,#f3ad16,243,173,22
+Buttered Rum,#a1750d,161,117,13
+Butterfly Bush,#624e9a,98,78,154
+Buttermilk,#fff1b5,255,241,181
+Buttery White,#fffcea,255,252,234
 Button blue,#24A0ED,36,160,237
 Byzantine,#BD33A4,189,51,164
 Byzantium,#702963,112,41,99
+Cabaret,#d94972,217,73,114
+Cabbage Pont,#3f4c3a,63,76,58
+Cab Sav,#4d0a18,77,10,24
+Cactus,#587156,88,113,86
 Cadet,#536872,83,104,114
 Cadet blue,#5F9EA0,95,158,160
 Cadet blue (Crayola),#A9B2C3,169,178,195
 Cadet grey,#91A3B0,145,163,176
+Cadillac,#b04c6a,176,76,106
 Cadmium blue,#0A1195,10,17,149
 Cadmium green,#006B3C,0,107,60
 Cadmium orange,#ED872D,237,135,45
 Cadmium purple,#B60C26,182,12,38
 Cadmium red,#E30022,227,0,34
-Cadmium yellow,#FFF600,255,246,0
 Cadmium violet,#7F3E98,127,62,152
+Cadmium yellow,#FFF600,255,246,0
 Café au lait,#A67B5B,166,123,91
 Café noir,#4B3621,75,54,33
-Cal Poly Pomona green,#1E4D2B,30,77,43
+Cafe Royale,#6f440c,111,68,12
 Calamansi,#FCFFA4,252,255,164
+Calico,#e0c095,224,192,149
+California,#fe9d04,254,157,4
+Cal Poly Pomona green,#1E4D2B,30,77,43
+Calypso,#31728d,49,114,141
+Camarone,#00581a,0,88,26
 Cambridge blue,#A3C1AD,163,193,173
 Camel,#C19A6B,193,154,107
+Camelot,#893456,137,52,86
+Cameo,#d9b99b,217,185,155
 Cameo pink,#EFBBCC,239,187,204
+Camouflage,#3c3910,60,57,16
 Camouflage green,#78866B,120,134,107
+Canary,#f3fb62,243,251,98
 Canary,#FFFF99,255,255,153
 Canary yellow,#FFEF00,255,239,0
+Can Can,#d591a4,213,145,164
+Candlelight,#fcd917,252,217,23
 Candy apple red,#FF0800,255,8,0
 Candy pink,#E4717A,228,113,122
+Cannon Black,#251706,37,23,6
+Cannon Pink,#894367,137,67,103
+Canvas,#a8a589,168,165,137
+Cape Cod,#3c4443,60,68,67
+Cape Honey,#fee5ac,254,229,172
+Cape Palliser,#a26645,162,102,69
+Caper,#dcedb4,220,237,180
+Capri,#062a78,6,42,120
 Capri,#00BFFF,0,191,255
 Caput mortuum,#592720,89,39,32
+Caramel,#ffddaf,255,221,175
 Caramel,#FFD59A,255,213,154
+Cararra,#eeeee8,238,238,232
+Cardinal,#8c055e,140,5,94
 Cardinal,#C41E3A,196,30,58
-Caribbean green,#00CC99,0,204,153
+Cardin Green,#01361c,1,54,28
+Careys Pink,#d29eaa,210,158,170
 Caribbean blue,#1AC1DD,26,193,221
+Caribbean green,#00CC99,0,204,153
+Carissma,#ea88a8,234,136,168
+Carla,#f3ffd8,243,255,216
 Carmine,#960018,150,0,24
 Carmine (M&P),#D70040,215,0,64
 Carmine pink,#EB4C42,235,76,66
 Carmine red,#FF0038,255,0,56
+Carnaby Tan,#5c2e01,92,46,1
 Carnation pink,#FFA6C9,255,166,201
 Carnelian,#B31B1B,179,27,27
 Carolina blue,#56A0D3,86,160,211
+Carousel Pink,#f9e0ed,249,224,237
 Carrot orange,#ED9121,237,145,33
+Casablanca,#f8b853,248,184,83
+Casal,#2f6168,47,97,104
+Cascade,#8ba9a5,139,169,165
+Cashmere,#e6bea5,230,190,165
+Casper,#adbed1,173,190,209
 Castleton green,#00563F,0,86,63
+Castro,#52001f,82,0,31
 Catalina blue,#062A78,6,42,120
+Catalina Blue,#062a78,6,42,120
 Catawba,#703642,112,54,66
+Catskill White,#eef6f7,238,246,247
+Cavern Pink,#e3bebe,227,190,190
+Cedar,#3e1c14,62,28,20
 Cedar Chest,#C95A49,201,90,73
+Cedar Wood Finish,#711a00,113,26,0
 Ceil,#92A1CF,146,161,207
 Celadon,#ACE1AF,172,225,175
 Celadon blue,#007BA7,0,123,167
 Celadon green,#2F847C,47,132,124
+Celery,#b8c25d,184,194,93
+Celeste,#d1d2ca,209,210,202
 Celeste,#B2FFFF,178,255,255
 Celestial blue,#4997D0,73,151,208
+Cello,#1e385b,30,56,91
+Celtic,#163222,22,50,34
 Celtic blue,#246BCE,36,107,206
+Cement,#8d7662,141,118,98
+Ceramic,#fcfff9,252,255,249
 Cerise,#DE3163,222,49,99
 Cerise pink,#EC3B83,236,59,131
 Cerulean,#007BA7,0,123,167
 Cerulean blue,#2A52BE,42,82,190
-Cetacean blue,#001440,0,20,64
-Cerulean frost,#6D9BC3,109,155,195
 Cerulean (Crayola),#1DACD6,29,172,214
+Cerulean frost,#6D9BC3,109,155,195
+Ce Soir,#9771b5,151,113,181
+Cetacean blue,#001440,0,20,64
 CG blue,#007AA5,0,122,165
 CG red,#E03C31,224,60,49
+Chablis,#fff4f3,255,244,243
+Chalet Green,#516e3d,81,110,61
+Chalky,#eed794,238,215,148
+Chambray,#354e8c,53,78,140
+Chamois,#eddcb1,237,220,177
 Chamoisee,#A0785A,160,120,90
+Champagne,#faeccc,250,236,204
 Champagne,#F7E7CE,247,231,206
 Champagne pink,#F1DDCF,241,221,207
+Chantilly,#f8c3df,248,195,223
+Charade,#292937,41,41,55
 Charcoal,#36454F,54,69,79
+Chardon,#fff3f1,255,243,241
+Chardonnay,#ffcd8c,255,205,140
 Charleston green,#232B2B,35,43,43
+Charlotte,#baeef9,186,238,249
+Charm,#d47494,212,116,148
 Charm,#D0748B,208,116,139
 Charm pink,#E68FAC,230,143,172
 Chartreuse (traditional),#DFFF00,223,255,0
 Chartreuse (web),#7FFF00,127,255,0
+Chateau Green,#40a860,64,168,96
+Chatelle,#bdb3c7,189,179,199
+Chathams Blue,#175579,23,85,121
 Cheese,#FFA600,255,166,0
+Chelsea Cucumber,#83aa5d,131,170,93
+Chelsea Gem,#9e5302,158,83,2
+Chenin,#dfcd6f,223,205,111
+Cherokee,#fcda98,252,218,152
 Cherry,#DE3163,222,49,99
 Cherry blossom pink,#FFB7C5,255,183,197
+Cherry Pie,#2a0359,42,3,89
+Cherrywood,#651a14,101,26,20
+Cherub,#f8d9e9,248,217,233
 Chestnut,#954535,149,69,53
+Chetwode Blue,#8581d9,133,129,217
+Chicago,#5d5c58,93,92,88
 Chickadee,#FFC34D,255,195,77
+Chiffon,#f1ffc8,241,255,200
+Chilean Fire,#f77703,247,119,3
+Chilean Heath,#fffde6,255,253,230
+China Ivory,#fcffe7,252,255,231
 China pink,#DE6FA1,222,111,161
 China rose,#A8516E,168,81,110
 Chinese black,#141414,20,20,20
 Chinese blue,#365194,54,81,148
 Chinese bronze,#CD8032,205,128,50
 Chinese brown,#AB381F,171,56,31
-Chinese green,#D0DB61,208,219,97
 Chinese gold,#CC9900,204,153,0
+Chinese green,#D0DB61,208,219,97
 Chinese orange,#F37042,243,112,66
 Chinese pink,#DE70A1,222,112,161
 Chinese purple,#720B98,114,11,152
@@ -1686,20 +562,25 @@ Chinese silver,#CCCCCC,204,204,204
 Chinese violet,#856088,133,96,136
 Chinese white,#E2E5DE,226,229,222
 Chinese yellow,#FFB200,255,178,0
+Chino,#cec7a7,206,199,167
+Chinook,#a8e3bd,168,227,189
 Chlorophyll green,#4AFF00,74,255,0
+Chocolate,#370202,55,2,2
 Chocolate brown,#3F000F,63,0,15
 Chocolate cosmos,#58111A,88,17,26
 Chocolate Kisses,#3C1421,60,20,33
 Chocolate (traditional),#7B3F00,123,63,0
 Chocolate (web),#D2691E,210,105,30
-Chrome yellow,#FFA700,255,167,0
+Christalle,#33036b,51,3,107
+Christi,#67a712,103,167,18
+Christine,#e7730a,231,115,10
 Christmas blue,#2A8FBD,42,143,189
 Christmas blue,#365194,54,81,148
 Christmas brown,#5D2B2C,93,43,44
 Christmas brown,#4C1F02,76,31,2
+Christmas gold,#CAA906,202,169,6
 Christmas green,#3C8D0D,60,141,13
 Christmas green,#007502,0,117,2
-Christmas gold,#CAA906,202,169,6
 Christmas orange,#FF6600,255,102,0
 Christmas orange,#D56C2B,213,108,43
 Christmas pink,#FFCCCB,255,204,203
@@ -1711,55 +592,139 @@ Christmas red,#B01B2E,176,27,46
 Christmas silver,#E1DFE0,225,223,224
 Christmas yellow,#FFCC00,255,204,0
 Christmas yellow,#FEF200,254,242,0
+Chrome White,#e8f1d4,232,241,212
+Chrome yellow,#FFA700,255,167,0
+Cigar,#773f1a,119,63,26
+Cinder,#0e0e18,14,14,24
+Cinderella,#fde1dc,253,225,220
 Cinereous,#98817B,152,129,123
 Cinnabar,#E34234,227,66,52
+Cinnamon,#7b3f00,123,63,0
 Cinnamon[citation needed],#D2691E,210,105,30
 Cinnamon Satin,#CD607E,205,96,126
+Cioccolato,#55280c,85,40,12
 Citrine,#E4D00A,228,208,10
 Citrine Brown,#933709,147,55,9
+Citrine White,#faf7d6,250,247,214
+Citron,#9ea91f,158,169,31
 Citron,#9FA91F,159,169,31
+Citrus,#a1c50a,161,197,10
+Clairvoyant,#480656,72,6,86
+Clam Shell,#d4b6af,212,182,175
+Claret,#7f1734,127,23,52
 Claret,#7F1734,127,23,52
 Classic rose,#FBCCE7,251,204,231
+Classic Rose,#fbcce7,251,204,231
+Clay Creek,#8a8360,138,131,96
+Clear Day,#e9fffd,233,255,253
+Clementine,#e96e00,233,110,0
+Clinker,#371d09,55,29,9
+Cloud,#c7c4bf,199,196,191
+Cloud Burst,#202e54,32,46,84
+Cloudy,#aca59f,172,165,159
+Clover,#384910,56,73,16
+Cobalt,#062a78,6,42,120
 Cobalt blue,#0047AB,0,71,171
+Cocoa Bean,#481c1c,72,28,28
 Cocoa brown,#D2691E,210,105,30
+Cocoa Brown,#301f1e,48,31,30
 Coconut,#965A3E,150,90,62
+Coconut Cream,#f8f7dc,248,247,220
 Coconut White,#E9EDF6,233,237,246
+Cod Grey,#0b0b0b,11,11,11
+Coffee,#706555,112,101,85
 Coffee,#6F4E37,111,78,55
+Coffee Bean,#2a140e,42,20,14
+Cognac,#9f381d,159,56,29
+Cola,#3f2500,63,37,0
 Cola,#3C3024,60,48,36
+Cold Purple,#aba0d9,171,160,217
+Cold Turkey,#cebaba,206,186,186
+Colonial White,#ffedbc,255,237,188
 Columbia Blue,#C4D8E2,196,216,226
+Comet,#5c5d75,92,93,117
+Como,#517c66,81,124,102
+Conch,#c9d9d2,201,217,210
+Concord,#7c7b7a,124,123,122
+Concrete,#f2f2f2,242,242,242
 Conditioner,#FFFFCC,255,255,204
+Confetti,#e9d75a,233,215,90
+Congo Brown,#593737,89,55,55
 Congo pink,#F88379,248,131,121
+Conifer,#acdd4d,172,221,77
+Contessa,#c6726b,198,114,107
+Cookies and cream,#EEE0B1,238,224,177
 Cool black,#002E63,0,46,99
 Cool grey,#8C92AC,140,146,172
-Cookies and cream,#EEE0B1,238,224,177
 Copper,#B87333,184,115,51
+Copper Canyon,#7e3a15,126,58,21
 Copper (Crayola),#DA8A67,218,138,103
 Copper penny,#AD6F69,173,111,105
 Copper red,#CB6D51,203,109,81
 Copper rose,#996666,153,102,102
+Copper Rust,#944747,148,71,71
 Coquelicot,#FF3800,255,56,0
+Coral,#c7bca2,199,188,162
 Coral,#FF7F50,255,127,80
+Coral Candy,#ffdcd6,255,220,214
 Coral pink,#F88379,248,131,121
 Coral red,#FF4040,255,64,64
 Coral reef,#FD7C6E,253,124,110
 Coral Reef (Valspar Paint Color),#F6A494,246,164,148
+Coral Tree,#a86b6b,168,107,107
 Cordovan,#893F45,137,63,69
+Corduroy,#606e68,96,110,104
+Coriander,#c4d0b0,196,208,176
+Cork,#40291d,64,41,29
+Corn,#e7bf05,231,191,5
 Corn,#FBEC5D,251,236,93
 Cornell red,#B31B1B,179,27,27
-Cornflower blue,#6495ED,100,149,237
+Corn Field,#f8facd,248,250,205
+Cornflower,#ffb0ac,255,176,172
 Cornflower,#93CCEA,147,204,234
+Cornflower blue,#6495ED,100,149,237
+Corn Harvest,#8b6b0b,139,107,11
 Cornsilk,#FFF8DC,255,248,220
+Corvette,#fad3a2,250,211,162
+Cosmic,#76395d,118,57,93
 Cosmic cobalt,#2E2D88,46,45,136
 Cosmic latte,#FFF8E7,255,248,231
-Coyote brown,#81613C,129,97,60
+Cosmos,#ffd8d9,255,216,217
+Costa Del Sol,#615d30,97,93,48
 Cotton candy,#FFBCD9,255,188,217
+Cotton Seed,#c2bdb6,194,189,182
+County Green,#01371a,1,55,26
+Cove Grey,#051657,5,22,87
+Cowboy,#4d282d,77,40,45
+Coyote brown,#81613C,129,97,60
+Crab Apple,#a02712,160,39,18
+Crail,#b95140,185,81,64
+Cranberry,#b6316c,182,49,108
+Crater Brown,#462425,70,36,37
 Cream,#FFFDD0,255,253,208
+Cream Brulee,#ffe5a0,255,229,160
+Cream Can,#f5c85c,245,200,92
+Creme De Banane,#fffc99,255,252,153
+Creole,#1e0f04,30,15,4
+Crete,#737829,115,120,41
 Crimson,#DC143C,220,20,60
 Crimson glory,#BE0032,190,0,50
 Crimson red,#990000,153,0,0
+Crocodile,#736d58,115,109,88
+Crown of Thorns,#771f1f,119,31,31
+Crowshead,#1c1208,28,18,8
+Cruise,#b5ecdf,181,236,223
+Crusoe,#004816,0,72,22
+Crusta,#fd7b33,253,123,51
 Crystal,#A7D8DE,167,216,222
 Crystal blue,#68A0B0,104,160,176
+Cuban Tan,#2a140e,42,20,14
 Cultured,#F5F5F5,245,245,245
+Cumin,#924321,146,67,33
+Cumulus,#fdffd5,253,255,213
+Cupid,#fbbeda,251,190,218
+Curious Blue,#2596d1,37,150,209
+Cutty Sark,#507672,80,118,114
 Cyan,#00FFFF,0,255,255
 Cyan azure,#4E82B4,78,130,180
 Cyan-blue azure,#4682BF,70,130,191
@@ -1769,9 +734,15 @@ Cyan (process),#00B7EB,0,183,235
 Cyber grape,#58427C,88,66,124
 Cyber yellow,#FFD300,255,211,0
 Cyclamen,#F56FA1,245,111,161
+Cyprus,#003e40,0,62,64
 Daffodil,#FFFF31,255,255,49
+Daintree,#012731,1,39,49
+Dairy Cream,#f9e4bc,249,228,188
+Daisy Bush,#4f2398,79,35,152
+Dallas,#6e4b26,110,75,38
 Dandelion,#F0E130,240,225,48
 Dandelion (Crayola),#FDDB6D,253,219,109
+Danube,#6093d1,96,147,209
 Dark blue,#00008B,0,0,139
 Dark blue-gray,#666699,102,102,153
 Dark bronze,#804A00,128,74,0
@@ -1785,9 +756,10 @@ Dark charcoal,#333333,51,51,51
 Dark chestnut,#986960,152,105,96
 Dark chocolate,#490206,73,2,6
 Dark chocolate (Hershey's),#3C1321,60,19,33
-Dark cornflower blue,#26428B,38,66,139
 Dark coral,#CD5B45,205,91,69
+Dark cornflower blue,#26428B,38,66,139
 Dark cyan,#008B8B,0,139,139
+Dark Ebony,#3c2005,60,32,5
 Dark electric blue,#536878,83,104,120
 Dark gold,#AA6C39,170,108,57
 Dark goldenrod,#B8860B,184,134,11
@@ -1809,6 +781,7 @@ Dark medium gray,#A9A9A9,169,169,169
 Dark midnight blue,#003366,0,51,102
 Dark moss green,#4A5D23,74,93,35
 Dark Navy,#02075D,2,7,93
+Dark Oak,#612718,97,39,24
 Dark olive green,#556B2F,85,107,47
 Dark orange,#FF8C00,255,140,0
 Dark orchid,#9932CC,153,50,204
@@ -1822,16 +795,20 @@ Dark puce,#4F3A3C,79,58,60
 Dark purple,#301934,48,25,52
 Dark raspberry,#872657,135,38,87
 Dark red,#8B0000,139,0,0
+Dark Rimu,#5f3d26,95,61,38
+Dark Rum,#412010,65,32,16
 Dark salmon,#E9967A,233,150,122
 Dark scarlet,#560319,86,3,25
 Dark sea green,#8FBC8F,143,188,143
 Dark sienna,#3C1414,60,20,20
 Dark silver,#71706E,113,112,110
 Dark sky blue,#8CBED6,140,190,214
+Dark Slate,#394851,57,72,81
 Dark slate blue,#483D8B,72,61,139
 Dark slate gray,#2F4F4F,47,79,79
 Dark spring green,#177245,23,114,69
 Dark tan,#918151,145,129,81
+Dark Tan,#661010,102,16,16
 Dark tangerine,#FFA812,255,168,18
 Dark taupe,#483C32,72,60,50
 Dark terra cotta,#CC4E5C,204,78,92
@@ -1841,9 +818,14 @@ Dark violet,#9400D3,148,0,211
 Dark yellow,#9B870C,155,135,12
 Dartmouth green,#00703C,0,112,60
 Davy's grey,#555555,85,85,85
+Dawn,#a6a29a,166,162,154
+Dawn Pink,#f3e9e5,243,233,229
 Debian red,#D70A53,215,10,83
+Deco,#d2da97,210,218,151
 Deep amethyst,#9C8AA4,156,138,164
 Deep aquamarine,#40826D,64,130,109
+Deep Blush,#e47698,228,118,152
+Deep Bronze,#4a3004,74,48,4
 Deep carmine,#A9203E,169,32,62
 Deep carmine pink,#EF3038,239,48,56
 Deep carrot orange,#E9692C,233,105,44
@@ -1851,65 +833,121 @@ Deep cerise,#DA3287,218,50,135
 Deep champagne,#FAD6A5,250,214,165
 Deep chestnut,#B94E48,185,78,72
 Deep coffee,#704241,112,66,65
+Deep Cove,#051040,5,16,64
 Deep dumpling,#9B351B,155,53,27
+Deep Fir,#002900,0,41,0
 Deep fuchsia,#C154C1,193,84,193
 Deep green,#056608,5,102,8
 Deep green-cyan turquoise,#0E7C61,14,124,97
 Deep jungle green,#004B49,0,75,73
 Deep koamaru,#333366,51,51,102
+Deep Koamaru,#1b127b,27,18,123
 Deep lemon,#F5C71A,245,199,26
 Deep lilac,#9955BB,153,85,187
 Deep magenta,#CC00CC,204,0,204
 Deep maroon,#820000,130,0,0
 Deep mauve,#D473D4,212,115,212
 Deep moss green,#355E3B,53,94,59
+Deep Oak,#412010,65,32,16
 Deep peach,#FFCBA4,255,203,164
 Deep pink,#FF1493,255,20,147
 Deep puce,#A95C68,169,92,104
 Deep red,#850101,133,1,1
 Deep ruby,#843F5B,132,63,91
 Deep saffron,#FF9933,255,153,51
+Deep Sea,#01826b,1,130,107
 Deep sky blue,#00BFFF,0,191,255
 Deep Space Sparkle,#4A646C,74,100,108
 Deep spring bud,#556B2F,85,107,47
 Deep taupe,#7E5E60,126,94,96
+Deep Teal,#003532,0,53,50
 Deep Tuscan red,#66424D,102,66,77
 Deep violet,#330066,51,0,102
 Deer,#BA8759,186,135,89
+Dell,#396413,57,100,19
+Del Rio,#b09a95,176,154,149
+Delta,#a4a49d,164,164,157
+Deluge,#7563a8,117,99,168
 Denim,#1560BD,21,96,189
 Denim blue,#2243B6,34,67,182
+Derby,#ffeed8,255,238,216
 Desaturated cyan,#669999,102,153,153
+Desert,#ae6020,174,96,32
 Desert,#C19A6B,193,154,107
 Desert sand,#EDC9AF,237,201,175
+Desert Storm,#f8f8f7,248,248,247
 Desire,#EA3C53,234,60,83
+Dew,#eafffe,234,255,254
+De York,#7ac488,122,196,136
 Diamond,#B9F2FF,185,242,255
+Diesel,#130000,19,0,0
 Dim gray,#696969,105,105,105
+Dingley,#5d7747,93,119,71
 Dingy Dungeon,#C53151,197,49,81
 Dirt,#9B7653,155,118,83
 Dirty brown,#B5651E,181,101,30
 Dirty white,#E8E4C9,232,228,201
+Disco,#871550,135,21,80
+Di Serria,#db995e,219,153,94
+Dixie,#e29418,226,148,24
 Dodger blue,#1E90FF,30,144,255
 Dodie yellow,#FEF65B,254,246,91
 Dogwood rose,#D71868,215,24,104
 Dollar bill,#85BB65,133,187,101
+Dolly,#f9ff8b,249,255,139
+Dolphin,#646077,100,96,119
 Dolphin gray,#828E84,130,142,132
+Domino,#8e775e,142,119,94
+Don Juan,#5d4c51,93,76,81
+Donkey Brown,#a69279,166,146,121
+Dorado,#6b5755,107,87,85
 Douban Blue,#2496CD,36,150,205
 Douban Green,#2E963D,46,150,61
 Douban Light Yellow,#F7C58E,247,197,142
+Double Colonial White,#eee3ad,238,227,173
+Double Pearl Lusta,#fcf4d0,252,244,208
+Double Spanish White,#e6d7b9,230,215,185
+Dove Grey,#6d6c6c,109,108,108
+Downriver,#092256,9,34,86
+Downy,#6fd0c5,111,208,197
 Drab,#967117,150,113,23
+Driftwood,#af8751,175,135,81
+Drover,#fdf7ad,253,247,173
 Duke blue,#00009C,0,0,156
+Dune,#383533,56,53,51
 Durian,#B07939,176,121,57
 Durian White,#E6D0AB,230,208,171
 Durian Yellow,#E1BD27,225,189,39
 Dust storm,#E5CCC9,229,204,201
+Dust Storm,#e5ccc9,229,204,201
+Dusty Grey,#a8989b,168,152,155
 Dutch white,#EFDFBB,239,223,187
+Dutch White,#fff8d1,255,248,209
+Eagle,#b6baa4,182,186,164
+Earls Green,#c9b93b,201,185,59
+Early Dawn,#fff9e6,255,249,230
 Earthtone,#5D3A1A,93,58,26
 Earth yellow,#E1A95F,225,169,95
+East Bay,#414c7d,65,76,125
+Eastern Blue,#1e9ab0,30,154,176
+East Side,#ac91ce,172,145,206
+Ebb,#e9e3e3,233,227,227
+Ebony,#0c0b1d,12,11,29
 Ebony,#555D50,85,93,80
+Ebony Clay,#26283b,38,40,59
+Echo Blue,#afbdd9,175,189,217
+Eclipse,#311c17,49,28,23
 Ecru,#C2B280,194,178,128
+Ecru White,#f5f3e5,245,243,229
+Ecstasy,#fa7814,250,120,20
+Eden,#105852,16,88,82
+Edgewater,#c8e3d7,200,227,215
+Edward,#a2aeab,162,174,171
 Eerie black,#1B1B1B,27,27,27
 Eggplant,#614051,97,64,81
 Eggshell,#F0EAD6,240,234,214
+Egg Sour,#fff4dd,255,244,221
+Egg White,#ffefc1,255,239,193
 Egyptian blue,#1034A6,16,52,166
 Elderberry,#17182B,23,24,43
 Electric blue,#7DF9FF,125,249,255
@@ -1927,40 +965,87 @@ Electric red,#E60000,230,0,0
 Electric ultramarine,#3F00FF,63,0,255
 Electric violet,#8F00FF,143,0,255
 Electric yellow,#FFFF33,255,255,51
+Elephant,#123447,18,52,71
+Elf Green,#088370,8,131,112
+Elm,#1c7c7d,28,124,125
+El Paso,#1e1708,30,23,8
+El Salva,#8f3e33,143,62,51
+Embers,#a02712,160,39,18
 Emerald,#50C878,80,200,120
 Emerald green,#046307,4,99,7
+Eminence,#6c3082,108,48,130
 Eminence,#6C3082,108,48,130
+Emperor,#514649,81,70,73
+Empress,#817377,129,115,119
+Endeavour,#0056a7,0,86,167
+Energy Yellow,#f8dd5c,248,221,92
 English green,#1B4D3E,27,77,62
+English Holly,#022d15,2,45,21
 English lavender,#B48395,180,131,149
 English red,#AB4B52,171,75,82
 English vermillion,#CC474B,204,71,75
 English violet,#563C5C,86,60,92
+English Walnut,#3e2b23,62,43,35
+Envy,#8ba690,139,166,144
+Equator,#e1bc64,225,188,100
+Espresso,#612718,97,39,24
+Eternity,#211a0e,33,26,14
 Eton blue,#96C8A2,150,200,162
+Eucalyptus,#278a5b,39,138,91
 Eucalyptus,#44D7A8,68,215,168
+Eunry,#cfa39d,207,163,157
+Evening Sea,#024e46,2,78,70
+Everglade,#1c402e,28,64,46
 Facebook Blue,#39569C,57,86,156
+Fair Pink,#ffefec,255,239,236
+Falcon,#7f626d,127,98,109
 Fallow,#C19A6B,193,154,107
 Falu red,#801818,128,24,24
 Fandango,#B53389,181,51,137
 Fandango pink,#DE5285,222,82,133
+Fantasy,#faf3f0,250,243,240
 Fashion fuchsia,#F400A1,244,0,161
 Fawn,#E5AA70,229,170,112
+Fedora,#796a78,121,106,120
+Feijoa,#9fdd8c,159,221,140
 Feldgrau,#4D5D53,77,93,83
 Feldspar,#FDD5B1,253,213,177
+Fern,#0a480d,10,72,13
+Fern Frond,#657220,101,114,32
 Fern green,#4F7942,79,121,66
+Ferra,#704f50,112,79,80
 Ferrari red,#FF2800,255,40,0
+Festival,#fbe96c,251,233,108
+Feta,#f0fcea,240,252,234
 Field drab,#6C541E,108,84,30
+Fiery Orange,#b35213,179,82,19
 Fiery rose,#FF5470,255,84,112
+Fiji Green,#657220,101,114,32
+Finch,#626649,98,102,73
+Finlandia,#556d56,85,109,86
+Finn,#692d54,105,45,84
+Fiord,#405169,64,81,105
+Fire,#aa4203,170,66,3
 Firebrick,#B22222,178,34,34
+Fire Bush,#e89928,232,153,40
 Fire engine red,#CE2029,206,32,41
+Firefly,#0e2a30,14,42,48
 Fire opal,#E95C4B,233,92,75
 Flame,#E25822,226,88,34
+Flamenco,#ff7d07,255,125,7
+Flame Pea,#da5b38,218,91,56
+Flame Red,#c7031e,199,3,30
+Flamingo,#f2552a,242,85,42
 Flamingo pink,#FC8EAC,252,142,172
 Flattery,#6B4423,107,68,35
 Flavescent,#F7E98E,247,233,142
+Flax,#7b8265,123,130,101
 Flax,#EEDC82,238,220,130
 Flesh,#FFE9D1,255,233,209
 Flickr Blue,#216BD6,33,107,214
 Flickr Pink,#FB0081,251,0,129
+Flint,#6f6a61,111,106,97
+Flirt,#a2006d,162,0,109
 Flirt,#A2006D,162,0,109
 Floral white,#FFFAF0,255,250,240
 Flower girl,#F498AD,244,152,173
@@ -1968,17 +1053,27 @@ Fluorescent blue,#15F4EE,21,244,238
 Fluorescent orange,#FFBF00,255,191,0
 Fluorescent pink,#FF1493,255,20,147
 Fluorescent yellow,#CCFF00,204,255,0
+Foam,#d8fcfa,216,252,250
+Fog,#d7d0ff,215,208,255
+Foggy Grey,#cbcab6,203,202,182
 Folly,#FF004F,255,0,79
+Forest Green,#182d09,24,45,9
 Forest green (Crayola),#5FA777,95,167,119
 Forest green (traditional),#014421,1,68,33
 Forest green (web),#228B22,34,139,34
+Forget Me Not,#fff1ee,255,241,238
+Fountain Blue,#56b4be,86,180,190
+Frangipani,#ffdeb3,255,222,179
 French beige,#A67B5B,166,123,91
 French bistre,#856D4D,133,109,77
 French blue,#0072BB,0,114,187
 French fuchsia,#FD3F92,253,63,146
+French Grey,#bdbdc6,189,189,198
 French lilac,#86608E,134,96,142
+French Lilac,#ecc7ee,236,199,238
 French lime,#9EFD38,158,253,56
 French mauve,#D473D4,212,115,212
+French Pass,#bdedfd,189,237,253
 French pink,#FD6C9E,253,108,158
 French plum,#811453,129,20,83
 French puce,#4E1609,78,22,9
@@ -1988,101 +1083,238 @@ French sky blue,#77B5FE,119,181,254
 French violet,#8806CE,136,6,206
 French wine,#AC1E44,172,30,68
 Fresh Air,#A6E7FF,166,231,255
+Friar Grey,#807e79,128,126,121
+Fringy Flower,#b1e2c1,177,226,193
+Froly,#f57584,245,117,132
+Frost,#edf5dd,237,245,221
 Frostbite,#E936A7,233,54,167
+Frosted Mint,#dbfff8,219,255,248
+Frostee,#e4f6e7,228,246,231
+Fruit Salad,#4f9d5d,79,157,93
+Fuchsia,#7a58c1,122,88,193
 Fuchsia,#FF00FF,255,0,255
 Fuchsia (Crayola),#C154C1,193,84,193
 Fuchsia pink,#FF77FF,255,119,255
 Fuchsia purple,#CC397B,204,57,123
 Fuchsia rose,#C74375,199,67,117
+Fuego,#bede0d,190,222,13
+Fuel Yellow,#eca927,236,169,39
 Fulvous,#E48400,228,132,0
+Fun Blue,#1959a8,25,89,168
+Fun Green,#016d39,1,109,57
+Fuscous Grey,#54534d,84,83,77
 Fuzzy Wuzzy,#CC6666,204,102,102
+Gable Green,#163531,22,53,49
 Gainsboro,#DCDCDC,220,220,220
+Gallery,#efefef,239,239,239
+Galliano,#dcb20c,220,178,12
 Gamboge,#E49B0F,228,155,15
 Gamboge orange (brown),#996600,153,102,0
-Garnet,#733635,115,54,53
 Gargoyle Gas,#FFDF46,255,223,70
+Garnet,#733635,115,54,53
+Geebung,#d18f1b,209,143,27
 Generic viridian,#007F66,0,127,102
+Genoa,#15736b,21,115,107
+Geraldine,#fb8989,251,137,137
+Geyser,#d4dfe2,212,223,226
+Ghost,#c7c9d5,199,201,213
 Ghost white,#F8F8FF,248,248,255
 Giant's Club,#B05C52,176,92,82
 Giants orange,#FE5A1D,254,90,29
+Gigas,#523c94,82,60,148
+Gimblet,#b8b56a,184,181,106
+Gin,#e8f2eb,232,242,235
 Gin,#D8E4BC,216,228,188
+Gin Fizz,#fff9e2,255,249,226
+Givry,#f8e4bf,248,228,191
+Glacier,#80b3c4,128,179,196
+Glade Green,#61845f,97,132,95
 Glaucous,#6082B6,96,130,182
 Glossy grape,#AB92B3,171,146,179
+Go Ben,#726d4e,114,109,78
+Goblin,#3d7d52,61,125,82
 GO green,#00AB66,0,171,102
 Gold,#A57C00,165,124,0
-Gold (metallic),#D4AF37,212,175,55
-Gold (web) (Golden),#FFD700,255,215,0
 Gold (Crayola),#E6BE8A,230,190,138
-Gold Fusion,#85754E,133,117,78
-Gold foil,#BD9B16,189,155,22
+Gold Drop,#f18200,241,130,0
+Golden Bell,#e28913,226,137,19
 Golden brown,#996515,153,101,21
+Golden Dream,#f0d52d,240,213,45
+Golden Fizz,#f5fb3d,245,251,61
+Golden Glow,#fde295,253,226,149
 Golden poppy,#FCC200,252,194,0
-Golden yellow,#FFDF00,255,223,0
 Goldenrod,#DAA520,218,165,32
-Google Chrome red,#DE5246,222,82,70
+Golden Sand,#f0db7d,240,219,125
+Golden Tainoi,#ffcc5c,255,204,92
+Golden yellow,#FFDF00,255,223,0
+Gold foil,#BD9B16,189,155,22
+Gold Fusion,#85754E,133,117,78
+Gold (metallic),#D4AF37,212,175,55
+Gold Tips,#deba13,222,186,19
+Gold (web) (Golden),#FFD700,255,215,0
+Gondola,#261414,38,20,20
 Google Chrome blue,#4C8BF5,76,139,245
 Google Chrome green,#1AA260,26,162,96
+Google Chrome red,#DE5246,222,82,70
 Google Chrome yellow,#FFCE44,255,206,68
+Gordons Green,#0b1107,11,17,7
+Gorse,#fff14f,255,241,79
+Gossamer,#069b81,6,155,129
+Gossip,#d2f8b0,210,248,176
+Gothic,#6d92a1,109,146,161
+Governor Bay,#2f3cb3,47,60,179
+Grain Brown,#e4d5b7,228,213,183
+Grandis,#ffd38c,255,211,140
 Granite gray,#676767,103,103,103
+Granite Green,#8d8974,141,137,116
+Granny Apple,#d5f6e3,213,246,227
+Granny Smith,#84a0a0,132,160,160
 Granny Smith apple,#A8E4A0,168,228,160
+Grape,#381a51,56,26,81
 Grape,#6F2DA8,111,45,168
-Gray (HTML/CSS gray),#808080,128,128,128
-Gray (X11 gray),#BEBEBE,190,190,190
+Graphite,#251607,37,22,7
+Grass Hopper,#7c7631,124,118,49
+Gravel,#4a444b,74,68,75
 Gray-asparagus,#465945,70,89,69
 Gray-blue,#8C92AC,140,146,172
+Gray (HTML/CSS gray),#808080,128,128,128
+Gray (X11 gray),#BEBEBE,190,190,190
 Green,#008001,0,128,1
-Green (Color Wheel) (X11 green),#00FF00,0,255,0
-Green (Crayola),#1CAC78,28,172,120
-Green (HTML/CSS color),#008000,0,128,0
-Green (Munsell),#00A877,0,168,119
-Green (NCS),#009F6B,0,159,107
-Green (Pantone),#00AD43,0,173,67
-Green (pigment),#00A550,0,165,80
-Green (RYB),#66B032,102,176,50
 Green-blue,#1164B4,17,100,180
 Green-blue (Crayola),#2887C8,40,135,200
 Green Cola,#4C721D,76,114,29
+Green (Color Wheel) (X11 green),#00FF00,0,255,0
+Green (Crayola),#1CAC78,28,172,120
 Green-cyan,#009966,0,153,102
+Green House,#24500f,36,80,15
+Green (HTML/CSS color),#008000,0,128,0
+Green Kelp,#25311c,37,49,28
+Green Leaf,#436a0d,67,106,13
 Green Lizard,#A7F432,167,244,50
+Green Mist,#cbd3b0,203,211,176
+Green (Munsell),#00A877,0,168,119
+Green (NCS),#009F6B,0,159,107
+Green (Pantone),#00AD43,0,173,67
+Green Pea,#1d6142,29,97,66
+Green (pigment),#00A550,0,165,80
+Green (RYB),#66B032,102,176,50
 Green Sheen,#6EAEA1,110,174,161
 Green slime,#65FF00,101,255,0
+Green Smoke,#a4af6e,164,175,110
+Green Spring,#b8c1b1,184,193,177
+Greenstone,#003e40,0,62,64
+Green Vogue,#032b52,3,43,82
+Green Waterloo,#101405,16,20,5
+Green White,#e8ebe0,232,235,224
 Green-yellow,#ADFF2F,173,255,47
 Green-yellow (Crayola),#F0E891,240,232,145
+Grenadier,#d54600,213,70,0
+Grey Chateau,#a2aab3,162,170,179
+Grey Green,#454936,69,73,54
+Grey Nickel,#c3c3bd,195,195,189
+Grey Nurse,#e7ece6,231,236,230
+Grey Olive,#a9a491,169,164,145
+Grey Suit,#c1becd,193,190,205
 Grullo,#A99A86,169,154,134
-Guppie green,#00FF7F,0,255,127
+Guardsman Red,#ba0101,186,1,1
+Gulf Blue,#051657,5,22,87
+Gulf Stream,#80b3ae,128,179,174
+Gull Grey,#9dacb7,157,172,183
+Gumbo,#7ca1a6,124,161,166
+Gum Leaf,#b6d3bf,182,211,191
+Gunmetal,#020d15,2,13,21
 Gunmetal,#2a3439,42,52,57
+Gun Powder,#414257,65,66,87
+Gunsmoke,#828685,130,134,133
+Guppie green,#00FF7F,0,255,127
+Gurkha,#9a9577,154,149,119
 Guyabano,#F8F8F8,248,248,248
+Hacienda,#98811b,152,129,27
+Hairy Heath,#6b2a14,107,42,20
+Haiti,#1b1035,27,16,53
 Halayà úbe,#663854,102,56,84
+Half and Half,#fffee1,255,254,225
+Half Baked,#85c4cc,133,196,204
+Half Colonial White,#fdf6d3,253,246,211
+Half Dutch White,#fef7de,254,247,222
+Half Pearl Lusta,#fffcea,255,252,234
+Half Spanish White,#fef4db,254,244,219
 Halloween orange,#EB6123,235,97,35
+Hampton,#e5d8af,229,216,175
 Han blue,#446CCF,68,108,207
 Han purple,#5218FA,82,24,250
 Hansa yellow,#E9D66B,233,214,107
 Harlequin,#3FFF00,63,255,0
 Harlequin green,#46CB18,70,203,24
 Harmonious rose,#F29CB7,242,156,183
+Harp,#e6f2ea,230,242,234
 Harvard crimson,#C90016,201,0,22
 Harvest gold,#DA9100,218,145,0
+Harvest Gold,#e0b974,224,185,116
+Havana,#341515,52,21,21
+Havelock Blue,#5590d9,85,144,217
+Hawaiian Tan,#9d5616,157,86,22
 Hawaii blue,#00C3E3,0,195,227
+Hawkes Blue,#d4e2fc,212,226,252
 Heart gold,#808000,128,128,0
+Heath,#541012,84,16,18
+Heather,#b7c3d0,183,195,208
+Heathered Grey,#b6b095,182,176,149
 Heat Wave,#FF7A00,255,122,0
+Heavy Metal,#2b3228,43,50,40
 Heidelberg red[2],#960018,150,0,24
 Heliotrope,#DF73FF,223,115,255
 Heliotrope gray,#AA98A9,170,152,169
 Heliotrope magenta,#AA00BB,170,0,187
+Hemlock,#5e5d3b,94,93,59
+Hemp,#907874,144,120,116
+Hibiscus,#b6316c,182,49,108
+Highball,#908d39,144,141,57
+Highland,#6f8e63,111,142,99
+Hillary,#aca586,172,165,134
+Himalaya,#6a5d1b,106,93,27
+Hint of Green,#e6ffe9,230,255,233
+Hint of Grey,#fcfff9,252,255,249
+Hint of Red,#f9f9f9,249,249,249
+Hint of Yellow,#fafde4,250,253,228
+Hippie Blue,#589aaf,88,154,175
+Hippie Green,#53824b,83,130,75
+Hippie Pink,#ae4560,174,69,96
+Hit Grey,#a1adb5,161,173,181
+Hit Pink,#ffab81,255,171,129
+Hokey Pokey,#c8a528,200,165,40
+Hoki,#65869f,101,134,159
+Holly,#011d13,1,29,19
 Hollywood cerise,#F400A1,244,0,161
 Honeydew,#F0FFF0,240,255,240
+Honey Flower,#4f1c70,79,28,112
+Honeysuckle,#edfc84,237,252,132
 Honolulu blue,#006DB0,0,109,176
 Hooker's green,#49796B,73,121,107
+Hopbush,#d06da1,208,109,161
+Horizon,#5a87a0,90,135,160
+Horses Neck,#604913,96,73,19
+Hot Chile,#8b0723,139,7,35
+Hot Curry,#886221,136,98,33
 Hot magenta,#FF1DCE,255,29,206
 Hot pink,#FF69B4,255,105,180
+Hot Purple,#480656,72,6,86
+Hot Toddy,#b38007,179,128,7
 Huawei Red,#CF0A2C,207,10,44
 Huawei Red (1987-2018),#ED1C24,237,28,36
+Humming Bird,#cff9f3,207,249,243
 Hunter green,#355E3B,53,94,59
+Hunter Green,#161d10,22,29,16
+Hurricane,#877c7b,135,124,123
+Husk,#b7a458,183,164,88
+Iceberg,#daf4f0,218,244,240
 Iceberg,#71A6D2,113,166,210
+Ice Cold,#b1f4e7,177,244,231
 Iced tea,#923C01,146,60,1
 Icterine,#FCF75E,252,247,94
 Iguana green,#71BC78,113,188,120
 Illuminating emerald,#319177,49,145,119
+Illusion,#f6a4c9,246,164,201
 Imperial,#602F6B,96,47,107
 Imperial blue,#002395,0,35,149
 Imperial purple,#66023C,102,2,60
@@ -2091,12 +1323,14 @@ Inchworm,#B2EC5D,178,236,93
 Independence,#4C516D,76,81,109
 India green,#138808,19,136,8
 Indian red,#CD5C5C,205,92,92
+Indian Tan,#4d1e01,77,30,1
 Indian yellow,#E3A857,227,168,87
 Indigo,#4B0082,75,0,130
 Indigo blue,#00416A,0,65,106
 Indigo dye,#091F92,9,31,146
 Indigo (rainbow),#233067,35,48,103
 Indigo (web),#4B0082,75,0,130
+Indochine,#c26b03,194,107,3
 Infra red,#FF496C,255,73,108
 Interdimensional blue,#360CCC,54,12,204
 International Klein Blue,#002FA7,0,47,167
@@ -2104,54 +1338,116 @@ International orange (aerospace),#FF4F00,255,79,0
 International orange (engineering),#BA160C,186,22,12
 International orange (Golden Gate Bridge),#C0362C,192,54,44
 Iris,#5A4FCF,90,79,207
+Irish Coffee,#5f3d26,95,61,38
+Iroko,#433120,67,49,32
+Iron,#d4d7d9,212,215,217
 Iron,#A19D94,161,157,148
+Ironbark,#411f10,65,31,16
+Ironside Grey,#676662,103,102,98
+Ironstone,#86483c,134,72,60
 Irresistible,#B3446C,179,68,108
 Isabelline,#F4F0EC,244,240,236
 Islamic green,#009000,0,144,0
+Island Spice,#fffcee,255,252,238
 Italian sky blue,#B2FFFF,178,255,255
 Ivory,#FFFFF0,255,255,240
+Jacaranda,#2e0329,46,3,41
+Jacarta,#3a2a6a,58,42,106
 Jacarta,#3D325D,61,50,93
 Jacko bean,#413628,65,54,40
+Jacko Bean,#2e1905,46,25,5
+Jacksons Purple,#20208d,32,32,141
+Jade,#427977,66,121,119
 Jade,#00A86B,0,168,107
+Jaffa,#ef863f,239,134,63
+Jagged Ice,#c2e8e5,194,232,229
+Jagger,#350e57,53,14,87
+Jaguar,#080110,8,1,16
+Jambalaya,#5b3013,91,48,19
+Janna,#f4ebd3,244,235,211
 Japanese carmine,#9D2933,157,41,51
 Japanese indigo,#264348,38,67,72
 Japanese laurel,#2F7532,47,117,50
+Japanese Laurel,#0a6906,10,105,6
+Japanese Maple,#780109,120,1,9
 Japanese violet,#5B3256,91,50,86
+Japonica,#d87c63,216,124,99
+Jarrah,#341515,52,21,21
 Jasmine,#F8DE7E,248,222,126
 Jasper,#D73B3E,215,59,62
 Jasper orange,#DE8F4E,222,143,78
+Java,#1fc2c2,31,194,194
+Jazz,#780109,120,1,9
 Jazzberry jam,#A50B5E,165,11,94
 Jelly bean,#DA614E,218,97,78
+Jelly Bean,#297b9a,41,123,154
 Jelly bean blue,#44798E,68,121,142
 Jet,#343434,52,52,52
 Jet stream,#BBD0C9,187,208,201
+Jet Stream,#b5d2ce,181,210,206
+Jewel,#126b40,18,107,64
+Joanna,#f5f3e5,245,243,229
+Jon,#3b1f1f,59,31,31
+Jonquil,#eeff9a,238,255,154
 Jonquil,#F4CA16,244,202,22
 Jordy blue,#8AB9F1,138,185,241
+Jordy Blue,#8ab9f1,138,185,241
+Judge Grey,#544333,84,67,51
+Jumbo,#7c7b82,124,123,130
 June bud,#BDDA57,189,218,87
 Jungle green,#29AB87,41,171,135
+Jungle Green,#281e15,40,30,21
+Jungle Mist,#b4cfd3,180,207,211
+Juniper,#6d9292,109,146,146
+Just Right,#eccdb9,236,205,185
+Kabul,#5e483e,94,72,62
+Kaitoke Green,#004620,0,70,32
+Kangaroo,#c6c8bd,198,200,189
+Karaka,#1e1609,30,22,9
+Karry,#ffead4,255,234,212
+Kashmir Blue,#507096,80,112,150
 Kelly green,#4CBB17,76,187,23
+Kelp,#454936,69,73,54
 Kenyan copper,#7C1C05,124,28,5
+Kenyan Copper,#7c1c05,124,28,5
+Keppel,#3ab09e,58,176,158
 Keppel,#3AB09E,58,176,158
 Key lime,#E8F48C,232,244,140
 Khaki (HTML/CSS) (Khaki),#C3B091,195,176,145
 Khaki (X11) (Light khaki),#F0E68C,240,230,140
+Kidnapper,#e1ead4,225,234,212
+Kilamanjaro,#240c02,36,12,2
+Killarney,#3a6a47,58,106,71
+Kimberly,#736c9f,115,108,159
+Kingfisher Daisy,#3e0480,62,4,128
 Kiwi,#8EE53F,142,229,63
 Kobe,#882D17,136,45,23
+Kobi,#e79fc4,231,159,196
 Kobi,#E79FC4,231,159,196
 Kobicha,#6B4423,107,68,35
+Kokoda,#6e6d57,110,109,87
 Kombu green,#354230,53,66,48
+Korma,#8f4b0e,143,75,14
+Koromiko,#ffbd5f,255,189,95
+Kournikova,#ffe772,255,231,114
 KSU purple,#512888,81,40,136
 KU crimson,#E8000D,232,0,13
-La Salle green,#087830,8,120,48
+Kumera,#886221,136,98,33
 Languid lavender,#D6CADD,214,202,221
+La Palma,#368716,54,135,22
 Lapis lazuli,#26619C,38,97,156
+La Rioja,#b3c110,179,193,16
+La Salle green,#087830,8,120,48
+Laser,#c8b568,200,181,104
 Laser lemon,#FFFF66,255,255,102
+Las Palmas,#c6e610,198,230,16
+Laurel,#749378,116,147,120
 Laurel green,#A9BA9D,169,186,157
 Lava,#CF1020,207,16,32
-Lavender (floral),#B57EDC,181,126,220
-Lavender (web),#E6E6FA,230,230,250
+Lavender,#a899e6,168,153,230
 Lavender blue,#CCCCFF,204,204,255
 Lavender blush,#FFF0F5,255,240,245
+Lavender (floral),#B57EDC,181,126,220
 Lavender gray,#C4C3D0,196,195,208
 Lavender indigo,#9457EB,148,87,235
 Lavender magenta,#EE82EE,238,130,238
@@ -2159,16 +1455,22 @@ Lavender mist,#E6E6FA,230,230,250
 Lavender pink,#FBAED2,251,174,210
 Lavender purple,#967BB6,150,123,182
 Lavender rose,#FBA0E3,251,160,227
+Lavender (web),#E6E6FA,230,230,250
 Lawn green,#7CFC00,124,252,0
+Leather,#967059,150,112,89
+Lemon,#f4d81c,244,216,28
 Lemon,#FFF700,255,247,0
 Lemon chiffon,#FFFACD,255,250,205
 Lemon curry,#CCA01D,204,160,29
+Lemon Ginger,#ac9e22,172,158,34
 Lemon glacier,#FDFF00,253,255,0
+Lemon Grass,#9b9e8f,155,158,143
 Lemon meringue,#F6EABE,246,234,190
 Lemon yellow,#FFF44F,255,244,79
 Lemon yellow (Crayola),#FFFF9F,255,255,159
 Lenurple,#BA93D8,186,147,216
 Liberty,#545AA7,84,90,167
+Licorice,#092256,9,34,86
 Licorice,#1A1110,26,17,16
 Light apricot,#FDD5B1,253,213,177
 Light blue,#ADD8E6,173,216,230
@@ -2193,6 +1495,7 @@ Light khaki,#F0E68C,240,230,140
 Light magenta,#FF80FF,255,128,255
 Light medium orchid,#D39BCB,211,155,203
 Light moss green,#ADDFAD,173,223,173
+Lightning Yellow,#fcc01e,252,192,30
 Light orange,#FED8B1,254,216,177
 Light orchid,#E6A8D7,230,168,215
 Light pastel purple,#B19CD9,177,156,217
@@ -2211,58 +1514,130 @@ Light taupe,#B38B6D,179,139,109
 Light Thulian pink,#E68FAC,230,143,172
 Light yellow,#FFFFE0,255,255,224
 Lilac,#C8A2C8,200,162,200
+Lilac Bush,#9874d3,152,116,211
 Lilac Luster,#AE98AA,174,152,170
+Lily,#c8aabf,200,170,191
+Lily White,#e7f8ff,231,248,255
+Lima,#76bd17,118,189,23
+Lime,#bfc921,191,201,33
+Limeade,#6f9d02,111,157,2
 Lime (color wheel),#BFFF00,191,255,0
-Lime (web) (X11 green),#00FF00,0,255,0
+Limed Ash,#747d63,116,125,99
+Limed Gum,#423921,66,57,33
+Limed Oak,#ac8a56,172,138,86
+Limed Spruce,#394851,57,72,81
 Lime green,#32CD32,50,205,50
+Limerick,#9dc209,157,194,9
 Limerick,#9DC209,157,194,9
+Lime (web) (X11 green),#00FF00,0,255,0
 Lincoln green,#195905,25,89,5
+Linen,#e6e4d4,230,228,212
 Linen,#FAF0E6,250,240,230
 Linkedin Blue,#0072B1,0,114,177
+Link Water,#d9e4f5,217,228,245
 Lion,#C19A6B,193,154,107
+Lipstick,#ab0563,171,5,99
+Lisbon Brown,#423921,66,57,33
 Liseran purple,#DE6FA1,222,111,161
 Little boy blue,#6CA0DC,108,160,220
 Little girl pink,#F8B9D4,248,185,212
 Liver,#674C47,103,76,71
+Liver chestnut,#987456,152,116,86
 Liver (dogs),#B86D29,184,109,41
 Liver (organ),#6C2E1F,108,46,31
-Liver chestnut,#987456,152,116,86
 Livid,#6699CC,102,153,204
+Livid Brown,#4d282e,77,40,46
+Loafer,#eef4de,238,244,222
+Loblolly,#bdc9ce,189,201,206
+Lochinvar,#2c8c84,44,140,132
+Lochmara,#007ec7,0,126,199
+Locust,#a8af8e,168,175,142
+Logan,#aaa9cd,170,169,205
+Log Cabin,#242a1d,36,42,29
+Lola,#dfcfdb,223,207,219
+London Hue,#bea6c3,190,166,195
+Lonestar,#6d0101,109,1,1
 Lotion,#FEFDFA,254,253,250
+Lotus,#863c3c,134,60,60
+Loulou,#460b41,70,11,65
+Lucky,#af9f1c,175,159,28
+Lucky Point,#1a1a68,26,26,104
 Lumber,#FFE4CD,255,228,205
+Lunar Green,#3c493a,60,73,58
 Lust,#E62020,230,32,32
+Lusty,#991b07,153,27,7
+Luxor Gold,#a7882c,167,136,44
 Lychee,#DC5349,220,83,73
+Lynch,#697e9a,105,126,154
 Maastricht blue,#001C3D,0,28,61
+Mabel,#d9f7ff,217,247,255
 Macaroni and Cheese,#FFBD88,255,189,136
+Madang,#b7f0be,183,240,190
 Madder Lake,#CC3336,204,51,54
+Madison,#09255d,9,37,93
+Madras,#3f3002,63,48,2
 Magenta,#FF00FF,255,0,255
 Magenta (Crayola),#FF55A3,255,85,163
 Magenta (dye),#CA1F7B,202,31,123
-Magenta (Pantone),#D0417E,208,65,126
-Magenta (process),#FF0090,255,0,144
 Magenta haze,#9F4576,159,69,118
+Magenta (Pantone),#D0417E,208,65,126
 Magenta-pink,#CC338B,204,51,139
+Magenta (process),#FF0090,255,0,144
 Magic mint,#AAF0D1,170,240,209
 Magic Potion,#FF4466,255,68,102
+Magnolia,#f8f4ff,248,244,255
 Magnolia,#F8F4FF,248,244,255
+Mahogany,#4e0606,78,6,6
 Mahogany,#C04000,192,64,0
+Maire,#130a06,19,10,6
+Mai Tai,#b06608,176,102,8
+Maize,#f5d5a0,245,213,160
 Maize,#FBEC5D,251,236,93
 Maize (Crayola),#F2C649,242,198,73
 Majorelle blue,#6050DC,96,80,220
+Makara,#897d6d,137,125,109
+Mako,#444954,68,73,84
 Malachite,#0BDA51,11,218,81
+Malachite Green,#888d65,136,141,101
+Malibu,#7dc8f7,125,200,247
+Mallard,#233418,35,52,24
+Malta,#bdb2a1,189,178,161
+Mamba,#8e8190,142,129,144
 Manatee,#979AAA,151,154,170
+Mandalay,#ad781b,173,120,27
 Mandarin,#F37A48,243,122,72
+Mandy,#e25465,226,84,101
+Mandys Pink,#f2c3b2,242,195,178
 Mango green,#96FF00,150,255,0
 Mango Tango,#FF8243,255,130,67
+Manhattan,#f5c999,245,201,153
+Mantis,#74c365,116,195,101
 Mantis,#74C365,116,195,101
+Mantle,#8b9c90,139,156,144
+Manz,#eeef78,238,239,120
+Mardi Gras,#350036,53,0,54
 Mardi Gras,#880085,136,0,133
+Marigold,#b98d28,185,141,40
 Marigold,#EAA221,234,162,33
+Mariner,#286acd,40,106,205
+Marlin,#2a140e,42,20,14
+Maroon,#420303,66,3,3
 Maroon (Crayola),#C32148,195,33,72
 Maroon (HTML/CSS),#800000,128,0,0
 Maroon (X11),#B03060,176,48,96
+Marshland,#0b0f08,11,15,8
+Martini,#afa09e,175,160,158
+Martinique,#363050,54,48,80
+Marzipan,#f8db9d,248,219,157
+Masala,#403b38,64,59,56
+Mash,#40291d,64,41,29
+Matisse,#1b659d,27,101,157
+Matrix,#b05d54,176,93,84
+Matterhorn,#4e3b41,78,59,65
 Mauve,#E0B0FF,224,176,255
-Mauve taupe,#915F6D,145,95,109
 Mauvelous,#EF98AA,239,152,170
+Mauve taupe,#915F6D,145,95,109
+Maverick,#d8c2d5,216,194,213
 Maximum blue,#47ABCC,71,171,204
 Maximum blue green,#30BFBF,48,191,191
 Maximum blue purple,#ACACE6,172,172,230
@@ -2273,8 +1648,9 @@ Maximum red,#D92121,217,33,33
 Maximum red purple,#A63A79,166,58,121
 Maximum yellow,#FAFA37,250,250,55
 Maximum yellow red,#F2BA49,242,186,73
-May green,#4C9141,76,145,65
 Maya blue,#73C2FB,115,194,251
+May green,#4C9141,76,145,65
+McKenzie,#af8751,175,135,81
 Meat brown,#E5B73B,229,183,59
 Medium aquamarine,#66DDAA,102,221,170
 Medium blue,#0000CD,0,0,205
@@ -2299,13 +1675,23 @@ Medium turquoise,#48D1CC,72,209,204
 Medium Tuscan red,#79443B,121,68,59
 Medium vermilion,#D9603B,217,96,59
 Medium violet-red,#C71585,199,21,133
+Melancholy,#FDBCB4,253,188,180
+Melanie,#e4c2d5,228,194,213
+Melanzane,#300529,48,5,41
 Mellow apricot,#F8B878,248,184,120
 Mellow yellow,#F8DE7E,248,222,126
-Melancholy,#FDBCB4,253,188,180
+Melrose,#c7c1ff,199,193,255
 Menthol,#C1F9A2,193,249,162
+Meranti,#5d1e0f,93,30,15
+Mercury,#e5e5e5,229,229,229
+Merino,#f6f0e6,246,240,230
+Merlin,#413c37,65,60,55
+Merlot,#831923,131,25,35
 Metallic blue,#32527B,50,82,123
 Metallic bronze,#A97142,169,113,66
+Metallic Bronze,#49371b,73,55,27
 Metallic brown,#AC4313,172,67,19
+Metallic Copper,#71291d,113,41,29
 Metallic gold,#D3AF37,211,175,55
 Metallic green,#296E01,41,110,1
 Metallic orange,#DA680F,218,104,15
@@ -2316,85 +1702,177 @@ Metallic silver,#A8A9AD,168,169,173
 Metallic Sunburst,#9C7C38,156,124,56
 Metallic violet,#5B0A91,91,10,145
 Metallic yellow,#FDCC0D,253,204,13
+Meteor,#d07d12,208,125,18
+Meteorite,#3c1f76,60,31,118
 Mexican pink,#E4007C,228,0,124
-Microsoft red,#F04E1F,240,78,31
+Mexican Red,#a72525,167,37,37
 Microsoft blue,#00A2ED,0,162,237
-Microsoft green,#7DB700,125,183,0
-Microsoft yellow,#FDB900,253,185,0
 Microsoft Edge blue,#0078D7,0,120,215
+Microsoft green,#7DB700,125,183,0
+Microsoft red,#F04E1F,240,78,31
+Microsoft yellow,#FDB900,253,185,0
 Middle blue,#7ED4E6,126,212,230
 Middle blue green,#8DD9CC,141,217,204
 Middle blue purple,#8B72BE,139,114,190
-Middle grey,#8B8680,139,134,128
 Middle green,#4D8C57,77,140,87
 Middle green yellow,#ACBF60,172,191,96
+Middle grey,#8B8680,139,134,128
 Middle purple,#D982B5,217,130,181
 Middle red,#E58E73,229,142,115
 Middle red purple,#A55353,165,83,83
 Middle yellow,#FFEB00,255,235,0
 Middle yellow red,#ECB176,236,177,118
+Mid Grey,#5f5f6e,95,95,110
+Midnight,#011635,1,22,53
 Midnight,#702670,112,38,112
 Midnight blue,#191970,25,25,112
 Midnight blue,#00468C,0,70,140
+Midnight Express,#000741,0,7,65
 Midnight green (eagle green),#004953,0,73,83
+Midnight Moss,#041004,4,16,4
+Mikado,#2d2510,45,37,16
 Mikado yellow,#FFC40C,255,196,12
+Milan,#faffa4,250,255,164
+Milano Red,#b81104,184,17,4
 Milk,#FDFFF5,253,255,245
 Milk chocolate,#84563C,132,86,60
+Milk Punch,#fff6d4,255,246,212
+Milk White,#f6f0e6,246,240,230
+Millbrook,#594433,89,68,51
 Mimi pink,#FFDAE9,255,218,233
+Mimosa,#f8fdd3,248,253,211
+Mindaro,#e3f988,227,249,136
 Mindaro,#E3F988,227,249,136
+Mineral Green,#3f5d53,63,93,83
+Mine Shaft,#323232,50,50,50
+Ming,#36747d,54,116,125
 Ming,#36747D,54,116,125
 Minion yellow,#F5E050,245,224,80
+Minsk,#3f307f,63,48,127
 Mint,#3EB489,62,180,137
 Mint cream,#F5FFFA,245,255,250
 Mint green,#98FF98,152,255,152
+Mint Julep,#f1eec1,241,238,193
+Mint Tulip,#c4f4eb,196,244,235
+Mirage,#161928,22,25,40
+Mischka,#d1d2dd,209,210,221
+Mist Grey,#c4c4bc,196,196,188
 Misty moss,#BBB477,187,180,119
 Misty rose,#FFE4E1,255,228,225
+Mobster,#7f7589,127,117,137
+Moccaccino,#6e1d14,110,29,20
 Moccasin,#FAEBD7,250,235,215
+Mocha,#782d19,120,45,25
 Mocha,#BEA493,190,164,147
 Mode beige,#967117,150,113,23
+Mojo,#c04737,192,71,55
+Mona Lisa,#ffa194,255,161,148
+Monarch,#8b0723,139,7,35
+Mondo,#4a3c30,74,60,48
+Mongoose,#b5a27f,181,162,127
+Monsoon,#8a8389,138,131,137
+Montana,#291e30,41,30,48
+Monte Carlo,#83d0c6,131,208,198
+Monza,#c7031e,199,3,30
+Moody Blue,#7f76d3,127,118,211
+Moon Glow,#fcfeda,252,254,218
+Moon Mist,#dcddcc,220,221,204
+Moon Raker,#d6cef6,214,206,246
 Moonstone,#3AA8C1,58,168,193
 Moonstone blue,#73A9C2,115,169,194
+Moon Yellow,#fcd917,252,217,23
 Mordant red 19,#AE0C00,174,12,0
 Morning blue,#8DA399,141,163,153
+Morning Glory,#9edee0,158,222,224
+Morocco Brown,#441d00,68,29,0
+Mortar,#504351,80,67,81
+Mosaic,#123447,18,52,71
+Mosque,#036a6e,3,106,110
 Moss green,#8A9A5B,138,154,91
 Mountain Meadow,#30BA8F,48,186,143
+Mountain Mist,#959396,149,147,150
 Mountbatten pink,#997A8D,153,122,141
 MSU green,#18453B,24,69,59
 Mud,#70543E,112,84,62
+Muddy Waters,#b78e5c,183,142,92
+Muesli,#aa8b5b,170,139,91
 Mughal green,#306030,48,96,48
+Mulberry,#5c0536,92,5,54
 Mulberry,#C54B8C,197,75,140
 Mulberry (Crayola),#C8509B,200,80,155
+Mule Fawn,#8c472f,140,71,47
+Mulled Wine,#4e4562,78,69,98
 Mummy's Tomb,#828E84,130,142,132
+Mustard,#74640d,116,100,13
 Mustard,#FFDB58,255,219,88
 Mustard brown,#CD7A00,205,122,0
 Mustard green,#6E6E30,110,110,48
 Mustard yellow,#E1AD01,225,173,1
+My Pink,#d69188,214,145,136
 Myrtle green,#317873,49,120,115
+My Sin,#ffb31f,255,179,31
+Mystic,#e2ebed,226,235,237
 Mystic,#D65282,214,82,130
 Mystic maroon,#AD4379,173,67,121
 Mystic red,#FF5500,255,85,0
 Nadeshiko pink,#F6ADC6,246,173,198
+Nandor,#4b5d52,75,93,82
+Napa,#aca494,172,164,148
 Napier green,#2A8000,42,128,0
 Naples yellow,#FADA5E,250,218,94
+Narvik,#edf9f1,237,249,241
+Natural,#86560a,134,86,10
 Navajo white,#FFDEAD,255,222,173
 Navy blue,#000080,0,0,128
 Navy blue (Crayola),#1974D2,25,116,210
+Nebula,#cbdbd6,203,219,214
+Negroni,#ffe2c5,255,226,197
 Neon blue,#1B03A3,27,3,163
 Neon green,#39FF14,57,255,20
+Nepal,#8eabc1,142,171,193
+Neptune,#7cb7bb,124,183,187
+Nero,#140600,20,6,0
+Neutral Green,#aca586,172,165,134
+Nevada,#646e75,100,110,117
+New Amber,#7b3801,123,56,1
 New Car,#214FC6,33,79,198
+New Orleans,#f3d69d,243,214,157
 New York pink,#D7837F,215,131,127
+New York Pink,#d7837f,215,131,127
+Niagara,#06a189,6,161,137
 Nickel,#727472,114,116,114
+Nicole and Bri Blue,#0095B6,0,149,182
+Nightclub,#660045,102,0,69
+Night Rider,#1f120f,31,18,15
+Night Shadz,#aa375a,170,55,90
+Nile Blue,#193751,25,55,81
 Nintendo red,#E4000F,228,0,15
+Nobel,#b7b1b1,183,177,177
+Nomad,#bab1a2,186,177,162
 Non-photo blue,#A4DDED,164,221,237
+Nordic,#012731,1,39,49
 North Texas green,#059033,5,144,51
+Norway,#a8bd9f,168,189,159
+Nugget,#c59922,197,153,34
+Nutmeg,#81422c,129,66,44
+Nutmeg Wood Finish,#683600,104,54,0
 Nyanza,#E9FFDB,233,255,219
+Oasis,#feefce,254,239,206
+Observatory,#02866f,2,134,111
 Ocean Blue,#4F42B5,79,66,181
 Ocean boat blue,#0077BE,0,119,190
 Ocean green,#48BF91,72,191,145
+Ocean Green,#41aa78,65,170,120
 Ochre,#CC7722,204,119,34
+Off Green,#e6f8f3,230,248,243
 Office green,#008000,0,128,0
+Off Yellow,#fef9e3,254,249,227
 Ogre Odor,#FD5240,253,82,64
+Oil,#281e15,40,30,21
+Oiled Cedar,#7c1c05,124,28,5
+Old Brick,#901e1e,144,30,30
 Old burgundy,#43302E,67,48,46
+Old Copper,#724a2f,114,74,47
 Old gold,#CFB53B,207,181,59
 Old heliotrope,#563C5C,86,60,92
 Old lace,#FDF5E6,253,245,230
@@ -2407,37 +1885,65 @@ Olive,#808000,128,128,0
 Olive Drab (#3),#6B8E23,107,142,35
 Olive Drab #7,#3C341F,60,52,31
 Olive green,#B5B35C,181,179,92
+Olive Green,#242e16,36,46,22
+Olive Haze,#8b8470,139,132,112
+Olivetone,#716e10,113,110,16
 Olivine,#9AB973,154,185,115
+Onahau,#cdf4ff,205,244,255
+Onion,#2f270e,47,39,14
 Onyx,#353839,53,56,57
+Opal,#a9c6c2,169,198,194
 Opal,#A8C3BC,168,195,188
-Opera Red,#FF1B2D,255,27,45
 Opera mauve,#B784A7,183,132,167
+Opera Red,#FF1B2D,255,27,45
+Opium,#8e6f70,142,111,112
+Oracle,#377475,55,116,117
 Orange,#FF6600,255,102,0
 Orange (color wheel),#FF7F00,255,127,0
 Orange (Crayola),#FF7538,255,117,56
 Orange (Pantone),#FF5800,255,88,0
-Orange (RYB),#FB9902,251,153,2
-Orange (web),#FFA500,255,165,0
 Orange peel,#FF9F00,255,159,0
 Orange-red,#FF681F,255,104,31
 Orange-red (Crayola),#FF5349,255,83,73
+Orange Roughy,#c45719,196,87,25
+Orange (RYB),#FB9902,251,153,2
 Orange soda,#FA5B3D,250,91,61
 Orange soda,#EB593D,235,89,61
+Orange (web),#FFA500,255,165,0
+Orange White,#fefced,254,252,237
 Orange-yellow,#F5BD1F,245,189,31
 Orange-yellow (Crayola),#F8D568,248,213,104
 Orchid,#DA70D6,218,112,214
-Orchid pink,#F2BDCD,242,189,205
 Orchid (Crayola),#E29CD2,226,156,210
+Orchid pink,#F2BDCD,242,189,205
+Orchid White,#fffdf3,255,253,243
+Oregon,#9b4703,155,71,3
+Orient,#015e85,1,94,133
+Oriental Pink,#c69191,198,145,145
+Orinoco,#f3fbd4,243,251,212
 Orioles orange,#FB4F14,251,79,20
+Oslo Grey,#878d91,135,141,145
 Otter brown,#654321,101,67,33
+Ottoman,#e9f8ed,233,248,237
+OU Crimson red,#841617,132,22,23
 Outer space,#414A4C,65,74,76
+Outer Space,#051040,5,16,64
 Outer space (Crayola),#2D383A,45,56,58
 Outrageous Orange,#FF6E4A,255,110,74
 Oxblood,#800020,128,0,32
 Oxford blue,#002147,0,33,71
+Oxford Blue,#384555,56,69,85
+Oxley,#779e86,119,158,134
 Oxley,#6D9A79,109,154,121
-OU Crimson red,#841617,132,22,23
+Oyster,#e6dad3,230,218,211
+Oyster Bay,#dafaff,218,250,255
+Oyster Pink,#e9cecd,233,206,205
+Paarl,#a65529,166,85,41
+Pablo,#776f61,119,111,97
 Pacific blue,#1CA9C9,28,169,201
+Pacifika,#778120,119,129,32
+Paco,#411f10,65,31,16
+Padua,#ade6c4,173,230,196
 Painite,#6B4947,107,73,71
 Pakistan green,#006600,0,102,0
 Palatinate blue,#273BE2,39,59,226
@@ -2455,28 +1961,47 @@ Pale gold,#E6BE8A,230,190,138
 Pale goldenrod,#EEE8AA,238,232,170
 Pale green,#98FB98,152,251,152
 Pale lavender,#DCD0FF,220,208,255
+Pale Leaf,#c0d3b9,192,211,185
 Pale magenta,#F984E5,249,132,229
 Pale magenta-pink,#FF99CC,255,153,204
+Pale Oyster,#988d77,152,141,119
 Pale pink,#FADADD,250,218,221
 Pale plum,#DDA0DD,221,160,221
+Pale Prim,#fdfeb8,253,254,184
 Pale purple (Pantone),#FAE6FA,250,230,250
 Pale red-violet,#DB7093,219,112,147
 Pale robin egg blue,#96DED1,150,222,209
+Pale Rose,#ffe1f2,255,225,242
 Pale silver,#C9C0BB,201,192,187
+Pale Sky,#6e7783,110,119,131
+Pale Slate,#c3bfc1,195,191,193
 Pale spring bud,#ECEBBD,236,235,189
 Pale taupe,#BC987E,188,152,126
 Pale turquoise,#AFEEEE,175,238,238
 Pale violet,#CC99FF,204,153,255
 Pale violet-red,#DB7093,219,112,147
+Palm Green,#09230f,9,35,15
+Palm Leaf,#19330e,25,51,14
 Palm Leaf,#6F9940,111,153,64
+Pampas,#f4f2ee,244,242,238
+Panache,#eaf6ee,234,246,238
 Panasonic blue,#0040BE,0,64,190
+Pancho,#edcdab,237,205,171
+Panda,#423921,66,57,33
 Pansy purple,#78184A,120,24,74
 Paolo Veronese green,#009B7D,0,155,125
 Papaya whip,#FFEFD5,255,239,213
-Parakeet Blue,#7EB6FF,126,182,255
+Paprika,#8d0226,141,2,38
 Paradise pink,#E63E62,230,62,98
+Paradiso,#317d82,49,125,130
+Parakeet Blue,#7EB6FF,126,182,255
+Parchment,#f1e9d2,241,233,210
+Paris Daisy,#fff46e,255,244,110
 Paris Green,#50C878,80,200,120
+Paris M,#26056a,38,5,106
+Paris White,#cadcd4,202,220,212
 Parrot Pink,#D998A0,217,152,160
+Parsley,#134f19,19,79,25
 Pastel blue,#AEC6CF,174,198,207
 Pastel brown,#836953,131,105,83
 Pastel gray,#CFCFC4,207,207,196
@@ -2488,19 +2013,35 @@ Pastel purple,#B39EB5,179,158,181
 Pastel red,#FF6961,255,105,97
 Pastel violet,#CB99C9,203,153,201
 Pastel yellow,#FDFD96,253,253,150
+Patina,#639a8f,99,154,143
 Patriarch,#800080,128,0,128
+Pattens Blue,#def5ff,222,245,255
+Paua,#260368,38,3,104
+Pavlova,#d7c498,215,196,152
 Payne's grey,#536878,83,104,120
+Peach,#fff0db,255,240,219
 Peach,#FFE5B4,255,229,180
 Peach,#FFCBA4,255,203,164
+Peach Burst,#F39998,243,153,152
 Peach-orange,#FFCC99,255,204,153
 Peach puff,#FFDAB9,255,218,185
-Peach Burst,#F39998,243,153,152
+Peach Schnapps,#ffdcd6,255,220,214
 Peach-yellow,#FADFAD,250,223,173
+Peanut,#782f16,120,47,22
 Pear,#D1E231,209,226,49
 Pearl,#EAE0C8,234,224,200
 Pearl Aqua,#88D8C0,136,216,192
+Pearl Bush,#e8e0d5,232,224,213
+Pearl Lusta,#fcf4dc,252,244,220
 Pearly purple,#B768A2,183,104,162
+Pea Soup,#cfe5d2,207,229,210
+Peat,#716b56,113,107,86
+Pelorous,#3eabbf,62,171,191
+Peppermint,#e3f5e1,227,245,225
+Perano,#a9bef2,169,190,242
+Perfume,#d0bef8,208,190,248
 Peridot,#E6E200,230,226,0
+Periglacial Blue,#e1e6d6,225,230,214
 Periwinkle,#CCCCFF,204,204,255
 Periwinkle (Crayola),#C3CDE6,195,205,230
 Permanent Geranium Lake,#E12C2C,225,44,44
@@ -2510,11 +2051,19 @@ Persian indigo,#32127A,50,18,122
 Persian orange,#D99058,217,144,88
 Persian pink,#F77FBE,247,127,190
 Persian plum,#701C1C,112,28,28
+Persian Plum,#701c1c,112,28,28
 Persian red,#CC3333,204,51,51
+Persian Red,#520c17,82,12,23
 Persian rose,#FE28A2,254,40,162
+Persimmon,#ff6b53,255,107,83
 Persimmon,#EC5800,236,88,0
 Peru,#CD853F,205,133,63
+Peru Tan,#7f3a02,127,58,2
+Pesto,#7c7631,124,118,49
+Petite Orchid,#db9690,219,150,144
+Pewter,#96a8a1,150,168,161
 Pewter Blue,#8BA8B7,139,168,183
+Pharlap,#a3807b,163,128,123
 Philippine blue,#0038A7,0,56,167
 Philippine bronze,#6E3A07,110,58,7
 Philippine brown,#5D1916,93,25,22
@@ -2531,149 +2080,264 @@ Philippine yellow,#FECB00,254,203,0
 Phlox,#DF00FF,223,0,255
 Phthalo blue,#000F89,0,15,137
 Phthalo green,#123524,18,53,36
+Picasso,#fff39d,255,243,157
+Pickled Aspen,#3f4c3a,63,76,58
+Pickled Bean,#6e4826,110,72,38
+Pickled Bluewood,#314459,49,68,89
 Picton blue,#45B1E8,69,177,232
+Picton Blue,#45b1e8,69,177,232
 Pictorial carmine,#C30B4E,195,11,78
+Pigeon Post,#afbdd9,175,189,217
 Piggy pink,#FDDDE6,253,221,230
+Pineapple,#563C0D,86,60,13
+Pine Cone,#6d5e54,109,94,84
+Pine Glade,#c7cd90,199,205,144
 Pine green,#01796F,1,121,111
 Pine tree,#2A2F23,42,47,35
-Pineapple,#563C0D,86,60,13
+Pine Tree,#171f04,23,31,4
 Pink,#FFC0CB,255,192,203
-Pink (Pantone),#D74894,215,72,148
 Pink Diamond (Ace Hardware Color),#F6D6DE,246,214,222
 Pink Diamond (Independent Retailers Colors),#F0D3DC,240,211,220
 Pink flamingo,#FC74FD,252,116,253
+Pink Flare,#e1c0c8,225,192,200
 Pink lace,#FFDDF4,255,221,244
+Pink Lace,#ffddf4,255,221,244
+Pink Lady,#fff1d8,255,241,216
 Pink lavender,#D8B2D1,216,178,209
 Pink-orange,#FF9966,255,153,102
+Pink (Pantone),#D74894,215,72,148
 Pink pearl,#E7ACCF,231,172,207
 Pink raspberry,#980036,152,0,54
 Pink Sherbet,#F78FA7,247,143,167
+Pink Swan,#beb5b7,190,181,183
+Piper,#c96323,201,99,35
+Pipi,#fef4cc,254,244,204
+Pippin,#ffe1df,255,225,223
+Pirate Gold,#ba7f03,186,127,3
+Pistachio,#9dc209,157,194,9
 Pistachio,#93C572,147,197,114
+Pixie Green,#c0d8b6,192,216,182
 Pixie Powder,#391285,57,18,133
+Pizazz,#ff9000,255,144,0
+Pizza,#c99415,201,148,21
+Plantation,#27504b,39,80,75
+Planter,#615d30,97,93,48
 Platinum,#E5E4E2,229,228,226
+Plum,#410056,65,0,86
 Plum,#8E4585,142,69,133
-Plum (web),#DDA0DD,221,160,221
 Plump Purple,#5946B2,89,70,178
+Plum (web),#DDA0DD,221,160,221
+Pohutukawa,#8f021c,143,2,28
 Poker Green,#35654D,53,101,77
+Polar,#e5f9f6,229,249,246
 Police blue,#374F6B,55,79,107
 Polished Pine,#5DA493,93,164,147
+Polo Blue,#8da8cc,141,168,204
 Pomegranate,#660C21,102,12,33
 Pomelo,#96A53C,150,165,60
-Pomelo White,#F9FFE3,249,255,227
 Pomelo Olive,#BFBD70,191,189,112
+Pomelo White,#F9FFE3,249,255,227
+Pompadour,#660045,102,0,69
 Pomp and Power,#86608E,134,96,142
 Poppy Petal,#F6A08C,246,160,140
 Popstar,#BE4F62,190,79,98
+Porcelain,#eff2f3,239,242,243
+Porsche,#eaae69,234,174,105
+Portafino,#ffffb4,255,255,180
+Portage,#8b9fee,139,159,238
+Port Gore,#251f4f,37,31,79
+Portica,#f9e663,249,230,99
 Portland Orange,#FF5A36,255,90,54
+Pot Pourri,#f5e7e2,245,231,226
+Potters Clay,#8c5738,140,87,56
 Powder blue,#B0E0E6,176,224,230
+Powder Blue,#bcc9c2,188,201,194
+Prairie Sand,#9a3820,154,56,32
+Prelude,#d0c0e5,208,192,229
+Prim,#f0e2ec,240,226,236
+Primrose,#edea99,237,234,153
 Princess Perfume,#FF85CF,255,133,207
 Princeton orange,#F58025,245,128,37
+Promenade,#fcffe7,252,255,231
+Provincial Pink,#fef5f1,254,245,241
 Prune,#701C1C,112,28,28
 Prussian blue,#003153,0,49,83
+Prussian Blue,#003153,0,49,83
 Psychedelic purple,#DF00FF,223,0,255
 Puce,#CC8899,204,136,153
 Puce red,#722F37,114,47,55
+Pueblo,#7d2c14,125,44,20
+Puerto Rico,#3fc1aa,63,193,170
 Pullman Brown (UPS Brown),#644117,100,65,23
 Pullman Green,#3B331C,59,51,28
+Pumice,#c2cac4,194,202,196
+Pumpkin,#b1610b,177,97,11
 Pumpkin,#FF7518,255,117,24
-Purple (HTML),#800080,128,0,128
-Purple (Munsell),#9F00C5,159,0,197
-Purple (X11),#A020F0,160,32,240
+Punch,#dc4333,220,67,51
+Punga,#4d3d14,77,61,20
 Purple Heart,#69359C,105,53,156
+Purple (HTML),#800080,128,0,128
 Purple mountain majesty,#9678B6,150,120,182
+Purple (Munsell),#9F00C5,159,0,197
 Purple navy,#4E5180,78,81,128
 Purple pizzazz,#FE4EDA,254,78,218
 Purple Plum,#9C51B6,156,81,182
 Purple taupe,#50404D,80,64,77
+Purple (X11),#A020F0,160,32,240
 Purpureus,#9A4EAE,154,78,174
+Putty,#e7cd8c,231,205,140
+Quarter Pearl Lusta,#fffdf4,255,253,244
+Quarter Spanish White,#f7f2e1,247,242,225
 Quartz,#51484F,81,72,79
 Queen blue,#436B95,67,107,149
 Queen pink,#E8CCD7,232,204,215
+Quicksand,#bd978e,189,151,142
 Quick Silver,#A6A6A6,166,166,166
+Quill Grey,#d6d6d1,214,214,209
 Quinacridone magenta,#8E3A59,142,58,89
+Quincy,#623f2d,98,63,45
 Quincy,#6A5445,106,84,69
+Racing Green,#0c1911,12,25,17
 Rackley,#5D8AA8,93,138,168
 Radical Red,#FF355E,255,53,94
+Raffia,#eadab8,234,218,184
+Raincloud,#7b7c94,123,124,148
+Rainee,#b9c8ac,185,200,172
+Rain Forest,#778120,119,129,32
 Raisin black,#242124,36,33,36
+Rajah,#f7b668,247,182,104
 Rajah,#FBAB60,251,171,96
 Rambutan,#C71232,199,18,50
 Rambutan Red,#A72127,167,33,39
+Rangitoto,#2e3222,46,50,34
+Rangoon Green,#1c1e13,28,30,19
 Raspberry,#E30B5D,227,11,93
 Raspberry glace,#915F6D,145,95,109
 Raspberry pink,#E25098,226,80,152
 Raspberry rose,#B3446C,179,68,108
+Raven,#727b89,114,123,137
 Raw Sienna,#D68A59,214,138,89
 Raw umber,#826644,130,102,68
 Razzle dazzle rose,#FF33CC,255,51,204
 Razzmatazz,#E3256B,227,37,107
 Razzmic Berry,#8D4E85,141,78,133
 Rebecca Purple,#663399,102,51,153
+Rebel,#3c1206,60,18,6
 Red,#FF0000,255,0,0
-Red (Crayola),#EE204D,238,32,77
-Red (Munsell),#F2003C,242,0,60
-Red (NCS),#C40233,196,2,51
-Red (Pantone),#ED2939,237,41,57
-Red (pigment),#ED1C24,237,28,36
-Red (RYB),#FE2712,254,39,18
+Red Beech,#7b3801,123,56,1
+Red Berry,#8e0000,142,0,0
 Red-brown,#A52A2A,165,42,42
 Red cola,#B62020,182,32,32
+Red (Crayola),#EE204D,238,32,77
+Red Damask,#da6a41,218,106,65
 Red devil,#860111,134,1,17
+Red Devil,#860111,134,1,17
+Red (Munsell),#F2003C,242,0,60
+Red (NCS),#C40233,196,2,51
 Red-orange,#FF5349,255,83,73
-Red-orange (Crayola),#FF681F,255,104,31
 Red-orange (Color wheel),#FF4500,255,69,0
+Red-orange (Crayola),#FF681F,255,104,31
+Red Oxide,#6e0902,110,9,2
+Red (Pantone),#ED2939,237,41,57
+Red (pigment),#ED1C24,237,28,36
 Red-purple,#E40078,228,0,120
+Red Robin,#80341f,128,52,31
+Red (RYB),#FE2712,254,39,18
 Red Salsa,#FD3A4A,253,58,74
+Red Stage,#d05f04,208,95,4
 Red-violet,#C71585,199,21,133
-Red-violet (Crayola),#C0448F,192,68,143
 Red-violet (Color wheel),#922B3E,146,43,62
+Red-violet (Crayola),#C0448F,192,68,143
+Redwood,#5d1e0f,93,30,15
 Redwood,#A45A52,164,90,82
+Reef,#c9ffa2,201,255,162
+Reef Gold,#9f821c,159,130,28
+Regal Blue,#013f6a,1,63,106
 Regalia,#522D80,82,45,128
+Regent Grey,#86949f,134,148,159
+Regent St Blue,#aad6e6,170,214,230
 Registration black,#000000,0,0,0
+Remy,#feebf3,254,235,243
+Reno Sand,#a86515,168,101,21
 Resolution blue,#002387,0,35,135
+Resolution Blue,#002387,0,35,135
+Revolver,#2c1632,44,22,50
+Rhino,#2e3f62,46,63,98
 Rhythm,#777696,119,118,150
+Ribbon,#660045,102,0,69
+Rice Cake,#fffef0,255,254,240
+Rice Flower,#eeffe2,238,255,226
 Rich black,#004040,0,64,64
 Rich black (FOGRA29),#010B13,1,11,19
 Rich black (FOGRA39),#010203,1,2,3
 Rich brilliant lavender,#F1A7FE,241,167,254
 Rich carmine,#D70040,215,0,64
 Rich electric blue,#0892D0,8,146,208
+Rich Gold,#a85307,168,83,7
 Rich lavender,#A76BCF,167,107,207
 Rich lilac,#B666D2,182,102,210
 Rich maroon,#B03060,176,48,96
 Rifle green,#444C38,68,76,56
+Rio Grande,#bbd009,187,208,9
 Ripe mango,#FFC324,255,195,36
+Riptide,#8be6d8,139,230,216
+River Bed,#434c59,67,76,89
 Roast coffee,#704241,112,66,65
 Robin egg blue,#00CCCC,0,204,204
+Robins Egg Blue,#bdc8b3,189,200,179
+Rob Roy,#eac674,234,198,116
+Rock,#4d3833,77,56,51
+Rock Blue,#9eb1cd,158,177,205
 Rocket metallic,#8A7F80,138,127,128
+Rock Salt,#ffffff,255,255,255
+Rock Spray,#ba450c,186,69,12
+Rodeo Dust,#c9b29b,201,178,155
+Rolling Stone,#747d83,116,125,131
+Roman,#de6360,222,99,96
+Romance,#fffefd,255,254,253
+Roman Coffee,#795d4c,121,93,76
 Roman silver,#838996,131,137,150
+Romantic,#ffd2b7,255,210,183
+Ronchi,#ecc54e,236,197,78
+Roof Terracotta,#a62f20,166,47,32
 Root beer,#290E05,41,14,5
+Rope,#8e4d1e,142,77,30
+Rose,#e7bcb4,231,188,180
 Rose,#FF007F,255,0,127
 Rose bonbon,#F9429E,249,66,158
+Rose Bud,#fbb2a3,251,178,163
+Rose Bud Cherry,#800b47,128,11,71
 Rose Dust,#9E5E6F,158,94,111
 Rose ebony,#674846,103,72,70
 Rose garnet,#960145,150,1,69
 Rose gold,#B76E79,183,110,121
 Rose madder,#E32636,227,38,54
+Rose of Sharon,#bf5500,191,85,0
 Rose pink,#FF66CC,255,102,204
 Rose quartz,#AA98A9,170,152,169
 Rose quartz pink,#BD559C,189,85,156
 Rose red,#C21E56,194,30,86
 Rose taupe,#905D5D,144,93,93
 Rose vale,#AB4E52,171,78,82
+Rose White,#fff6f5,255,246,245
+Rosewood,#65000b,101,0,11
 Rosewood,#65000B,101,0,11
 Rosso corsa,#D40000,212,0,0
 Rosy brown,#BC8F8F,188,143,143
+Roti,#c6a84b,198,168,75
+Rouge,#a23b6c,162,59,108
 Royal azure,#0038A8,0,56,168
 Royal blue,#002366,0,35,102
 Royal blue,#4169E1,65,105,225
 Royal brown,#523B35,82,59,53
 Royal fuchsia,#CA2C92,202,44,146
 Royal green,#136207,19,98,7
+Royal Heath,#ab3472,171,52,114
 Royal orange,#F99245,249,146,69
 Royal pink,#E73895,231,56,149
+Royal purple,#7851A9,120,81,169
 Royal red,#9B1C31,155,28,49
 Royal red,#D00060,208,0,96
-Royal purple,#7851A9,120,81,169
 Royal yellow,#FADA5E,250,218,94
 Ruber,#CE4676,206,70,118
 Rubine red,#D10056,209,0,86
@@ -2683,73 +2347,155 @@ Ruddy,#FF0028,255,0,40
 Ruddy brown,#BB6528,187,101,40
 Ruddy pink,#E18E96,225,142,150
 Rufous,#A81C07,168,28,7
+Rum,#796989,121,105,137
+Rum Swizzle,#f9f8e4,249,248,228
 Russet,#80461B,128,70,27
+Russett,#755a57,117,90,87
 Russian green,#679267,103,146,103
 Russian violet,#32174D,50,23,77
 Rust,#B7410E,183,65,14
+Rustic Red,#480404,72,4,4
+Rusty Nail,#86560a,134,86,10
 Rusty red,#DA2C43,218,44,67
 Sacramento State green,#043927,4,57,39
+Saddle,#4c3024,76,48,36
 Saddle brown,#8B4513,139,69,19
+Saddle Brown,#583401,88,52,1
 Safety orange,#FF7800,255,120,0
 Safety orange (blaze orange),#FF6700,255,103,0
 Safety yellow,#EED202,238,210,2
+Saffron,#f9bf58,249,191,88
 Saffron,#F4C430,244,196,48
+Sage,#9ea587,158,165,135
 Sage,#BCB88A,188,184,138
-St. Patrick's blue,#23297A,35,41,122
+Sahara,#b7a214,183,162,20
+Sail,#b8e0f9,184,224,249
+Salem,#097f4b,9,127,75
 Salem,#177B4D,23,123,77
 Salmon,#FA8072,250,128,114
 Salmon pink,#FF91A4,255,145,164
 Salmon Rose,#E7968B,231,150,139
+Salomie,#fedb8d,254,219,141
+Salt Box,#685e6e,104,94,110
+Saltpan,#f1f7f2,241,247,242
+Sambuca,#3a2010,58,32,16
 Samsung blue,#12279E,18,39,158
 Sand,#C2B280,194,178,128
+Sandal,#aa8d6f,170,141,111
 Sand dune,#967117,150,113,23
+Sand Dune,#826f65,130,111,101
+Sandrift,#ab917a,171,145,122
+Sandstone,#796d62,121,109,98
 Sandstorm,#ECD540,236,213,64
+Sandwisp,#f5e7a2,245,231,162
+Sandy Beach,#ffeac8,255,234,200
 Sandy brown,#F4A460,244,164,96
 Sandy Tan,#FDD9B5,253,217,181
 Sandy taupe,#967117,150,113,23
+San Felix,#0b6207,11,98,7
+Sangria,#92000a,146,0,10
 Sangria,#92000A,146,0,10
+Sanguine Brown,#8d3d38,141,61,56
+San Juan,#304b6a,48,75,106
+San Marino,#456cac,69,108,172
+Santa Fe,#b16d52,177,109,82
+Santas Grey,#9fa0b1,159,160,177
 Sap green,#507D2A,80,125,42
+Sapling,#ded4a4,222,212,164
+Sapphire,#2f519e,47,81,158
 Sapphire,#0F52BA,15,82,186
 Sapphire blue,#0067A5,0,103,165
+Saratoga,#555b10,85,91,16
 Sasquatch Socks,#FF4681,255,70,129
 Satin sheen gold,#CBA135,203,161,53
+Sauvignon,#fff5f3,255,245,243
+Sazerac,#fff4e0,255,244,224
+Scampi,#675fa6,103,95,166
+Scandal,#cffaf4,207,250,244
 Scarlet,#FF2400,255,36,0
 Scarlet,#FD0E35,253,14,53
+Scarlet Gum,#431560,67,21,96
+Scarlett,#950015,149,0,21
+Scarpa Flow,#585562,88,85,98
 Schauss pink,#FF91AF,255,145,175
+Schist,#a9b497,169,180,151
 School bus yellow,#FFD800,255,216,0
+Schooner,#8b847e,139,132,126
+Scooter,#2ebfd4,46,191,212
+Scorpion,#695f62,105,95,98
+Scotch Mist,#fffbdc,255,251,220
 Screamin' Green,#66FF66,102,255,102
+Scrub,#2e3222,46,50,34
 Sea blue,#006994,0,105,148
+Sea Buckthorn,#fba129,251,161,41
 Sea Foam Green,#9FE2BF,159,226,191
+Sea Fog,#fcfff9,252,255,249
 Sea green,#2E8B57,46,139,87
+Sea Green,#095859,9,88,89
 Sea green (Crayola),#00FFCD,0,255,205
-Sea Serpent,#4BC7CF,75,199,207
+Seagull,#80ccea,128,204,234
 Seal brown,#59260B,89,38,11
+Sea Mist,#c5dbca,197,219,202
+Seance,#731e8f,115,30,143
+Sea Nymph,#78a39c,120,163,156
+Sea Pink,#ed989e,237,152,158
+Sea Serpent,#4BC7CF,75,199,207
+Seashell,#f1f1f1,241,241,241
 Seashell,#FFF5EE,255,245,238
+Seaweed,#1b2f11,27,47,17
+Selago,#f0eefd,240,238,253
 Selective yellow,#FFBA00,255,186,0
+Sepia,#2b0202,43,2,2
 Sepia,#704214,112,66,20
+Serenade,#fff4e8,255,244,232
 Sesame Street Green,#00A870,0,168,112
 Shadow,#8A795D,138,121,93
 Shadow blue,#778BA5,119,139,165
+Shadow Green,#9ac2b8,154,194,184
+Shady Lady,#aaa5a9,170,165,169
+Shakespeare,#4eabd1,78,171,209
+Shalimar,#fbffba,251,255,186
 Shampoo,#FFCFF1,255,207,241
 Shamrock green,#009E60,0,158,96
 Shandy,#FFE670,255,230,112
+Shark,#25272c,37,39,44
 Sheen green,#8FD400,143,212,0
+Sherpa Blue,#004950,0,73,80
+Sherwood Green,#02402c,2,64,44
+Shilo,#e8b9b3,232,185,179
 Shimmering Blush,#D98695,217,134,149
+Shingle Fawn,#6b4e31,107,78,49
 Shiny Shamrock,#5FA778,95,167,120
+Ship Cove,#788bba,120,139,186
+Ship Grey,#3e3a44,62,58,68
+Shiraz,#b20931,178,9,49
+Shocking,#e292c0,226,146,192
 Shocking pink,#FC0FC0,252,15,192
 Shocking pink (Crayola),#FF6FFF,255,111,255
+Shuttle Grey,#5f6672,95,102,114
+Siam,#646a54,100,106,84
+Sidecar,#f3e7bb,243,231,187
 Sienna,#882D17,136,45,23
+Silk,#bdb1a8,189,177,168
 Silver,#C0C0C0,192,192,192
-Silver (Crayola),#C9C0BB,201,192,187
-Silver (Metallic),#AAA9AD,170,169,173
 Silver chalice,#ACACAC,172,172,172
+Silver Chalice,#acacac,172,172,172
+Silver (Crayola),#C9C0BB,201,192,187
 Silver foil,#AFB1AE,175,177,174
 Silver Lake blue,#5D89BA,93,137,186
+Silver (Metallic),#AAA9AD,170,169,173
 Silver pink,#C4AEAD,196,174,173
 Silver sand,#BFC1C2,191,193,194
+Silver Sand,#bfc1c2,191,193,194
+Silver Tree,#66b58f,102,181,143
+Sinbad,#9fd7d3,159,215,211
 Sinopia,#CB410B,203,65,11
+Siren,#7a013a,122,1,58
+Sirocco,#718080,113,128,128
+Sisal,#d3cbba,211,203,186
 Sizzling Red,#FF3855,255,56,85
 Sizzling Sunrise,#FFDB00,255,219,0
+Skeptic,#cae6da,202,230,218
 Skobeloff,#007474,0,116,116
 Sky blue,#87CEEB,135,206,235
 Sky blue (Crayola),#76D7EA,118,215,234
@@ -2757,26 +2503,46 @@ Sky magenta,#CF71AF,207,113,175
 Slate blue,#6A5ACD,106,90,205
 Slate gray,#708090,112,128,144
 Slimy green,#299617,41,150,23
+Slugger,#412010,65,32,16
+Smalt Blue,#51808f,81,128,143
 Smalt (Dark powder blue),#003399,0,51,153
 Smashed Pumpkin,#FF6D3A,255,109,58
 Smitten,#C84186,200,65,134
 Smoke,#738276,115,130,118
+Smoke Tree,#da6304,218,99,4
+Smokey Ash,#413c37,65,60,55
 Smokey Topaz,#832A0D,131,42,13
+Smoky,#605b73,96,91,115
 Smoky black,#100C08,16,12,8
 Smoky Topaz,#933D41,147,61,65
 Snow,#FFFAFA,255,250,250
+Snow Drift,#f7faf7,247,250,247
+Snow Flurry,#e4ffd1,228,255,209
+Snowy Mint,#d6ffdb,214,255,219
+Snuff,#e2d8ed,226,216,237
 Soap,#CEC8EF,206,200,239
+Soapstone,#fffbf9,255,251,249
+Soft Amber,#d1c6b4,209,198,180
+Soft Peach,#f5edef,245,237,239
 Soldier Green,#545A2C,84,90,44
 Solid pink,#893843,137,56,67
+Solid Pink,#893843,137,56,67
+Solitaire,#fef8e2,254,248,226
+Solitude,#eaf6ff,234,246,255
 Sonic silver,#757575,117,117,117
-Spartan Crimson,#9E1316,158,19,22
+Sorbus,#fd7c07,253,124,7
+Sorrell Brown,#ceb98f,206,185,143
+Sour Dough,#d1bea8,209,190,168
+Soya Bean,#6a6051,106,96,81
 Space cadet,#1D2951,29,41,81
+Space Shuttle,#433120,67,49,32
 Spanish bistre,#807532,128,117,50
 Spanish blue,#0070B8,0,112,184
 Spanish carmine,#D10047,209,0,71
 Spanish crimson,#E51A4C,229,26,76
 Spanish gray,#989898,152,152,152
 Spanish green,#009150,0,145,80
+Spanish Green,#819885,129,152,133
 Spanish orange,#E86100,232,97,0
 Spanish pink,#F7BFBE,247,191,190
 Spanish purple,#66033C,102,3,60
@@ -2784,93 +2550,234 @@ Spanish red,#E60026,230,0,38
 Spanish sky blue,#00FFFF,0,255,255
 Spanish violet,#4C2882,76,40,130
 Spanish viridian,#007F5C,0,127,92
+Spanish White,#f4ebd3,244,235,211
 Spanish yellow,#F6B511,246,181,17
+Spartan Crimson,#9E1316,158,19,22
+Spectra,#2f5a57,47,90,87
+Spice,#6a442e,106,68,46
 Spicy mix,#8B5f4D,139,95,77
+Spicy Mix,#885342,136,83,66
+Spicy Pink,#816e71,129,110,113
+Spindle,#b6d1ea,182,209,234
 Spiro Disco Ball,#0FC0FC,15,192,252
+Splash,#ffefc1,255,239,193
+Spray,#79deec,121,222,236
 Spring bud,#A7FC00,167,252,0
 Spring Frost,#87FF2A,135,255,42
 Spring green,#00FF7F,0,255,127
+Spring Green,#578363,87,131,99
 Spring green (Crayola),#ECEBBD,236,235,189
+Spring Rain,#accbb1,172,203,177
+Spring Sun,#f6ffdc,246,255,220
+Spring Wood,#f8f6f1,248,246,241
 Sprint Red,#EC2131,236,33,49
 Sprint Yellow,#FFDD05,255,221,5
+Sprout,#c1d7b0,193,215,176
+Spun Pearl,#aaabb7,170,171,183
+Squirrel,#8f8176,143,129,118
+Stack,#8a8f8a,138,143,138
 Star command blue,#007BB8,0,123,184
+Star Dust,#9f9f9c,159,159,156
+Stark White,#e5d7bd,229,215,189
+Starship,#ecf245,236,242,69
 Steel blue,#4682B4,70,130,180
+Steel Grey,#262335,38,35,53
 Steel pink,#CC33CC,204,51,204
 Steel Teal,#5F8A8B,95,138,139
 Stil de grain yellow,#FADA5E,250,218,94
+Stiletto,#9c3336,156,51,54
+Stinger,#8b6b0b,139,107,11
 Stizza,#990000,153,0,0
-Stormcloud,#4F666A,79,102,106
 Stone Terrace,#A09484,160,148,132
+Stonewall,#928573,146,133,115
+Stop red,#CF142B,207,20,43
+Stormcloud,#4F666A,79,102,106
+Storm Dust,#646463,100,100,99
+Storm Grey,#717486,113,116,134
+St. Patrick's blue,#23297A,35,41,122
+Stratos,#000741,0,7,65
+Straw,#d4bf8d,212,191,141
 Straw,#E4D96F,228,217,111
 Strawberry,#FC5A8D,252,90,141
-Stop red,#CF142B,207,20,43
 Strawberry iced tea,#FC5A8D,252,90,141
 Strawberry red,#C83F49,200,63,73
+Strikemaster,#956387,149,99,135
+Stromboli,#325d52,50,93,82
+St Tropaz,#2d569b,45,86,155
+Studio,#714ab2,113,74,178
+Submarine,#bac7c9,186,199,201
+Sugar Cane,#f9fff6,249,255,246
 Sugar Plum,#914E75,145,78,117
+Sulu,#c1f07c,193,240,124
+Summer Green,#96bbab,150,187,171
+Sun,#fbac13,251,172,19
 Sunburnt Cyclops,#FF404C,255,64,76
+Sundance,#c9b35b,201,179,91
+Sundown,#ffb1b3,255,177,179
+Sunflower,#e4d422,228,212,34
+Sunglo,#e16865,225,104,101
 Sunglow,#FFCC33,255,204,51
 Sunny,#F2F27A,242,242,122
 Sunray,#E3AB57,227,171,87
+Sunset,#dc4333,220,67,51
 Sunset,#FAD6A5,250,214,165
 Sunset Yellow,#FFC922,255,201,34
+Sunshade,#ff9e2c,255,158,44
+Supernova,#ffc901,255,201,1
 Super pink,#CF6BA9,207,107,169
+Surf,#bbd7c1,187,215,193
+Surf Crest,#cfe5d2,207,229,210
+Surfie Green,#0c7a79,12,122,121
+Sushi,#87ab39,135,171,57
+Suva Grey,#888387,136,131,135
+Swamp,#001b1c,0,27,28
+Swans Down,#dcf0ea,220,240,234
 Sweet Brown,#A83731,168,55,49
+Sweet Corn,#fbea8c,251,234,140
+Sweet Pink,#fd9fa2,253,159,162
 Sweet Sixteen,#F29EAB,242,158,171
+Swirl,#d3cdc5,211,205,197
+Swiss Coffee,#ddd6d5,221,214,213
+Sycamore,#908d39,144,141,57
+Tabasco,#a02712,160,39,18
+Tacao,#edb381,237,179,129
+Tacha,#d6c562,214,197,98
+Tahiti Gold,#e97c07,233,124,7
+Tahuna Sands,#eef0c8,238,240,200
+Tallow,#a8a589,168,165,137
+Tall Poppy,#b32d29,179,45,41
+Tamarillo,#991613,153,22,19
+Tamarind,#341515,52,21,21
 Tan,#D2B48C,210,180,140
+Tana,#d9dcc1,217,220,193
 Tan (Crayola),#D99A6C,217,154,108
+Tangaroa,#03163c,3,22,60
 Tangelo,#F94D00,249,77,0
+Tangerine,#e96e00,233,110,0
 Tangerine,#F28500,242,133,0
 Tangerine yellow,#FFCC00,255,204,0
+Tango,#ed7a1c,237,122,28
 Tango pink,#E4717A,228,113,122
 Taobao Orange,#FF4200,255,66,0
+Tapa,#7b7874,123,120,116
+Tapestry,#b05e81,176,94,129
+Tara,#e1f6e8,225,246,232
+Tarawera,#073a50,7,58,80
 Tart Orange,#FB4D46,251,77,70
+Tasman,#cfdccf,207,220,207
 Taupe,#483C32,72,60,50
 Taupe gray,#8B8589,139,133,137
+Taupe Grey,#b3af95,179,175,149
+Tawny Port,#692545,105,37,69
+Tax Break,#51808f,81,128,143
+Tea,#c1bab0,193,186,176
 Tea green,#D0F0C0,208,240,192
-Tea rose,#F88379,248,131,121
-Tea rose,#F4C2C2,244,194,194
+Teak,#b19461,177,148,97
+Teak Wood Finish,#6b2a14,107,42,20
 Teal,#008080,0,128,128
 Teal blue,#367588,54,117,136
+Teal Blue,#044259,4,66,89
 Teal deer,#99E6B3,153,230,179
 Teal green,#00827F,0,130,127
+Tea rose,#F88379,248,131,121
+Tea rose,#F4C2C2,244,194,194
 Telemagenta,#CF3476,207,52,118
+Temptress,#3b000b,59,0,11
 Temptress,#3C2126,60,33,38
 Tenné (tawny),#CD5700,205,87,0
+Te Papa Green,#1e433c,30,67,60
+Tequila,#ffe6c7,255,230,199
 Terra cotta,#E2725B,226,114,91
+Texas,#f8f99c,248,249,156
+Texas Rose,#ffb555,255,181,85
+Thatch,#b69d98,182,157,152
+Thatch Green,#403d19,64,61,25
+Thistle,#cccaa8,204,202,168
 Thistle,#D8BFD8,216,191,216
 Thistle (Crayola),#EBB0D7,235,176,215
 Thulian pink,#DE6FA1,222,111,161
+Thunder,#33292f,51,41,47
+Thunderbird,#c02b18,192,43,24
+Tia Maria,#c1440e,193,68,14
+Tiara,#c3d1d1,195,209,209
+Tiber,#063537,6,53,55
 Tickle Me Pink,#FC89AC,252,137,172
+Tidal,#f1ffad,241,255,173
+Tide,#bfb8b0,191,184,176
 Tiffany Blue,#0ABAB5,10,186,181
 Tiger's eye,#E08D3C,224,141,60
+Timber Green,#16322c,22,50,44
 Timberwolf,#DBD7D2,219,215,210
 Titanium,#878681,135,134,129
 Titanium yellow,#EEE600,238,230,0
+Titan White,#f0eeff,240,238,255
+Toast,#9a6e61,154,110,97
+Tobacco Brown,#715d47,113,93,71
+Tobago,#3e2b23,62,43,35
+Toledo,#3a0020,58,0,32
+Tolopea,#1b0245,27,2,69
 Tomato,#FF6347,255,99,71
 Tomato sauce,#B21807,178,24,7
+Tom Thumb,#3f583b,63,88,59
+Tonys Pink,#e79f8c,231,159,140
 Toolbox,#746CC0,116,108,192
 Tooth,#FFFAFA,255,250,250
+Topaz,#7c778a,124,119,138
 Topaz,#FFC87C,255,200,124
+Torea Bay,#0f2d9e,15,45,158
+Tory Blue,#1450aa,20,80,170
+Tosca,#8d3f3f,141,63,63
+Totem Pole,#991b07,153,27,7
+Touch Wood,#373021,55,48,33
+Tower Grey,#a9bdbf,169,189,191
 Tractor red,#FD0E35,253,14,53
+Tradewind,#5fb3ac,95,179,172
+Tranquil,#e6ffff,230,255,255
+Travertine,#fffde8,255,253,232
+Treehouse,#3b2820,59,40,32
+Tree Poppy,#fc9c1d,252,156,29
+Trendy Green,#7c881a,124,136,26
+Trendy Pink,#8c6495,140,100,149
+Trinidad,#e64e03,230,78,3
 Trolley grey,#808080,128,128,128
+Tropical Blue,#c3ddf9,195,221,249
 Tropical rain forest,#00755E,0,117,94
 Tropical violet,#CDA4DE,205,164,222
+Trout,#4a4e5a,74,78,90
 True Blue,#2D68C4,45,104,196
+True V,#8a73d6,138,115,214
+Tuatara,#363534,54,53,52
+Tuft Bush,#ffddcd,255,221,205
 Tufts blue,#3E8EDE,62,142,222
 Tulip,#FF878D,255,135,141
+Tulip Tree,#eab33b,234,179,59
+Tumbleweed,#37290e,55,41,14
 Tumbleweed,#DEAA88,222,170,136
+Tuna,#353542,53,53,66
+Tundora,#4a4244,74,66,68
+Turbo,#fae600,250,230,0
 Turkish rose,#B57281,181,114,129
+Turkish Rose,#b57281,181,114,129
+Turmeric,#cabb48,202,187,72
 Turquoise,#40E0D0,64,224,208
 Turquoise blue,#00FFEF,0,255,239
 Turquoise green,#A0D6B4,160,214,180
 Turquoise Surf,#00C5CD,0,197,205
 Turtle green,#8A9A5B,138,154,91
+Turtle Green,#2a380b,42,56,11
 Tuscan,#FAD6A5,250,214,165
 Tuscan brown,#6F4E37,111,78,55
 Tuscan red,#7C4848,124,72,72
 Tuscan tan,#A67B5B,166,123,91
+Tuscany,#bd5e2e,189,94,46
 Tuscany,#C09999,192,153,153
+Tusk,#eef3c3,238,243,195
+Tussock,#c5994b,197,153,75
+Tutu,#fff1f9,255,241,249
+Twilight,#e4cfde,228,207,222
+Twilight Blue,#eefdff,238,253,255
 Twilight lavender,#8A496B,138,73,107
+Twine,#c2955d,194,149,93
 Twitter blue,#26A7DE,38,167,222
 Tyrian purple,#66023C,102,2,60
 UA blue,#0033AA,0,51,170
@@ -2903,13 +2810,25 @@ USAFA blue,#004F98,0,79,152
 USC Cardinal,#990000,153,0,0
 USC Gold,#FFCC00,255,204,0
 Utah Crimson,#D3003F,211,0,63
+Valencia,#d84437,216,68,55
+Valentino,#350e42,53,14,66
+Valhalla,#2b194f,43,25,79
 Vampire black,#080808,8,8,8
+Van Cleef,#49170c,73,23,12
 Van Dyke brown,#664228,102,66,40
+Vanilla,#d1bea8,209,190,168
 Vanilla,#F3E5AB,243,229,171
 Vanilla ice,#F38FA9,243,143,169
+Vanilla Ice,#f3d9df,243,217,223
+Varden,#fff6df,255,246,223
 Vegas gold,#C5B358,197,179,88
 Venetian red,#C80815,200,8,21
+Venetian Red,#72010f,114,1,15
+Venice Blue,#055989,5,89,137
+Venus,#928590,146,133,144
+Verdigris,#5d5e37,93,94,55
 Verdigris,#43B3AE,67,179,174
+Verdun Green,#495400,73,84,0
 Verizon Red,#CD040B,205,4,11
 Verizon Red (2000-2015),#EC1C24,236,28,36
 Vermilion,#E34234,227,66,52
@@ -2922,21 +2841,33 @@ Very light malachite green,#64E986,100,233,134
 Very light tangelo,#FFB077,255,176,119
 Very pale orange,#FFDFBF,255,223,191
 Very pale yellow,#FFFFBF,255,255,191
+Vesuvius,#b14a0b,177,74,11
+Victoria,#534491,83,68,145
+Vida Loca,#549019,84,144,25
+Viking,#64ccdb,100,204,219
 Vine Green,#38A32A,56,163,42
+Vin Rouge,#983d61,152,61,97
+Viola,#cb8fa9,203,143,169
+Violent Violet,#290c5e,41,12,94
+Violet,#240a40,36,10,64
 Violet,#8F00FF,143,0,255
-Violet (color wheel),#7F00FF,127,0,255
-Violet (crayola),#963D7F,150,61,127
-Violet (RYB),#8601AF,134,1,175
-Violet (web),#EE82EE,238,130,238
 Violet-blue,#324AB2,50,74,178
 Violet-blue (Crayola),#766EC8,118,110,200
+Violet (color wheel),#7F00FF,127,0,255
+Violet (crayola),#963D7F,150,61,127
 Violet-red,#F75394,247,83,148
 Violet-red,#891446,137,20,70
+Violet (RYB),#8601AF,134,1,175
 Violets Are Blue,#8366F4,131,102,244
+Violet (web),#EE82EE,238,130,238
 Violin Brown,#674403,103,68,3
 Viridian,#40826D,64,130,109
 Viridian green,#009698,0,150,152
+Viridian Green,#678975,103,137,117
 Vista blue,#7C9ED9,124,158,217
+Vista Blue,#8fd6b4,143,214,180
+Vista White,#fcf8f7,252,248,247
+Vis Vis,#ffefa1,255,239,161
 Vivaldi Red,#EF3939,239,57,57
 Vivid amber,#CC9900,204,153,0
 Vivid auburn,#922724,146,39,36
@@ -2961,53 +2892,107 @@ Vivid vermilion,#E56024,229,96,36
 Vivid violet,#9F00FF,159,0,255
 Vivid yellow,#FFE302,255,227,2
 Vodka,#BFC0EE,191,192,238
+Volcano,#651a14,101,26,20
 Volt,#CEFF00,206,255,0
+Voodoo,#533455,83,52,85
+Vulcan,#10121d,16,18,29
+Wafer,#decbc6,222,203,198
 Wageningen green,#34B233,52,178,51
+Waikawa Grey,#5a6e9c,90,110,156
+Waiouru,#363c0d,54,60,13
 Walmart blue,#007DC6,0,125,198
+Walmart blue (1962–1964),#0C5DA7,12,93,167
+Walmart blue (1964–1981),#030303,3,3,3
+Walmart blue (1981–1992),#1D2CA0,29,44,160
+Walmart blue (1992–2008),#2F39A8,47,57,168
 Walmart blue (Truck),#00317E,0,49,126
 Walmart blue (Website),#0879C9,8,121,201
-Walmart blue (1992–2008),#2F39A8,47,57,168
-Walmart blue (1981–1992),#1D2CA0,29,44,160
-Walmart blue (1964–1981),#030303,3,3,3
-Walmart blue (1962–1964),#0C5DA7,12,93,167
 Walmart Market Green,#A8F300,168,243,0
 Walmart Neighborhood Market Green,#88C021,136,192,33
-Walmart Neighborhood Market Green (2010-2011),#55C500,85,197,0
-Walmart Neighborhood Market Green (2008-2010),#327A28,50,122,40
 Walmart Neighborhood Market Green (1998-2008),#106B4A,16,107,74
+Walmart Neighborhood Market Green (2008-2010),#327A28,50,122,40
+Walmart Neighborhood Market Green (2010-2011),#55C500,85,197,0
+Walnut,#773f1a,119,63,26
+Wan White,#fcfff9,252,255,249
 Warm black,#004242,0,66,66
+Wasabi,#788a25,120,138,37
 Water,#D4F1F9,212,241,249
+Watercourse,#056f57,5,111,87
+Water Leaf,#a1e9de,161,233,222
+Waterloo,#7b7c94,123,124,148
 Watermelon,#F05C85,240,92,133
 Watermelon red,#BF4147,191,65,71
 Waterspout,#A4F4F9,164,244,249
+Wattle,#dcd747,220,215,71
+Watusi,#ffddcf,255,221,207
+Wax Flower,#ffc0a8,255,192,168
+Wedgewood,#4e7f9e,78,127,158
 Weebly Blue,#1F8EED,31,142,237
 Weebly Orange,#FF9A00,255,154,0
 Weldon Blue,#7C98AB,124,152,171
+Well Read,#b43332,180,51,50
 Wendy's Red,#DD1438,221,20,56
-Wendy's Red (2007-2013),#CD022D,205,2,45
-Wendy's Red (1975-2007),#ED1B24,237,27,36
-Wendy's Red (1971-1975),#EE3A43,238,58,67
 Wendy's Red (1969-1971),#EE3942,238,57,66
+Wendy's Red (1971-1975),#EE3A43,238,58,67
+Wendy's Red (1975-2007),#ED1B24,237,27,36
+Wendy's Red (2007-2013),#CD022D,205,2,45
 Wenge,#645452,100,84,82
+We Peep,#f7dbe6,247,219,230
+Westar,#dcd9d2,220,217,210
+West Coast,#625119,98,81,25
+Western Red,#8b0723,139,7,35
+West Side,#ff910f,255,145,15
+Wewak,#f19bab,241,155,171
 Wheat,#F5DEB3,245,222,179
+Wheatfield,#f3edcf,243,237,207
+Whiskey,#d59a6f,213,154,111
+Whiskey Sour,#db995e,219,153,94
+Whisper,#f7f5fa,247,245,250
 White,#FFFFFF,255,255,255
 White chocolate,#EDE6D6,237,230,214
 White coffee,#E6E0D4,230,224,212
+White Ice,#ddf9f1,221,249,241
+White Lilac,#f8f7fc,248,247,252
+White Linen,#f8f0e8,248,240,232
+White Nectar,#fcffe7,252,255,231
+White Pointer,#fef8ff,254,248,255
+White Rock,#eae8d4,234,232,212
 White smoke,#F5F5F5,245,245,245
 Wild blue yonder,#A2ADD0,162,173,208
 Wild orchid,#D470A2,212,112,162
+Wild Rice,#ece090,236,224,144
+Wild Sand,#f4f4f4,244,244,244
 Wild Strawberry,#FF43A4,255,67,164
 Wild watermelon,#FC6C85,252,108,133
+Wild Willow,#b9c46a,185,196,106
+William,#3a686c,58,104,108
+Willow Brook,#dfecda,223,236,218
+Willow Grove,#65745d,101,116,93
 Willpower orange,#FD5800,253,88,0
+Windsor,#3c0878,60,8,120
 Windsor tan,#A75502,167,85,2
 Wine,#722F37,114,47,55
-Wine red,#B11226,177,18,38
+Wine Berry,#591d35,89,29,53
 Wine dregs,#673147,103,49,71
+Wine red,#B11226,177,18,38
+Wintergreen Dream,#56887D,86,136,125
+Winter Hazel,#d5d195,213,209,149
 Winter Sky,#FF007C,255,0,124
 Winter Wizard,#A0E6FF,160,230,255
-Wintergreen Dream,#56887D,86,136,125
+Wisp Pink,#fef4f8,254,244,248
+Wisteria,#9771b5,151,113,181
 Wisteria,#C9A0DC,201,160,220
+Wistful,#a4a6d3,164,166,211
+Witch Haze,#fffc99,255,252,153
+Wood Bark,#261105,38,17,5
 Wood brown,#C19A6B,193,154,107
+Woodburn,#3c2005,60,32,5
+Woodland,#4d5328,77,83,40
+Woodrush,#302a0f,48,42,15
+Woodsmoke,#0c0d0f,12,13,15
+Woody Bay,#292130,41,33,48
+Woody Brown,#483131,72,49,49
+Xanadu,#738678,115,134,120
 Xanadu,#738678,115,134,120
 Xbox Green,#0E7A0D,14,122,13
 Xiaomi Orange,#FD4900,253,73,0
@@ -3018,23 +3003,39 @@ Yale Blue,#0F4D92,15,77,146
 Yankees blue,#1C2841,28,40,65
 Yellow,#FFFF00,255,255,0
 Yellow (Crayola),#FCE883,252,232,131
+Yellow-green,#9ACD32,154,205,50
+Yellow-green (Color Wheel),#30B21A,48,178,26
+Yellow-green (Crayola),#C5E384,197,227,132
+Yellow Metal,#716338,113,99,56
 Yellow (Munsell),#EFCC00,239,204,0
 Yellow (NCS),#FFD300,255,211,0
-Yellow (Pantone),#FEDF00,254,223,0
-Yellow (process),#FFEF00,255,239,0
-Yellow (RYB),#FEFE33,254,254,51
-Yellow-green,#9ACD32,154,205,50
-Yellow-green (Crayola),#C5E384,197,227,132
-Yellow-green (Color Wheel),#30B21A,48,178,26
 Yellow Orange,#FFAE42,255,174,66
 Yellow Orange (Color Wheel),#FF9505,255,149,5
+Yellow (Pantone),#FEDF00,254,223,0
+Yellow (process),#FFEF00,255,239,0
 Yellow rose,#FFF000,255,240,0
+Yellow (RYB),#FEFE33,254,254,51
+Yellow Sea,#fea904,254,169,4
 Yellow Sunshine,#FFF700,255,247,0
 YInMn Blue,#2E5090,46,80,144
+Your Pink,#ffc3c0,255,195,192
 Youtube red,#B2071D,178,7,29
+Yukon Gold,#7b6608,123,102,8
+Yuma,#cec291,206,194,145
 Zaffre,#0014A8,0,20,168
+Zambezi,#685558,104,85,88
+Zanah,#daecd6,218,236,214
 Zebra White,#F5F5F5,245,245,245
+Zest,#e5841b,229,132,27
+Zeus,#292319,41,35,25
+Ziggurat,#bfdbe2,191,219,226
 Zinnwaldite brown,#2C1608,44,22,8
+Zircon,#f4f8ff,244,248,255
+Zombie,#e4d69b,228,214,155
 Zomp,#39A78E,57,167,142
+Zorba,#a59b91,165,155,145
 ZTE Blue,#4286D2,66,134,210
 ZTE Blue (1985-2015),#2056AE,32,86,174
+Zuccini,#044022,4,64,34
+Zumthor,#edf6ff,237,246,255
+Zydeco,#02402c,2,64,44

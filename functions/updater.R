@@ -34,14 +34,19 @@ updater <- function(session, input, ref, selector = 'palette') {
     # update_col_name(session, hex, ref)
     updateTextInput(session, inputId = 'hex_in', value = hex)
     updateColourInput(session, inputId = 'col_palette', value = hex)
-  } else if (selector == 'name_known') {
-    # color_found <- getColorbyName(input$col_name_known, ref)
-    color_found <- ref[ref$color_name == input$col_name_known] %>% .[1]
+  } else if (selector == 'color_name') {
+    color_found <- ref[ref$color_name == input$col_name, ] %>% .[1, ]
     if (!is.null(color_found)) {
       updateTextInput(session, inputId = 'hex_in', value = color_found$hex)
       updateColourInput(session, inputId = 'col_palette', value = color_found$hex)
       update_rgb_slider(session, color_found)
       updateTextInput(session, inputId = 'col_name', value = input$col_name_known)
     }
+  } else if (selector == 'add_color') {
+    updateSelectInput(session, inputId = 'col_name', choices = dat$color_name, selected = 'White')
+    updateTextInput(session, inputId = 'add_color_name', value = '', placeholder = 'Please enter the color name')
+    updateTextInput(session, inputId = 'add_color_hex', value = '', placeholder = 'Enter HEX color code, e.g. #FFFFFF')
+    updateTextInput(session, inputId = 'add_color_rgb', value = '', placeholder = 'Enter RGB color code, e.g. 255,255,255')
+    updateButton(session, inputId = 'add_apply', label = 'Apply', icon = icon(name = NULL), style = 'warning', disabled = T)
   }
 }

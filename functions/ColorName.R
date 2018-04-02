@@ -10,4 +10,3 @@ getColorbyName <- function(col_name, ref) {
     return(NULL)
   return(cols_found[1, ])
 }
-#get color name by the code

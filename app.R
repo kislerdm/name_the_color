@@ -7,17 +7,15 @@ source('app_settings.R', verbose = F, echo = F)
 server <- function(input, output, session) {
   source('app_settings_reactive.R')
   #read the colors data
-  dat <- fread('colors.csv')
+  dat <<- getDBConnection(user = credentials$user, pass = credentials$pass) %>% getDBQuery(., q_fetch_all_colors)
   #update known colors dropdown menue
-  updateSelectInput(session, 'col_name_known', choices = dat$color_name[order(dat$color_name)], selected = 'White')
+  updateSelectInput(session, 'col_name', choices = dat$color_name, selected = 'White')
   #update selectors on the color name input
-  observeEvent(input$col_name_known, updater(session, input, ref = dat, selector = 'name_known'))
-  #output selected palette color
+  observeEvent(input$col_name, updater(session, input, ref = dat, selector = 'color_name'))
+  # #output selected palette color
   output$col_palette_sel <- renderUI({
     color_name_guess <- findNearestColor(input$r_in, input$g_in, input$b_in, dat, 1)
-    return(
-      HTML(paste0("<strong>Guess color name</strong>: ", color_name_guess$color_name))
-    )
+    return( HTML(paste0("<strong>Guess color name</strong>: ", color_name_guess$color_name)) )
   })
   #update selectors on color palette input
   observeEvent(input$col_palette, updater(session, input, ref = dat, selector = 'palette'), autoDestroy = T)
@@ -27,6 +25,27 @@ server <- function(input, output, session) {
   observeEvent(input$r_in, updater(session, input, ref = dat, selector = 'rgb'), autoDestroy = T)
   observeEvent(input$g_in, updater(session, input, ref = dat, selector = 'rgb'), autoDestroy = T)
   observeEvent(input$b_in, updater(session, input, ref = dat, selector = 'rgb'), autoDestroy = T)
+  
+  ## logic to add new color
+  # verify the color data input
+  observe({
+    input_check <- ColorAddVerificator(input)
+    if (!is.null(input_check)) {
+      updateButton(session, 'add_apply', label = "  Apply", icon = icon(name = "ok-sign", lib = 'glyphicon'), style = 'success', disabled = F)
+      observeEvent(input$add_apply, {
+        updateButton(session, 'add_apply', label = 'Writing to DB...', icon = icon(name = 'spinner', class = 'fa-pulse fa-fw', lib = 'font-awesome'), disabled = T)
+        db_write_ok <- ColorAdddDB(credentials, query = q_add_color, color_info = input_check)
+        if (!db_write_ok) {
+          updateButton(session, 'add_apply', label = 'Error...', icon = icon(name = NULL), style = 'danger', disabled = T)
+        } else {
+          dat <<- getDBConnection(user = credentials$user, pass = credentials$pass) %>% getDBQuery(., q_fetch_all_colors)
+          updater(session, input, ref = dat, selector = 'add_color')
+        }
+      }, autoDestroy = T)
+    } else {
+      updateButton(session, 'add_apply', icon = icon(name = NULL), style = 'warning', disabled = T)
+    }
+  })
 }
 
 shinyApp(ui, server, enableBookmarking = 'url')

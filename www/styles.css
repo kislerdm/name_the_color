@@ -1,0 +1,55 @@
+/* 
+Name the Color App
+author: D.Kisler <admin@dkisler.de>
+CSS */
+
+/* header */
+.skin-blue .main-header .logo {
+  background: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet); /* rainbow fill */
+  font-color: "#F0FFFF";
+  font-size: 25px;
+  font-weight: bold;
+}
+.skin-blue .main-header .logo:hover {
+  background: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+  font-color: "#F0FFFF";
+  font-size: 25px;
+  font-weight: bold;
+}
+
+/* color selecor box */
+#col_palette.form-control {
+  height: 80px;
+}
+
+/* hex in/out field */
+#hex_in.form-control {
+  height: 40px;
+  font-size: 20px;
+  text-align: center;
+}
+/* input color name to guess */
+#col_name.form-control {
+  height: 34px;
+  font-size: 20px;
+  text-align: center;
+}
+
+#final_text {
+    text-align: center;
+}
+
+/* boxes headers */
+.skin-blue .main-header .navbar {
+  background-color: #009C88;
+}
+.skin-blue .main-header .navbar:hover {
+  background-color: #009C88;
+}
+
+div.box-header {
+    text-align: center;
+    color: #fff;
+    background: #009C88;
+    background-color: #009C88;
+}

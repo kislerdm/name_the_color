@@ -18,15 +18,13 @@ server <- function(input, output, session) {
     return( HTML(paste0("<strong>Guess color name</strong>: ", color_name_guess$color_name)) )
   })
   #show the tot numb of colors in DB
-  output$n_cols <- renderUI( HTML(paste0("<strong>Numb. of colors in DB</strong>: ", nrow(dat))) ) 
+  output$n_cols <- isolate( renderUI( HTML(paste0("<strong>Numb. of colors in DB</strong>: ", nrow(dat))) ) )
   #update selectors on color palette input
   observeEvent(input$col_palette, updater(session, input, ref = dat, selector = 'palette'), autoDestroy = T)
   #update selectors on hex code input
   observeEvent(input$hex_in, updater(session, input, ref = dat, selector = 'hex'), autoDestroy = T)
   #update selectors on rgb slider input
-  observeEvent(input$r_in, updater(session, input, ref = dat, selector = 'rgb'), autoDestroy = T)
-  observeEvent(input$g_in, updater(session, input, ref = dat, selector = 'rgb'), autoDestroy = T)
-  observeEvent(input$b_in, updater(session, input, ref = dat, selector = 'rgb'), autoDestroy = T)
+  observeEvent((input$r_in | input$g_in | input$b_in), updater(session, input, ref = dat, selector = 'rgb'), autoDestroy = T)
   
   ## logic to add new color
   # verify the color data input
@@ -40,7 +38,9 @@ server <- function(input, output, session) {
         if (!db_write_ok) {
           updateButton(session, 'add_apply', label = 'Error...', icon = icon(name = NULL), style = 'danger', disabled = T)
         } else {
+          #if new color was added, update fetched data and the 'add color popup'
           dat <<- getDBConnection(user = credentials$user, pass = credentials$pass) %>% getDBQuery(., q_fetch_all_colors)
+          output$n_cols <- renderUI( HTML(paste0("<strong>Numb. of colors in DB</strong>: ", nrow(dat))) ) 
           updater(session, input, ref = dat, selector = 'add_color')
         }
       }, autoDestroy = T)

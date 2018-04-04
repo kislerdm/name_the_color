@@ -1,7 +1,6 @@
 #### Name the Color App
 ## author: D.Kisler <admin@dkisler.de>
-## inspired by http://chir.ag/projects/name-that-color
-#selectors updater function
+# selectors updater function
 #
 update_rgb_slider <- function(session, rgb) {
   for (iCol in c('r', 'g', 'b') )

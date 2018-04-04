@@ -6,15 +6,20 @@ CSS */
 /* header */
 .skin-blue .main-header .logo {
   background: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet); /* rainbow fill */
-  font-color: "#F0FFFF";
+  color: #fff;
   font-size: 25px;
   font-weight: bold;
 }
 .skin-blue .main-header .logo:hover {
   background: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
-  font-color: "#F0FFFF";
+  color: #fff;
   font-size: 25px;
   font-weight: bold;
+}
+
+/* navbar header */
+.skin-blue .main-header .navbar {
+  min-height: 0;
 }
 
 /* color selecor box */
@@ -25,12 +30,14 @@ CSS */
 #col_palette_sel {
   font-size: 18px;
 }
+
 /* hex in/out field */
 #hex_in.form-control {
   height: 40px;
   font-size: 20px;
   text-align: center;
 }
+
 /* input color name to guess */
 #col_name.form-control {
   height: 34px;
@@ -59,14 +66,6 @@ CSS */
   text-align: center;
 }
 
-/* boxes headers */
-.skin-blue .main-header .navbar {
-  background-color: #009C88;
-}
-.skin-blue .main-header .navbar:hover {
-  background-color: #009C88;
-}
-
 /* Add color popup */
 
 .nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
@@ -74,7 +73,9 @@ CSS */
   border-top-color: #009C88;
 }
 
-div.box-header {
+/* Box headers */
+
+.box-header {
     text-align: center;
     color: #fff;
     background: #009C88;

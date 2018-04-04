@@ -12,11 +12,13 @@ server <- function(input, output, session) {
   updateSelectInput(session, 'col_name', choices = dat$color_name, selected = sample(dat$color_name, 1))
   #update selectors on the color name input
   observeEvent(input$col_name, updater(session, input, ref = dat, selector = 'color_name'))
-  # #output selected palette color
+  #output selected palette color
   output$col_palette_sel <- renderUI({
     color_name_guess <- findNearestColor(input$r_in, input$g_in, input$b_in, dat, 1)
     return( HTML(paste0("<strong>Guess color name</strong>: ", color_name_guess$color_name)) )
   })
+  #show the tot numb of colors in DB
+  output$n_cols <- renderUI( HTML(paste0("<strong>Numb. of colors in DB</strong>: ", nrow(dat))) ) 
   #update selectors on color palette input
   observeEvent(input$col_palette, updater(session, input, ref = dat, selector = 'palette'), autoDestroy = T)
   #update selectors on hex code input

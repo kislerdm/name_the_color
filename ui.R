@@ -17,6 +17,7 @@ body <- dashboardBody(
                        column(3, 
                               selectInput('col_name', label = 'Display Color by Name', choices = 'White', multiple = F),
                               bsButton('add_color', label = 'Add Color', icon = icon(name = 'plus', lib = 'font-awesome'), style = 'success'),
+                              tags$div(id = 'numb_of_cols', uiOutput('n_cols'), align = 'center', style = 'padding-top: 10px'),
                               bsPopover('add_color', title = NULL, content = 'Cannot find your color? Please add it!',  
                                         placement = "bottom", trigger = "hover", options = NULL),
                               # add new color popup

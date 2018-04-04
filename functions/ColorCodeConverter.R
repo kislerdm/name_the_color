@@ -1,3 +1,5 @@
+#### Name the Color App
+## author: D.Kisler <admin@dkisler.de>
 ## function to convert hex to rgb
 hex2rgb <- function(hex) {
   if(!grepl('^#', hex))

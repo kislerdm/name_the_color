@@ -4,6 +4,6 @@ Even though, there is a nice <a href='http://chir.ag/projects/name-that-color' t
 
 If it happened that you cannot identify your color, please feel free to add it into the data base, I'll appreciate it.
 
-The colors data (*name, hex and rgb codes*) are from the folowing sources (see <a href='https://github.com/kislerdm/name_the_color/blob/master/get_colors_info.ipynb' target='blank_'>details</a>) : <a href='http://people.csail.mit.edu/jaffer/Color/resenecolours.txt' target='blank_'>colors list</a>, <a href="https://en.wikipedia.org/wiki/List_of_colors:_A%E2%80%93F" target='blank_'>wiki</a>.
+The colors data (*name, hex and rgb codes*) are from the folowing sources (see <a href='https://github.com/kislerdm/name_the_color/blob/master/get_colors_info.ipynb' target='blank_'>details</a>) : <a href='http://people.csail.mit.edu/jaffer/Color/resenecolours.txt' target='blank_'>colors list</a> (copyrighted to <a href='http://www.resene.co.nz/' target='blank_'>Copyright Resene Paints Ltd</a>, 2001), <a href="https://en.wikipedia.org/wiki/List_of_colors:_A%E2%80%93F" target='blank_'>wiki</a>.
 
 Find more of my apps <a href='https://www.dkisler.de' target='blank_'>here</a>. Feel free to drop me a line via <a href='mailto:admin@dkisler.de' target='blank_'>email</a> or <a href='https://www.linkedin.com/in/dkisler' target='blank_'>LinkedIn</a> to leave a comment.
